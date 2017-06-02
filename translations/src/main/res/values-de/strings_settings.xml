@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="settings_category_localization">Lokalisierung</string>
+    <string name="settings_localization_time_format">Zeitformat</string>
+    <string name="settings_localization_coordinate_format">Koordinatenformat</string>
+    <string name="settings_category_notifications">Benachrichtungen</string>
+    <string name="settings_week_start">Wochenstart</string>
+    <string name="settings_notifications_sound">Sound</string>
+    <string name="settings_notifications_vibrate">Vibration</string>
+    <string name="settings_notifications_light">Licht</string>
+    <string name="settings_category_information">Informationen</string>
+    <string name="settings_more_from_developer">Mehr vom Entwickler</string>
+    <string name="settings_about">Über</string>
+    <string name="settings_change_log">Programmänderungen</string>
+    <string name="settings_change_log_summary">Liste der Veränderungen am Programm, inklusiv des vergangenen Updates</string>
+    <string name="settings_info">Infos</string>
+    <string name="settings_open_source_licences">Open Source Lizenzen</string>
+
+    <!-- entries -->
+    <string name="light_off">Aus</string>
+    <string name="light_default">Standard</string>
+
+    <string name="notification_tone">Benachrichtungston</string>
+
+    <string name="sound_off">Aus</string>
+
+    <string name="time_format_regional">Regionale Einstellungen</string>
+    <string name="time_format_hmma">1:00 PM</string>
+    <string name="time_format_Hmm">13:00</string>
+
+    <string name="vibrate_off">Aus</string>
+    <string name="vibrate_default">Standard</string>
+    <string name="vibrate_short">Kurz</string>
+    <string name="vibrate_long">Lang</string>
+
+    <string name="week_start_regional">Regionale Einstellungen</string>
+    <string name="week_start_saturday">Samstag</string>
+    <string name="week_start_sunday">Sonntag</string>
+    <string name="week_start_monday">Montag</string>
+
+    <string name="notify_60_minutes_before">60 Minuten bevor</string>
+    <string name="notify_55_minutes_before">55 Minuten bevor</string>
+    <string name="notify_50_minutes_before">50 Minuten bevor</string>
+    <string name="notify_45_minutes_before">45 Minuten bevor</string>
+    <string name="notify_40_minutes_before">40 Minuten bevor</string>
+    <string name="notify_35_minutes_before">35 Minuten bevor</string>
+    <string name="notify_30_minutes_before">30 Minuten bevor</string>
+    <string name="notify_25_minutes_before">25 Minuten bevor</string>
+    <string name="notify_20_minutes_before">20 Minuten bevor</string>
+    <string name="notify_15_minutes_before">15 Minuten bevor</string>
+    <string name="notify_10_minutes_before">10 Minuten bevor</string>
+    <string name="notify_5_minutes_before">5 Minuten bevor</string>
+    <string name="notify_at_time_of_event">Zum Zeitpunkt des Events</string>
+    <string name="notify_5_minutes_after">5 Minuten danach</string>
+    <string name="notify_10_minutes_after">10 Minuten danach</string>
+    <string name="notify_15_minutes_after">15 Minuten danach</string>
+    <string name="notify_20_minutes_after">20 Minuten danach</string>
+    <string name="notify_25_minutes_after">25 Minuten danach</string>
+    <string name="notify_30_minutes_after">30 Minuten danach</string>
+    <string name="notify_35_minutes_after">35 Minuten danach</string>
+    <string name="notify_40_minutes_after">40 Minuten danach</string>
+    <string name="notify_45_minutes_after">45 Minuten danach</string>
+    <string name="notify_50_minutes_after">50 Minuten danach</string>
+    <string name="notify_55_minutes_after">55 Minuten danach</string>
+    <string name="notify_60_minutes_after">60 Minuten danach</string>
+
+</resources>

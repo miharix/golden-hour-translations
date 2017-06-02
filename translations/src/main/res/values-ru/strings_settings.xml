@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="settings_category_localization">Локализация</string>
+    <string name="settings_localization_time_format">Формат времени</string>
+    <string name="settings_localization_coordinate_format">Формат координат</string>
+    <string name="settings_category_notifications">Настройки уведомлений</string>
+    <string name="settings_week_start">Начало недели</string>
+    <string name="settings_notifications_sound">Звук</string>
+    <string name="settings_notifications_vibrate">Вибрация</string>
+    <string name="settings_notifications_light">Свет</string>
+    <string name="settings_category_information">Информация</string>
+    <string name="settings_more_from_developer">Другие приложения разработчика</string>
+    <string name="settings_about">О программе</string>
+    <string name="settings_change_log">Список изменений</string>
+    <string name="settings_change_log_summary">Описание изменений включенных в предыдущие обновления</string>
+    <string name="settings_info">Справка</string>
+    <string name="settings_open_source_licences">Лицензии открытого ПО</string>
+
+    <!-- entries -->
+    <string name="light_off">Выкл.</string>
+    <string name="light_default">По умолчанию</string>
+
+    <string name="notification_tone">Звук уведомления</string>
+
+    <string name="sound_off">Выкл.</string>
+
+    <string name="time_format_regional">Региональные установки</string>
+    <string name="time_format_hmma">1:00 PM</string>
+    <string name="time_format_Hmm">13:00</string>
+
+    <string name="vibrate_off">Выкл.</string>
+    <string name="vibrate_default">По умолчанию</string>
+    <string name="vibrate_short">Короткий</string>
+    <string name="vibrate_long">Длинный</string>
+
+    <string name="week_start_regional">Региональные установки</string>
+    <string name="week_start_saturday">Суббота</string>
+    <string name="week_start_sunday">Воскресенье</string>
+    <string name="week_start_monday">Понедельник</string>
+
+    <string name="notify_60_minutes_before">За 60 минут</string>
+    <string name="notify_55_minutes_before">За 55 минут</string>
+    <string name="notify_50_minutes_before">За 50 минут</string>
+    <string name="notify_45_minutes_before">За 45 минут</string>
+    <string name="notify_40_minutes_before">За 40 минут</string>
+    <string name="notify_35_minutes_before">За 35 минут</string>
+    <string name="notify_30_minutes_before">За 30 минут</string>
+    <string name="notify_25_minutes_before">За 25 минут</string>
+    <string name="notify_20_minutes_before">За 20 минут</string>
+    <string name="notify_15_minutes_before">За 15 минут</string>
+    <string name="notify_10_minutes_before">За 10 минут</string>
+    <string name="notify_5_minutes_before">За 5 минут</string>
+    <string name="notify_at_time_of_event">Во время события</string>
+    <string name="notify_5_minutes_after">Спустя 5 минут</string>
+    <string name="notify_10_minutes_after">Спустя 10 минут</string>
+    <string name="notify_15_minutes_after">Спустя 15 минут</string>
+    <string name="notify_20_minutes_after">Спустя 20 минут</string>
+    <string name="notify_25_minutes_after">Спустя 25 минут</string>
+    <string name="notify_30_minutes_after">Спустя 30 минут</string>
+    <string name="notify_35_minutes_after">Спустя 35 минут</string>
+    <string name="notify_40_minutes_after">Спустя 40 минут</string>
+    <string name="notify_45_minutes_after">Спустя 45 минут</string>
+    <string name="notify_50_minutes_after">Спустя 50 минут</string>
+    <string name="notify_55_minutes_after">Спустя 55 минут</string>
+    <string name="notify_60_minutes_after">Спустя 60 минут</string>
+
+</resources>

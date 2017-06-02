@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="change_log_description">
+        <![CDATA[
+        <html>
+            <head>
+                <style>
+                    p {
+                        margin-top: 0em;
+                        margin-bottom: 0em;
+                    }
+                    h3 {
+                        margin-top: 0em;
+                        margin-bottom: 0em;
+                    }
+                    div {
+                        margin-top: 1em;
+                        margin-bottom: 1em;
+                        margin-right: 0.2em;
+                        padding-left: 4px;
+                        padding-right: 4px;
+                    }
+                    ul {
+                        -webkit-padding-start: 1em;
+                        list-style-position: outside;
+                    }
+                </style>
+            </head>
+            <body>
+                <div>
+
+                    <div align="left">
+                        <h3>Neu in der 2.2</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>New: App translated to German.</li>
+                            <li>New: Weekdays added to notification settings.</li>
+                            <li>New: Notifications moved to main menu. Independent settings for location + event.</li>
+                            <li>Korrigiert: Fehlerbehebung und diverse Verbesserungen</li>
+                            <li>Ein großes Danke an alle, jene die App bewertet haben, der Beta-Testgruppe beigetreten sind, Vorschläge gemacht haben und natürlich Fehlerberichte geschickt haben.
+                            <br>Euere Unterstützung wird sehr geschätzt.</li>
+                        </ul>
+						Treten Sie der Beta-Testgruppe bei, um neueste Features zu sehen, ehe sie veröffentlicht werden.<br>
+						Gehen Sie dafür ins Menü =&gt; Unterstütze das Projekt um der Gruppe beizutreten.<br>
+                        <br>
+                        Coming next in v2.3:
+                        <ul>
+                            <li>Alarms.</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>Neu in der 2.1</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>Neu: Widgets.</li>
+                            <li>Korrigiert: Fehlerbehebung und diverse Verbesserungen</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>Neu in der 2.0</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>Neu: Die Karte kann nun auch in der Satelitenansicht betrachtet werden.</li>
+                            <li>Neu: Zeitformat Einstellungen (12 und 24 Stundenformat).</li>
+                            <li>Neu: Koordinatenformat kann eingestellt werden.</li>
+                            <li>Neu: Jetzt können Sie für die Benachrichtung Ihre Klingeltöne nutzen.</li>
+                            <li>Verbessert: Aktueller Positionsmodus.</li>
+                            <li>Verbessert: Benachrichtigungen.</li>
+                            <li>Verbessert: Benutzeroberfläche.</li>
+                            <li>Verbessert: Zeitzonen-Datenbank aktualisiert.</li>
+                            <li>Korrigiert: Das Abschalten der Benachrichtungen funktioniert nun.</li>
+                            <li>Korrigiert: Benachrichtungen unter Andrion 7.</li>
+                            <li>Korrigiert: Bekannte Fehler behoben, neue hinzugefügt</li>
+                        </ul>
+                        Neues in der Version 2.1:
+                        <ul>
+                            <li>Widgets.</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>Neu in 1.2</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>Neu: <u>Benachrichtigungen</u>.&nbsp;Sie haben jetzt die Möglichkeit, Benachrichtigungen für kommende Sonnenauf- und untergänge sowie für die goldene Stunde hinzuzufügen.
+                            <br>Um Benachtichtungen zu aktivieren, gehen Sie in die Einstellungen und aktivieren dort selbige.
+							<br>Optional haben Sie die Möglichkeit, den Benachrichtungston, die Vibration sowie das LED Licht (sofern vom Gerät unterstützt) dort zu aktivieren bzw. einzustellen.</li>
+							<li>Neu: Ländernamen zu den Positionseigenschaften hinzugefügt (für neu hinzugefügte Positionen).</li>
+							<li>Verbessert: Benutzeroberfläche.</li>
+							<li>Verbessert: Zeitzonen-Datenbank aktualisiert</li>
+							<li>Neu: Änderungslogbuch (dieses hier) hinzugefügt.</li>
+							<li>Korrigiert: Fehler behoben und verschiedene Verbesserungen realisiert.</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>Neu in 1.1</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>Neu: Kartenmodus hinzugefügt.</li>
+                            <li>Verbessert: Android 6 (Marshmallow) wird ab sofort unterstützt.</li>
+                            <li>Verbessert: Zeitzonen-Datenbank aktualisiert.</li>
+                            <li>Korrigiert: Fehler behoben und verschiedene Verbesserungen realisiert.</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </body>
+        </html>
+        ]]>
+    </string>
+
+</resources>

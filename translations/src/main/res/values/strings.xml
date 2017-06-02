@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Alarm</string>
+    <string name="activity_alarm_settings">Alarms</string>
+    <string name="activity_edit_locations">Edit Locations</string>
+    <string name="activity_notification_setting">Notification</string>
+    <string name="activity_notification_settings">Notifications</string>
+    <string name="activity_select_location">Select Location</string>
+    <string name="activity_settings">Settings</string>
+    <string name="activity_support_this_project">Support this project</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Rise &amp; Set</string>
+    <string name="widget_sun_table">Table</string>
+    <string name="widget_sun_tiles">Tiles</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit_location">Edit Location</string>
+
+    <string name="day_phase_golden_hour_description">
+        In photography, the golden hour (sometimes known as magic hour, especially in cinematography) is a period shortly after sunrise or before sunset during which daylight is redder and softer compared to when the Sun is higher in the sky.\nThe term \"hour\" is used figuratively; the effect has no clearly defined duration and varies according to season and latitude.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        The blue hour is the period of twilight each morning and evening when the sun is a significant distance below the horizon and the residual, indirect sunlight takes on a predominantly blue hue.\nDuring the blue \"hour\", red light passes straight into space while blue light is scattered in the atmosphere and therefore reaches the earth\'s surface.\nBecause of the quality of the light, this period is treasured by artists.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        Morning civil twilight begins when the geometric center of the sun is 6° below the horizon (civil dawn) and ends at sunrise.\nEvening civil twilight begins at sunset and ends when the geometric center of the sun reaches 6° below the horizon (civil dusk).\nCivil twilight can also be described as the limit at which twilight illumination is sufficient, under clear weather conditions, for terrestrial objects to be clearly distinguished.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        During nautical twilight, the horizon is clearly visible, but artificial lighting must be used to see terrestrial objects clearly.\nMorning nautical twilight is defined to begin when the center of the sun is geometrically 12 degrees below the horizon and to end at sunrise.\nEvening nautical twilight is defined to begin at sunset and end when the center of the sun is 12 degrees below the horizon.\nIn general, nautical twilight ends when navigation via the horizon at sea is no longer possible.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        Morning astronomical twilight is defined to begin when the center of the sun is geometrically 18 degrees below the horizon and to end at sunrise.\nEvening astronomical twilight is defined to begin at sunset and end when the center of the sun is 18 degrees below the horizon.\nFrom the end of astronomical twilight in the evening to the beginning of astronomical twilight in the morning, the sky (away from urban light pollution) is dark enough for all astronomical observations.
+    </string>
+    <string name="day_phase_info_source">wikipedia</string>
+    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Current Location</string>
+    <string name="search_location_hint">Search by location name</string>
+
+    <!-- menu -->
+    <string name="action_delete">Delete</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_map">Map</string>
+    <string name="action_select_date">Select date</string>
+    <string name="action_satellite_map">Satellite map</string>
+
+    <!-- notifications -->
+    <string name="local_time">Local time</string>
+    <string name="wait">Please wait…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">The Golden Hour App has some nice features for finding the time of sunrise or sunset - you can download the new version at: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Today</string>
+
+    <string name="developer_name">Oleg Kan</string>
+    <string name="project_page_donate">https://simplaapliko.com/#donate</string>
+
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="event">Event</string>
+    <string name="every_day">Every day</string>
+    <string name="label_optional">Label (optional)</string>
+    <string name="select_event">Select Event</string>
+    <string name="select_location">Select Location</string>
+    <string name="task_setting_incomplete">Location and Event cannot be empty</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Join a testing program for an unreleased version of the app</string>
+    <string name="beta_program_description">If you want to test experimental features of the app before they’re released, you can join the beta tester program.\n
+        As a beta tester, you\’ll be able to use features that haven’t been released to the public. These features could become available to the public in the future. We ask that you don’t publicize or share the features you’re testing until they’re publicly launched.\n
+        By beta testing, you’ll become an important part of the app’s development. Your participation and feedback will help us release a better version of the app.\n
+        Please note that testing versions may be unstable or have a few bugs.</string>
+    <string name="thanks_to_translators">Thanks to translators:</string>
+    <string name="translate_to_your_language">Contact developer for further information</string>
+    <string name="translate_to_your_language_description">You can help to translate this app to your language</string>
+    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
+    <string name="translate_to_your_language_subject">Translation</string>
+
+    <!-- -->
+    <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDisable alarms if app is crashing at the time of alarm.</string>
+    <string name="connection_not_available">Sorry, the service is not available.\nCheck internet connection.</string>
+    <string name="disable_current_location">Disable current location</string>
+    <string name="location_limit_reached">Location limit reached.\nRemove a location if you would like to add more.</string>
+    <string name="location_service_not_available">Service is not available.\nCheck location service.</string>
+    <string name="location_service_is_turned_off">Location service is turned off</string>
+    <string name="notifications_warning">Please be aware that notifications might not work properly on some devices (mostly on Samsungs).\nDisable notifications if app is crashing at the time of notification.</string>
+    <string name="must_have_one_location">Application must have at least 1 location.</string>
+
+    <string name="permission_access_fine_location">Location permission is needed to get current location.</string>
+    <string name="turn_on">Turn On</string>
+    <string name="database_error">Database error</string>
+    <string name="notification_already_exist">Not saved, notification already exist</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="alarm_default_title">Alarm</string>
+
+    <string name="alarm_dismiss_now_text">Dismiss Now</string>
+    <string name="alarm_dismiss_text">Dismiss</string>
+    <string name="alarm_snooze_text">Snooze</string>
+    <string name="alarm_upcoming">Upcoming alarm</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Night</string>
+    <string name="sun_phase_twilight_astronomical">Astronomical twilight</string>
+    <string name="sun_phase_twilight_nautical">Nautical twilight</string>
+    <string name="sun_phase_twilight_civil">Civil twilight</string>
+    <string name="sun_phase_blue_hour">Blue hour</string>
+    <string name="sun_phase_golden_hour">Golden hour</string>
+    <string name="sun_phase_twilight_official">Official twilight</string>
+    <string name="sun_phase_day">Day</string>
+    <string name="sun_phase_morning">Morning</string>
+    <string name="sun_phase_evening">Evening</string>
+
+    <string name="sun_position_sunrise">Sunrise</string>
+    <string name="sun_position_sunset">Sunset</string>
+    <string name="sun_position_duration">Duration</string>
+    <string name="sun_position_noon">Noon</string>
+
+</resources>
