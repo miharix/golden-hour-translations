@@ -37,19 +37,19 @@
     <string name="edit_location">Position editieren</string>
 
     <string name="day_phase_golden_hour_description">
-		In der Fotografie ist die goldene Stunde (manchmal auch als magische Stunde bekannt, vor allem in der Kinematographie). Es ist eine Periode kurz nach Sonnenaufgang oder kurz vor Sonnenuntergang. Genau in diesem Moment ist das Tageslicht röter und weicher im Vergleich zum Sonnenhochstand.\nDer Begriff "Stunde" wird nur bildlich verwendet. Sie hat keine klar definierte Dauer und variiert je nach Jahreszeit und Breitengrad.
+        In der Fotografie ist die goldene Stunde (manchmal auch als magische Stunde bekannt, vor allem in der Kinematographie). Es ist eine Periode kurz nach Sonnenaufgang oder kurz vor Sonnenuntergang. Genau in diesem Moment ist das Tageslicht röter und weicher im Vergleich zum Sonnenhochstand.\nDer Begriff "Stunde" wird nur bildlich verwendet. Sie hat keine klar definierte Dauer und variiert je nach Jahreszeit und Breitengrad.
     </string>
     <string name="day_phase_blue_hour_description">
-		Die blaue Stunde ist die Zeit in der Morgen- und Abenddämmerung, wenn die Sonne knapp unter dem Horizont ist und das indirekte Sonnenlicht einen überwiegend blauen Farbton annimmt.\nDieses Ereignis wird vor allem sehr von Künstlern geschätzt.
+        Die blaue Stunde ist die Zeit in der Morgen- und Abenddämmerung, wenn die Sonne knapp unter dem Horizont ist und das indirekte Sonnenlicht einen überwiegend blauen Farbton annimmt.\nDieses Ereignis wird vor allem sehr von Künstlern geschätzt.
     </string>
     <string name="day_phase_twilight_civil_description">
-		Die morgendliche zivile Dämmerung beginnt damit, wenn die geometrische Mitte der Sonne genau 6° unterhalb des Horizonts (zivile Morgendämmerung) ist und endet mit dem Sonnenaufgang.\nDie zivile Abenddämmerung beginnt bei Sonnenuntergang und endet, wenn die geometrische Mitte der Sonne 6° unterhalb des Horizonts (zivile Dämmerung) erreicht.\nDie Zivile Dämmerung kann auch als die Grenze bezeichnet werden, bei der das Dämmerlicht bei klaren Witterungsbedingungen ausreicht, terrestrische Objekte klar zu unterscheiden.
+        Die morgendliche zivile Dämmerung beginnt damit, wenn die geometrische Mitte der Sonne genau 6° unterhalb des Horizonts (zivile Morgendämmerung) ist und endet mit dem Sonnenaufgang.\nDie zivile Abenddämmerung beginnt bei Sonnenuntergang und endet, wenn die geometrische Mitte der Sonne 6° unterhalb des Horizonts (zivile Dämmerung) erreicht.\nDie Zivile Dämmerung kann auch als die Grenze bezeichnet werden, bei der das Dämmerlicht bei klaren Witterungsbedingungen ausreicht, terrestrische Objekte klar zu unterscheiden.
     </string>
     <string name="day_phase_twilight_nautical_description">
-		Bei der nautischen Dämmerung ist der Horizont deutlich sichtbar, aber es muss schon künstliche Beleuchtung verwendet werden, um terrestrische Objekte klar sehen zu können.\nDie morgendliche nautische Dämmerung definiert sich dadurch, daß die geometrische Mitte der Sonne 12° unterhalb des Horizonts beginnt und mit dem Sonnenaufgang endet.\nDie abendliche nautische Dämmerung definiert sich dadurch, daß die geometrische Mitte der Sonne 12 Grad unterhalb des Horizonts beginnt und mit dem Sonnenuntergang endet, wenn die Navigation auf hoher See mittels des Horizonts nicht mehr möglich ist.
+        Bei der nautischen Dämmerung ist der Horizont deutlich sichtbar, aber es muss schon künstliche Beleuchtung verwendet werden, um terrestrische Objekte klar sehen zu können.\nDie morgendliche nautische Dämmerung definiert sich dadurch, daß die geometrische Mitte der Sonne 12° unterhalb des Horizonts beginnt und mit dem Sonnenaufgang endet.\nDie abendliche nautische Dämmerung definiert sich dadurch, daß die geometrische Mitte der Sonne 12 Grad unterhalb des Horizonts beginnt und mit dem Sonnenuntergang endet, wenn die Navigation auf hoher See mittels des Horizonts nicht mehr möglich ist.
     </string>
     <string name="day_phase_twilight_astronomical_description">
-		Der Beginn morgendliche astronomische Dämmerung definiert sich dadurch, dass die geometrische Mitte der Sonne 18 Grad unterhalb des Horizontes ist und endet damit, wenn die Sonne aufgegangen ist.\nBei der abendlichen astronomischen Dämmerung ist es umgekehrt der Fall. Sie beginnt, wenn die geometrische Mitte der Sonne 18 Grad unter dem Horizont liegt und endet damit, wenn sie untergegangen ist.\nVom Ende der abendlichen astronomischen Dämmerung bis zum Beginn der morgendlichen astronomischen Dämmerung ist die Zeitspanne, in der sich astronomische Beobachtungen (fernab der städtischen Beleuchtung) am Himmel durchführen lassen, da dunkel genug. 
+        Der Beginn morgendliche astronomische Dämmerung definiert sich dadurch, dass die geometrische Mitte der Sonne 18 Grad unterhalb des Horizontes ist und endet damit, wenn die Sonne aufgegangen ist.\nBei der abendlichen astronomischen Dämmerung ist es umgekehrt der Fall. Sie beginnt, wenn die geometrische Mitte der Sonne 18 Grad unter dem Horizont liegt und endet damit, wenn sie untergegangen ist.\nVom Ende der abendlichen astronomischen Dämmerung bis zum Beginn der morgendlichen astronomischen Dämmerung ist die Zeitspanne, in der sich astronomische Beobachtungen (fernab der städtischen Beleuchtung) am Himmel durchführen lassen, da dunkel genug.
     </string>
     <string name="day_phase_info_source">wikipedia</string>
     <string name="day_phase_info_link" formatted="false">https://de.wikipedia.org/wiki/D%C3%A4mmerung</string>
@@ -91,9 +91,9 @@
     <!-- support this project -->
     <string name="beta_program">Treten Sie unserem Testprogramm bei um die unveröffentlichte Version dieser App auszuprobieren.</string>
     <string name="beta_program_description">Wenn Sie experimentelle Funktionen dieser Software ausprobieren wollen, noch ehe Sie veröffentlicht wurde, so können Sie Betatester werden.\n
-		Als Betatester haben Sie die Möglichkeit, Funktionen zu nutzen, die für die Öffentlichkeit noch nicht zugänglich sind. Diese Funktionen werden erst in naher Zukunft veröffentlicht. Wir bitten darum, dass Sie die Funktionen die sie testen, nicht mit der Öffentlichkeit teilen, bis sie offiziell von uns released werden.
-		Die Betatests sind ein wichtiger Bestandteil in der Entwicklung dieser Software. Ihre Teilnahme und Ihre Rückmeldung helfen uns dabei, eine bessere Version von Golden Hour herauszubringen.\n
-		Bitte beachten Sie, dass die Testversion unter Umständen Fehler beinhalten und instabil sein kann.</string>
+        Als Betatester haben Sie die Möglichkeit, Funktionen zu nutzen, die für die Öffentlichkeit noch nicht zugänglich sind. Diese Funktionen werden erst in naher Zukunft veröffentlicht. Wir bitten darum, dass Sie die Funktionen die sie testen, nicht mit der Öffentlichkeit teilen, bis sie offiziell von uns released werden.
+        Die Betatests sind ein wichtiger Bestandteil in der Entwicklung dieser Software. Ihre Teilnahme und Ihre Rückmeldung helfen uns dabei, eine bessere Version von Golden Hour herauszubringen.\n
+        Bitte beachten Sie, dass die Testversion unter Umständen Fehler beinhalten und instabil sein kann.</string>
     <string name="thanks_to_translators">Danke an die Übersetzer:</string>
     <string name="translate_to_your_language">Kontaktieren Sie die Entwickler für nähere Informationen</string>
     <string name="translate_to_your_language_description">Sie können helfen, um diese App in Ihre Sprache zu übersetzen</string>
