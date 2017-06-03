@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="short_description">Die Zeit und die Dauer der verschiedenen Sonnenlichtphasen an jedem beliebigen Ort erfahren.</string>
+    <string name="full_description">
+        Ein einfach zu handhabendes tool für die Berechnung der Zeit sowie der Dauer von Sonnenauf- und untergängen als auch andere Sonnenlicht-Phasen an jedem beliebigen Ort.
+
+        <b>Ohne Werbung!</b>
+
+        <b>Hauptmerkmale:</ b>
+        - Lassen Sie sich die Zeit des Sonnenaufgangs und des Sonnenuntergangs anzeigen
+        - Erfahren Sie die Dauer der zivilen, nautischen und astronomischen Dämmerungen oder auch der "goldenen" und "blauen" Stunden
+        - Genießen Sie ein einfach gehaltenes und eine sehr einfach zu bedienende Benutzeroberfläche
+        - Offline ohne Internetverbindung arbeiten
+        - Verfolgen Sie all Ihre Lieblingsstädte
+        - Benachrichtigung für kommende Sonnenunter- und Aufgänge oder für die goldenen Stunden einrichten
+
+        <b>Berechtigungen:</b>
+        - <b>Standort</b>: erforderlich, um den aktuellen Standort zu nutzen
+        - <b>Netzwerkverbindungen anzeigen</b>, <b>Vollständiger Netzwerkzugriff</b>: erforderlich, um einen neuen Standort hinzufügen zu können und den Namen des aktuellen Standorts zu erhalten
+        - <b>Ausführen beim Start</b>: erforderlich, um beim Start die Benachrichtigungen festlegen zu können.
+        - <b>Verhindern, dass sich das Telefon ausschaltet</b>: erforderlich, damit die Benachrichtigungen erzeugt werden können, wenn der Bildschirm aus ist.
+
+        <b>Tipps:</b>
+        - Von rechts nach links wischen, um zwischen den Orten zu wechseln
+        - Verwenden Sie die Lautstärketasten, um das Datum zu ändern
+    </string>
+
+</resources>

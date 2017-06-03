@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="short_description">Find the time and duration of different sunlight phases at any location.</string>
+    <string name="full_description">
+        Easy and convenient tool for calculating the time and duration of sunrise, sunset and other sunlight phases at any location.
+
+        <b>Ad Free!</b>
+
+        <b>Key Features:</b>
+        - Find the time of sunrise and sunset
+        - Find the duration of the civil, nautical and astronomical twilights, "golden" and "blue" hours
+        - Enjoy simple and easy-to-use interface
+        - Work offline without internet connection
+        - Track all your favorite cities
+        - Set up notifications for upcoming sunrises, sunsets or golden hours
+
+        <b>Permissions:</b>
+        - <b>Precise location</b>: required in order to be able to find current location
+        - <b>View network connections</b>, <b>Full network access</b>: required in order to be able to add new location and to get current location's name
+        - <b>Run at startup</b>: required in order to able to set notifications on startup.
+        - <b>Prevent phone from sleeping</b>: required in order to deliver the notifications when the screen is off.
+
+        <b>Tips:</b>
+        - Swipe right-to-left to move between locations
+        - Use volume buttons to change date
+    </string>
+
+</resources>

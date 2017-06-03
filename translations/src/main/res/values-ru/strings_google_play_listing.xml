@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="short_description">Узнайте время наступления рассвета, заката и других фаз дня в любом городе мира.</string>
+    <string name="full_description">
+        Приложение поможет легко и быстро определить время наступления рассвета, заката и других фаз дня в любом городе мира.
+
+        <b>Никакой рекламы!</b>
+
+        <b>Полезные функции:</b>:
+        - Определение времени наступления рассвета и заката
+        - Определение продолжительности астрономических, навигационных и гражданских сумерек, а также "золотого" или "голубого" часа
+        - Простой и наглядный интерфейс
+        - Возможность работы без постоянного интернет подключения
+        - Возможность сохранения списка с любимыми городами
+        - Возможность установки уведомления о предстоящих восходах, закатах или "золотых часах"
+
+        <b>Разрешения:</b>
+        - <b>Точное местоположение</b>: требуется для определения координат текущего местоположения
+        - <b>Просмотр сетевых подключений</b>, <b>Неограниченный доступ в Интернет</b>: требуется при добавлении нового местоположения и для определения названия текущего местоположения
+        - <b>Запуск при включении устройства</b>: требуется для установки уведомлений после перезагрузки устройства.
+        - <b>Отключение спящего режима</b>: требуется при доставке уведомлений, если экран устройства выключен.
+
+        <b>Советы:</b>
+        - Проведите справа налево для переключения между городами
+        - Используйте клавиши громкости для изменения даты
+    </string>
+
+</resources>
