@@ -17,7 +17,9 @@
 
 <resources>
 
-    <string name="short_description">Die Zeit und die Dauer der verschiedenen Sonnenlichtphasen an jedem beliebigen Ort erfahren.</string>
+    <!-- <= 80 characters-->
+    <string name="short_description">Die Zeit und die Dauer der Sonnenlichtphasen an jedem beliebigen Ort erfahren.</string>
+
     <string name="full_description">
         Ein einfach zu handhabendes tool für die Berechnung der Zeit sowie der Dauer von Sonnenauf- und untergängen als auch andere Sonnenlicht-Phasen an jedem beliebigen Ort.
 

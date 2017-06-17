@@ -17,7 +17,9 @@
 
 <resources>
 
+    <!-- <= 80 characters-->
     <string name="short_description">Find the time and duration of different sunlight phases at any location.</string>
+
     <string name="full_description">
         Easy and convenient tool for calculating the time and duration of sunrise, sunset and other sunlight phases at any location.
 
