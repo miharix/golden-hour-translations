@@ -86,7 +86,7 @@
     <string name="label_optional">Beschriftung (optional)</string>
     <string name="select_event">Ereignis auswählen</string>
     <string name="select_location">Position auswählen</string>
-    <string name="task_setting_incomplete">Position und Ereignis dürften nicht leer sein.</string>
+    <string name="task_setting_incomplete">Position, Ereignis und Wochentag dürften nicht leer sein.</string>
 
     <!-- support this project -->
     <string name="beta_program">Treten Sie unserem Testprogramm bei um die unveröffentlichte Version dieser App auszuprobieren.</string>

@@ -86,7 +86,7 @@
     <string name="label_optional">Label (optional)</string>
     <string name="select_event">Select Event</string>
     <string name="select_location">Select Location</string>
-    <string name="task_setting_incomplete">Location and Event cannot be empty</string>
+    <string name="task_setting_incomplete">Location, Event and days of the week cannot be empty</string>
 
     <!-- support this project -->
     <string name="beta_program">Join a testing program for an unreleased version of the app</string>
