@@ -102,19 +102,27 @@
 
     <!-- -->
     <string name="alarms_warning">Пожалуйста, примите к сведению, что будильник может работать некорректно на некоторых устройства (в основном на Самсунгах).\nОтключите будильники, если приложение сообщает об ошибке в момент срабатывания будильника.</string>
-    <string name="connection_not_available">Сервис недоступен.\nПроверьте подключение к интернету.</string>
     <string name="disable_current_location">Отключить текущее местоположение</string>
-    <string name="location_limit_reached">Достигнут лимит.\nУдалите местоположение из списка, чтобы добавить новое.</string>
-    <string name="location_service_not_available">Сервис недоступен. Проверьте сервис определения местоположения.</string>
     <string name="location_service_is_turned_off">Сервис определения местоположения отключен.</string>
     <string name="notifications_warning">Пожалуйста, примите к сведению, что уведомления могут работать некорректно на некоторых устройства (в основном на Самсунгах).\nОтключите уведовления, если приложение сообщает об ошибке в момент доставки уведомления.</string>
-    <string name="must_have_one_location">Приложению необходимо хотя бы 1 местоположение.</string>
-
     <string name="permission_access_fine_location">Необходим доступ к определению местоположения.</string>
     <string name="turn_on">Включить</string>
-    <string name="database_error">Ошибка базы данных</string>
-    <string name="notification_already_exist">Ошибка при сохранении, уведомление уже существует.</string>
-    <string name="unknown_error">Неизвестная ошибка</string>
+
+    <string name="error_database">Ошибка базы данных</string>
+    <string name="error_http">Ошибка HTTP</string>
+    <string name="error_invalid_request">Неверный запрос</string>
+    <string name="error_invalid_response">Неверный ответ сервера</string>
+    <string name="error_location_limit_reached">Достигнут лимит.\nУдалите местоположение из списка, чтобы добавить новое.</string>
+    <string name="error_location_not_found">Местоположение не найдено</string>
+    <string name="error_location_service_not_available">Сервис недоступен. Проверьте сервис определения местоположения.</string>
+    <string name="error_network_connection">Сервис недоступен.\nПроверьте подключение к интернету.</string>
+    <string name="error_must_have_one_location">Приложению необходимо хотя бы 1 местоположение</string>
+    <string name="error_over_query_limit">Превышена квота запросов на сервер, попробуйте позже</string>
+    <string name="error_remote_server_connection">Ошибка подключения к серверу</string>
+    <string name="error_request_denied">Запрос отклонен</string>
+    <string name="error_task_setting_already_exist">Ошибка при сохранении, настройка уже существует</string>
+    <string name="error_zero_results">По вашему запросу ничего не найдено</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
 
     <string name="alarm_default_title">"Будильник"</string>
 

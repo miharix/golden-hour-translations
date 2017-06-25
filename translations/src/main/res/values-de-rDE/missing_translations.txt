@@ -1,0 +1,10 @@
+strings.xml
+
+<string name="error_http">HTTP error</string>
+<string name="error_invalid_request">Invalid request</string>
+<string name="error_invalid_response">Invalid response</string>
+<string name="error_location_not_found">Location not found</string>
+<string name="error_over_query_limit">Query limit reached, try again later</string>
+<string name="error_remote_server_connection">Server connection error</string>
+<string name="error_request_denied">Request denied</string>
+<string name="error_zero_results">No results found</string>

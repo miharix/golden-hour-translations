@@ -102,19 +102,27 @@
 
     <!-- -->
     <string name="alarms_warning">>Bitte beachten Sie, dass die Alarme nicht auf allen Geräten (vorallem Samsung) funktionieren.\nBitte die Funktion abschalten, wenn die App zum Zeitpunkt eines Alarmes abstürzt.</string>
-    <string name="connection_not_available">Dienst steht zur Zeit nicht zur Verfügung.\nBitte prüfen Sie Ihre Internetverbindung.</string>
     <string name="disable_current_location">Aktuelle Position abschalten.</string>
-    <string name="location_limit_reached">Maximal speicherbare Positionen sind überschritten.\nBitte eine Position löschen um eine neue hinzuzufügen.</string>
-    <string name="location_service_not_available">Positionsbestimmung ist nicht verfügbar.\nBitte die Einstellungen überprüfen.</string>
     <string name="location_service_is_turned_off">Positionsbestimmung ist deaktiviert.</string>
     <string name="notifications_warning">Bitte beachten Sie, dass die Benachrichtungsfunktion nicht auf allen Geräten (vorallem Samsung) funktionieren.\nBitte die Funktion abschalten, wenn die App zum Zeitpunkt einer Benachrichtung abstürzt.</string>
-    <string name="must_have_one_location">Das Programmm muss mindestens eine Position haben.</string>
-
     <string name="permission_access_fine_location">Um die aktuelle Position bestimmen zu können, bedarf es die Rechte GPS zu nutzen.</string>
     <string name="turn_on">Anschalten</string>
-    <string name="database_error">Datenbankfehler</string>
-    <string name="notification_already_exist">Nicht gespeichert. Benachrichtigung existiert bereits.</string>
-    <string name="unknown_error">Unbekannter Fehler</string>
+
+    <string name="error_database">Datenbankfehler</string>
+    <string name="error_http">HTTP error</string>
+    <string name="error_invalid_request">Invalid request</string>
+    <string name="error_invalid_response">Invalid response</string>
+    <string name="error_location_limit_reached">Maximal speicherbare Positionen sind überschritten.\nBitte eine Position löschen um eine neue hinzuzufügen.</string>
+    <string name="error_location_not_found">Location not found</string>
+    <string name="error_location_service_not_available">Positionsbestimmung ist nicht verfügbar.\nBitte die Einstellungen überprüfen.</string>
+    <string name="error_must_have_one_location">Das Programmm muss mindestens eine Position haben</string>
+    <string name="error_network_connection">Dienst steht zur Zeit nicht zur Verfügung.\nBitte prüfen Sie Ihre Internetverbindung.</string>
+    <string name="error_over_query_limit">Query limit reached, try again later</string>
+    <string name="error_remote_server_connection">Server connection error</string>
+    <string name="error_request_denied">Request denied</string>
+    <string name="error_task_setting_already_exist">Nicht gespeichert. Einstellung existiert bereits.</string>
+    <string name="error_zero_results">No results found</string>
+    <string name="error_unknown">Unbekannter Fehler</string>
 
     <string name="alarm_default_title">Alarm</string>
 
