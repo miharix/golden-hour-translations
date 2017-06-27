@@ -76,7 +76,6 @@
     <string name="select_date_today">Сегодня</string>
 
     <string name="developer_name">Олег Кан</string>
-    <string name="project_page_donate">https://simplaapliko.com/ru/#donate</string>
 
     <string name="coordinates">ш.: %1$s, д.: %2$s</string>
     <string name="refresh">Обновить</string>

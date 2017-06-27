@@ -76,7 +76,6 @@
     <string name="select_date_today">Today</string>
 
     <string name="developer_name">Oleg Kan</string>
-    <string name="project_page_donate">https://simplaapliko.com/#donate</string>
 
     <string name="coordinates">lat: %1$s, long: %2$s</string>
     <string name="refresh">Refresh</string>

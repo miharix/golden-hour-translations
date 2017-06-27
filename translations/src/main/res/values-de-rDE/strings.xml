@@ -76,7 +76,6 @@
     <string name="select_date_today">Heute</string>
 
     <string name="developer_name">Oleg Kan</string>
-    <string name="project_page_donate">https://simplaapliko.com/#donate</string>
 
     <string name="coordinates">Breite: %1$s, Länge: %2$s</string>
     <string name="refresh">Aktualisieren</string>
