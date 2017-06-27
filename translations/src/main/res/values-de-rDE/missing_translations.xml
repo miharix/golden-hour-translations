@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
 strings.xml
 
 <string name="error_http">HTTP error</string>
@@ -8,3 +11,7 @@ strings.xml
 <string name="error_remote_server_connection">Server connection error</string>
 <string name="error_request_denied">Request denied</string>
 <string name="error_zero_results">No results found</string>
+
+-->
+
+<resources />
