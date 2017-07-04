@@ -25,3 +25,8 @@ If you want to contribute to a project and add translation to your language, you
 - Once the pull request is approved and merged you can pull the changes from `upstream` to your local repo and delete your extra branch(es).
 
 And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
+
+## Thanks to translators:
+
+- Alexander Fischer (Deutsch / Deutschland)
+- Izar Castorina (Italiano)
