@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- <= 80 characters-->
+    <string name="short_description">Scopri l'ora e la durata di diverse fasi solari per qualsiasi posizione.</string>
+
+    <string name="full_description">
+        Facile e comodo strumento per il calcolo dell'ora e la durata dell'alba, tramonto ed altre fasi solari per qualsiasi posizione.
+
+        <b>Senza annunci!</b>
+
+        <b>Caratteristiche principali:</b>
+        - Scopri l'ora dell'alba e del tramonto
+        - Scopri la durata del crepuscolo civile, nautico e astronomico, insieme all'ora "blu" e l'ora "d'oro"
+        - Interfaccia semplice e facile da usare
+        - Funziona offline senza connessione a internet
+        - Tieni traccia di tutte le tue città preferite
+        - Imposta notifiche per le prossime albe, tramonti o ore d'oro
+
+        <b>Autorizzazioni:</b>
+        - <b>Ubicazione precisa</b>: richiesta per ottenere la posizione attuale
+        - <b>Visualizzazione delle connessioni di rete</b>, <b>Accesso completo alla rete</b>: richiesti per essere in grado di aggiungere nuove posizioni e per ottenere il nome della posizione
+        - <b>Esegui all'avvio</b>: richiesto per impostare notifiche all'avvio
+        - <b>Disabilita stand-by del telefono</b>: richiesto per inviare le notifiche quando lo schermo non è acceso
+
+        <b>Suggerimenti:</b>
+        - Fai swipe da destra a sinistra per spostarti da una posizione all'altra
+        - Puoi usare i tasti volume per cambiare la data
+    </string>
+
+</resources>

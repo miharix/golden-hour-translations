@@ -15,13 +15,16 @@
   ~ limitations under the License.
   -->
 
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
+<resources>
 
-    <string name="translators_list">
-        Alexander Fischer (Deutsch / Deutschland)
-        \nIzar Castorina (Italiano)
-    </string>
+    <string name="san_francisco">San Francisco</string>
+    <string name="paris">Parigi</string>
+    <string name="moscow">Mosca</string>
+    <string name="sydney">Sydney</string>
+
+    <string name="australia">Australia</string>
+    <string name="france">Francia</string>
+    <string name="russia">Russia</string>
+    <string name="united_states">Stati Uniti</string>
 
 </resources>

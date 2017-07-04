@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright (C) 2017 Oleg Kan
   ~
@@ -15,13 +14,11 @@
   ~ limitations under the License.
   -->
 
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
-
-    <string name="translators_list">
-        Alexander Fischer (Deutsch / Deutschland)
-        \nIzar Castorina (Italiano)
-    </string>
-
+<resources>
+    <string name="ar_dialog_rate_title">Vota Applicazione</string>
+    <string name="ar_dialog_rate_message">Se ti piace questa app, ti preghiamo di impiegare un minuto del tuo tempo per farci sapere cosa ne pensi\n\nGrazie per il tuo supporto!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Vota Applicazione</string>
+    <string name="ar_dialog_rate_negative_button">Più tardi</string>
+    <string name="ar_dialog_rate_neutral_button">No, grazie</string>
+    <string name="ar_unable_to_find_google_play">Impossibile trovare l\'app Google Play Store</string>
 </resources>

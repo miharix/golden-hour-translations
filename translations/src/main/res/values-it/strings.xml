@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Allarme</string>
+    <string name="activity_alarm_settings">Allarmi</string>
+    <string name="activity_edit_locations">Modifica Posizioni</string>
+    <string name="activity_notification_setting">Notifica</string>
+    <string name="activity_notification_settings">Notifiche</string>
+    <string name="activity_select_location">Seleziona Posizione</string>
+    <string name="activity_settings">Impostazioni</string>
+    <string name="activity_support_this_project">Sostieni questo progetto</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Alba &amp; Tramonto</string>
+    <string name="widget_sun_table">Tabella</string>
+    <string name="widget_sun_tiles">Tessere</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Annulla</string>
+    <string name="delete">Cancella</string>
+    <string name="edit_location">Modifica Posizione</string>
+
+    <string name="day_phase_golden_hour_description">
+        In fotografia, l\'ora d\'oro (anche conosciuta come "ora dorata" o "magic hour", specialmente nell\'ambito cinematografico) è un periodo di tempo che segue l\'alba o precede il tramonto durante il quale la luce del sole è più calda e diffusa rispetto a quando il sole è più in alto nel cielo.\nIl termine \"ora\" è utilizzato figurativamente; l\'effetto non ha una durata predeterminata e cambia in base alla stagione ed alla latitudine.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        L\'ora blu è il periodo del crepuscolo ogni mattina ed ogni era nel quale il sole è significativamente sotto l\'orizzonte e la luce del sole residua e indiretta assume una tinta prevalentemente blu.\nDurante l\'"ora" blu, la luce rossa attraversa direttamente lo spazio mentre la luce blu viene dispersa nell\'atmosfera e quindi raggiunge la superficie della terra.\nA causa della qualità della luce, questo periodo è molto apprezzato dagli artisti.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        Il crepuscolo civile mattutino inizia quando il centro geometrico del sole è di 6° al di sotto dell\'orizzonte (alba civile) e finisce al sorgere del sole.\nIl crepuscolo civile serale inizia al tramonto e finisce quando il centro geometrico del sole raggiunge 6° al di sotto dell\'orizzonte (crepuscolo civile).\nIl crepuscolo civile può anche essere descritto come il limite al quale l\'illuminazione del crepuscolo è sufficiente, in condizioni di tempo sereno, per distinguere chiaramente gli oggetti terrestri.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        Durante il crepuscolo nautico, l\'orizzonte è chiaramente visibile, seppure dell\'illuminazione artificiale è richiesta per vedere chiaramente gli oggetti terrestri.\nL\'inizio del crepuscolo nautico mattutino è definito quando il centro del sole è geometricamente 12 gradi al di sotto dell\'orizzonte e finisce all\'alba.\nL\'inizio del crepuscolo nautico serale è definito al tramonto e finisce quando il centro del sole è 12 gradi al di sotto dell\'orizzonte.\nIn generale, il crepuscolo nautico finisce quando la navigazione attraverso dell\'orizzonte nel mare non è più possibile.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        L\'inizio del crepuscolo astronomico mattutino è definito quando il centro del sole è geometricamente 18 gradi al di sotto dell\'orizzonte e finisce all\'alba.\nL\'inizio del crepuscolo astronomico serale è definito al tramonto e finisce quando il centro del sole è 18 gradi al di sotto dell\'orizzonte.\nDalla fine del crepuscolo astronomico serale all\'inizio del crepuscolo astronomico mattutino, il cielo (in zone prive di inquinamento luminoso) è abbastanza scuro per le osservazioni astronomiche.
+    </string>
+    <string name="day_phase_info_source">Wikipedia</string>
+    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Posizione Attuale</string>
+    <string name="search_location_hint">Ricerca per nome della posizione</string>
+
+    <!-- menu -->
+    <string name="action_delete">Cancella</string>
+    <string name="action_grid">Griglia</string>
+    <string name="action_map">Mappa</string>
+    <string name="action_select_date">Seleziona data</string>
+    <string name="action_satellite_map">Mappa Satellite</string>
+
+    <!-- notifications -->
+    <string name="local_time">Ora locale</string>
+    <string name="wait">Attendere per favore…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">L\'app Golden Hour ha alcune caratteristiche per scoprire l\'orario di alba e tramonto - puoi scaricare la nuova versione da: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Oggi</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
+    <string name="refresh">Aggiorna</string>
+
+    <string name="event">Evento</string>
+    <string name="every_day">Ogni giorno</string>
+    <string name="label_optional">Etichetta (opzionale)</string>
+    <string name="select_event">Seleziona Evento</string>
+    <string name="select_location">Seleziona Posizione</string>
+    <string name="task_setting_incomplete">Posizione, Evento e giorni della settimana non possono essere vuoti</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Unisciti al programma di testing per versioni dell\'app non ancora rilasciate</string>
+    <string name="beta_program_description">Se vuoi provare funzionalità sperimentali dell\'app prima del loro rilascio, puoi unirti al programma di beta testing.\n
+        Come beta tester, avrai la possibilità di utilizzare funzionalità che non sono state rilasciate al pubblico. Queste funzioni potrebbero diventare disponibili al pubblico in futuro. Ti chiediamo gentilmente di non pubblicare o condividere le funzioni che stai testando fino a quando non saranno rilasciate ufficialmente.\n
+        Facendo beta testing, diventerai una parte importante dello sviluppo dell\'app. La tua partecipazione e feedback ci aiuteranno a rilasciare una versione migliore dell\'app.\n
+        Per favore, nota che le versioni di test potrebbero essere instabili o contenere bugs.</string>
+    <string name="thanks_to_translators">Grazie ai traduttori:</string>
+    <string name="translate_to_your_language">Contatta lo sviluppatore per ulteriori informazioni</string>
+    <string name="translate_to_your_language_description">Puoi aiutare a tradurre questa app nella tua lingua</string>
+    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
+    <string name="translate_to_your_language_subject">Translation</string>
+
+    <!-- -->
+    <string name="alarms_warning">Per favore, tieni presente che gli allarmi potrebbero non funzionare correttamente su alcuni dispositivi (principalmente Samsung).\nDisabilita gli allarmi se l\'app va in crash al momento dell\'allarme.</string>
+    <string name="disable_current_location">Disabilita la posizione attuale</string>
+    <string name="location_service_is_turned_off">Il servizio di ubicazione non è attivo</string>
+    <string name="notifications_warning">Per favore, tieni presente che le notifiche potrebbero non funzionare correttamente su alcuni dispositivi (principalmente Samsung).\nDisabilita le notifiche se l\'app va in crash al momento della ricezione di una notifica.</string>
+    <string name="permission_access_fine_location">L\'accesso all\'ubicazione è necessario per ottenere la posizione attuale.</string>
+    <string name="turn_on">Attiva</string>
+
+    <string name="error_database">Errore di database</string>
+    <string name="error_http">Errore HTTP</string>
+    <string name="error_invalid_request">Richiesta non valida</string>
+    <string name="error_invalid_response">Risposta non valida</string>
+    <string name="error_location_limit_reached">Limite di posizioni raggiunto.\nRimuovi una posizione se vuoi aggiungerne altre.</string>
+    <string name="error_location_not_found">Posizione non trovata</string>
+    <string name="error_location_service_not_available">Il servizio non è disponibile.\nControlla il servizio di ubicazione.</string>
+    <string name="error_must_have_one_location">L\'applicazione richiede almeno una posizione</string>
+    <string name="error_network_connection">Mi dispiace, il servizio non è al momento disponibile.\nControlla la connessione ad internet.</string>
+    <string name="error_over_query_limit">Limite di query raggiunto, prova più tardi</string>
+    <string name="error_remote_server_connection">Errore di connessione al server</string>
+    <string name="error_request_denied">Richiesta negata</string>
+    <string name="error_task_setting_already_exist">Non salvato, l\'impostazione esiste già</string>
+    <string name="error_zero_results">Nessun risultato trovato</string>
+    <string name="error_unknown">Errore sconosciuto</string>
+
+    <string name="alarm_default_title">Allarme</string>
+
+    <string name="alarm_dismiss_now_text">Spegni Adesso</string>
+    <string name="alarm_dismiss_text">Spegni</string>
+    <string name="alarm_snooze_text">Posponi</string>
+    <string name="alarm_upcoming">Prossimo allarme</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Notte</string>
+    <string name="sun_phase_twilight_astronomical">Crepuscolo astronomico</string>
+    <string name="sun_phase_twilight_nautical">Crepuscolo nautico</string>
+    <string name="sun_phase_twilight_civil">Crepuscolo civile</string>
+    <string name="sun_phase_blue_hour">Ora blu</string>
+    <string name="sun_phase_golden_hour">Ora d\'oro</string>
+    <string name="sun_phase_twilight_official">Crepuscolo ufficiale</string>
+    <string name="sun_phase_day">Giorno</string>
+    <string name="sun_phase_morning">Mattina</string>
+    <string name="sun_phase_evening">Sera</string>
+
+    <string name="sun_position_sunrise">Alba</string>
+    <string name="sun_position_sunset">Tramonto</string>
+    <string name="sun_position_duration">Durata</string>
+    <string name="sun_position_noon">Mezzogiorno</string>
+
+</resources>
