@@ -101,27 +101,19 @@
 
     <!-- -->
     <string name="alarms_warning">Per favore, tieni presente che gli allarmi potrebbero non funzionare correttamente su alcuni dispositivi (principalmente Samsung).\nDisabilita gli allarmi se l\'app va in crash al momento dell\'allarme.</string>
+    <string name="connection_not_available">Mi dispiace, il servizio non è al momento disponibile.\nControlla la connessione ad internet.</string>
     <string name="disable_current_location">Disabilita la posizione attuale</string>
+    <string name="location_limit_reached">Limite di posizioni raggiunto.\nRimuovi una posizione se vuoi aggiungerne altre.</string>
+    <string name="location_service_not_available">Il servizio non è disponibile.\nControlla il servizio di ubicazione.</string>
     <string name="location_service_is_turned_off">Il servizio di ubicazione non è attivo</string>
     <string name="notifications_warning">Per favore, tieni presente che le notifiche potrebbero non funzionare correttamente su alcuni dispositivi (principalmente Samsung).\nDisabilita le notifiche se l\'app va in crash al momento della ricezione di una notifica.</string>
+    <string name="must_have_one_location">L\'applicazione richiede almeno una posizione</string>
+
     <string name="permission_access_fine_location">L\'accesso all\'ubicazione è necessario per ottenere la posizione attuale.</string>
     <string name="turn_on">Attiva</string>
-
-    <string name="error_database">Errore di database</string>
-    <string name="error_http">Errore HTTP</string>
-    <string name="error_invalid_request">Richiesta non valida</string>
-    <string name="error_invalid_response">Risposta non valida</string>
-    <string name="error_location_limit_reached">Limite di posizioni raggiunto.\nRimuovi una posizione se vuoi aggiungerne altre.</string>
-    <string name="error_location_not_found">Posizione non trovata</string>
-    <string name="error_location_service_not_available">Il servizio non è disponibile.\nControlla il servizio di ubicazione.</string>
-    <string name="error_must_have_one_location">L\'applicazione richiede almeno una posizione</string>
-    <string name="error_network_connection">Mi dispiace, il servizio non è al momento disponibile.\nControlla la connessione ad internet.</string>
-    <string name="error_over_query_limit">Limite di query raggiunto, prova più tardi</string>
-    <string name="error_remote_server_connection">Errore di connessione al server</string>
-    <string name="error_request_denied">Richiesta negata</string>
-    <string name="error_task_setting_already_exist">Non salvato, l\'impostazione esiste già</string>
-    <string name="error_zero_results">Nessun risultato trovato</string>
-    <string name="error_unknown">Errore sconosciuto</string>
+    <string name="database_error">Errore di database</string>
+    <string name="notification_already_exist">Non salvato, l\'impostazione esiste già</string>
+    <string name="unknown_error">Errore sconosciuto</string>
 
     <string name="alarm_default_title">Allarme</string>
 
