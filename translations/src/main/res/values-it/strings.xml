@@ -52,7 +52,7 @@
         L\'inizio del crepuscolo astronomico mattutino è definito quando il centro del sole è geometricamente 18 gradi al di sotto dell\'orizzonte e finisce all\'alba.\nL\'inizio del crepuscolo astronomico serale è definito al tramonto e finisce quando il centro del sole è 18 gradi al di sotto dell\'orizzonte.\nDalla fine del crepuscolo astronomico serale all\'inizio del crepuscolo astronomico mattutino, il cielo (in zone prive di inquinamento luminoso) è abbastanza scuro per le osservazioni astronomiche.
     </string>
     <string name="day_phase_info_source">Wikipedia</string>
-    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+    <string name="day_phase_info_link">https://it.wikipedia.org/wiki/Crepuscolo</string>
 
     <!-- fragment add location -->
     <string name="current_location">Posizione Attuale</string>
