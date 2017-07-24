@@ -101,27 +101,19 @@
 
     <!-- -->
     <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDisable alarms if app is crashing at the time of alarm.</string>
+    <string name="connection_not_available">Sorry, the service is not available.\nCheck internet connection.</string>
     <string name="disable_current_location">Disable current location</string>
+    <string name="location_limit_reached">Location limit reached.\nRemove a location if you would like to add more.</string>
+    <string name="location_service_not_available">Service is not available.\nCheck location service.</string>
     <string name="location_service_is_turned_off">Location service is turned off</string>
     <string name="notifications_warning">Please be aware that notifications might not work properly on some devices (mostly on Samsungs).\nDisable notifications if app is crashing at the time of notification.</string>
+    <string name="must_have_one_location">Application must have at least 1 location.</string>
+
     <string name="permission_access_fine_location">Location permission is needed to get current location.</string>
     <string name="turn_on">Turn On</string>
-
-    <string name="error_database">Database error</string>
-    <string name="error_http">HTTP error</string>
-    <string name="error_invalid_request">Invalid request</string>
-    <string name="error_invalid_response">Invalid response</string>
-    <string name="error_location_limit_reached">Location limit reached.\nRemove a location if you would like to add more.</string>
-    <string name="error_location_not_found">Location not found</string>
-    <string name="error_location_service_not_available">Service is not available.\nCheck location service.</string>
-    <string name="error_must_have_one_location">Application must have at least 1 location</string>
-    <string name="error_network_connection">Sorry, the service is not available.\nCheck internet connection.</string>
-    <string name="error_over_query_limit">Query limit reached, try again later</string>
-    <string name="error_remote_server_connection">Server connection error</string>
-    <string name="error_request_denied">Request denied</string>
-    <string name="error_task_setting_already_exist">Not saved, setting already exist</string>
-    <string name="error_zero_results">No results found</string>
-    <string name="error_unknown">Unknown error</string>
+    <string name="database_error">Database error</string>
+    <string name="notification_already_exist">Not saved, notification already exist</string>
+    <string name="unknown_error">Unknown error</string>
 
     <string name="alarm_default_title">Alarm</string>
 
