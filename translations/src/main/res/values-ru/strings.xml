@@ -52,7 +52,7 @@
         Период времени после заката и перед восходом Солнца, в течение которого Солнце находится на высоте от -12° до -18° над уровнем горизонта.\nВо время астрономических сумерек астрономы имеют возможность проводить наблюдения за небесными светилами, однако слабо рассеивающие объекты, такие как туманности, могут быть видны только при полном отсутствии солнечного света.\nДля обычного наблюдателя астрономические сумерки неотличимы от ночи.
     </string>
     <string name="day_phase_info_source">wikipedia</string>
-    <string name="day_phase_info_link">https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8</string>
+    <string name="day_phase_info_link" formatted="false">https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D0%B5%D1%80%D0%BA%D0%B8</string>
 
     <!-- fragment add location -->
     <string name="current_location">Текущее местоположение</string>
