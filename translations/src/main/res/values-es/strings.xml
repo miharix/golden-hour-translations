@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Alarma</string>
+    <string name="activity_alarm_settings">Alarmas</string>
+    <string name="activity_edit_locations">Editar ubicaciónes</string>
+    <string name="activity_notification_setting">Notificación</string>
+    <string name="activity_notification_settings">Notificaciones</string>
+    <string name="activity_select_location">Seleccionar ubicación</string>
+    <string name="activity_settings">Ajustes</string>
+    <string name="activity_support_this_project">Apoya este proyecto</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Salida &amp; Puesta</string>
+    <string name="widget_sun_table">Tabla</string>
+    <string name="widget_sun_tiles">Azulejos</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Borrar</string>
+    <string name="edit_location">Editar ubicación</string>
+
+    <string name="day_phase_golden_hour_description">
+        En fotografía, la hora dorada (a veces conocida como hora mágica, especialmente en cinematografia) es un corto periodo después de la salida del sol o antes de la puesta durante la cual la luz del sol es mas roja y suave comparado con cuando el sol es esta más alto en el cielo.\nEl termino \"hora\" se usa en sentido figurado; el efecto no tiene una duración claramente definida y varía según la estación y la latitud.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        La hora azul es el período de crepúsculo cada mañana y tarde cuando el sol está a una distancia significativa debajo del horizonte y la luz solar indirecta residual adquiere un matiz predominantemente azul.\nDurante la \"hora\" azul, la luz roja pasa directamente al Espacio mientras que la luz azul se dispersa en la atmósfera y por lo tanto alcanza la superficie de la tierra.\nDebido a la calidad de la luz, este período es apreciado por artistas.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+       El crepúsculo civil de la mañana comienza cuando el centro geométrico del sol está 6° por debajo del horizonte (amanecer civil) y termina al amanecer.\nEl crepúsculo civil comienza al atardecer y termina cuando el centro geométrico del sol alcanza los 6 ° por debajo del horizonte Anochecer).\nEl crepúsculo crepuscular también se puede describir como el límite al cual la iluminación crepuscular es suficiente, en claras condiciones climáticas, para que los objetos terrestres sean claramente distinguidos.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        Durante el crepúsculo náutico, el horizonte es claramente visible, pero la iluminación artificial debe ser usada para ver claramente los objetos terrestres. El crepúsculo náutico se define para comenzar cuando el centro del sol está geométricamente 12 grados bajo el horizonte y para terminar al amanecer.\nEl crepúsculo náutico se define para comenzar al atardecer y terminar cuando el centro del sol está a 12 grados bajo el horizonte.\nEn general, el crepúsculo náutico termina cuando ya no es posible navegar a través del horizonte en el mar.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        El crepúsculo astronómico de la mañana se define para comenzar cuando el centro del sol está geométricamente a 18 grados bajo el horizonte y para terminar al amanecer.\nEl crepúsculo astronómico se define para comenzar al atardecer y terminar cuando el centro del sol está a 18 grados bajo el horizonte.\nDesde el final del crepúsculo astronómico por la noche hasta el comienzo del crepúsculo astronómico por la mañana, el cielo (lejos de la contaminación lumínica urbana) es suficientemente oscuro para todas las observaciones astronómicas.
+    </string>
+    <string name="day_phase_info_source">wikipedia</string>
+    <string name="day_phase_info_link" formatted="false">https://es.wikipedia.org/wiki/Crep%C3%BAsculo</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Ubicación actual</string>
+    <string name="search_location_hint">Buscar una ubicación por nombre</string>
+
+    <!-- menu -->
+    <string name="action_delete">Borrar</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_map">Mapa</string>
+    <string name="action_select_date">Seleccionar fecha</string>
+    <string name="action_satellite_map">Mapa de satelites</string>
+
+    <!-- notifications -->
+    <string name="local_time">Hora Local</string>
+    <string name="wait">Por favor espera…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">La aplicación de la hora de oro tiene algunas características interesántes para encontrar el momento de la salida del sol o la puesta del sol - usted puede descargar la nueva versión en: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Hoy</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
+    <string name="refresh">Actualizar</string>
+
+    <string name="event">Evento</string>
+    <string name="every_day">Cada día</string>
+    <string name="label_optional">Etiqueta (opcional)</string>
+    <string name="select_event">Seleccionar evento</string>
+    <string name="select_location">Seleccionar ubicación</string>
+    <string name="task_setting_incomplete">Ubicación y evento no pueden estar vacios</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Únete a un programa de pruebas para una versión no publicada de la aplicación.</string>
+    <string name="beta_program_description">Si desea probar las funciones experimentales de la aplicación antes de publicarlas, puede unirse al programa de probador beta.\n
+        Como comprobador beta, podrá utilizar funciones que no se han publicado al público. Estas características podrían estar disponibles para el público en el futuro. Le pedimos que no publique ni comparta las funciones que está probando hasta que se publiquen públicamente.\n
+        Con las pruebas beta, te convertirás en una parte importante del desarrollo de la aplicación. Su participación y comentarios nos ayudarán a publicar una versión mejor de la aplicación.\n
+       Tenga en cuenta que las versiones de prueba pueden ser inestables o tener algunos errores.</string>
+    <string name="thanks_to_translators">Gracias a los traductores:</string>
+    <string name="translate_to_your_language">Comuníquese con el desarrollador para obtener más información</string>
+    <string name="translate_to_your_language_description">Puedes ayudar a traducir esta aplicación a tu idioma</string>
+    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
+    <string name="translate_to_your_language_subject">Translation</string>
+
+    <!-- -->
+    <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDesactiva las alarmas si la aplicación se bloquea en el momento de la alarma.</string>
+    <string name="connection_not_available">Lo sentimos,El servicio no está disponible.\nComprueba tu conexión a Internet.</string>
+    <string name="disable_current_location">Desactivar ubicación actual</string>
+    <string name="location_limit_reached">Alcanzado límite de ubicaciónes.\nBorra una aplicación si quieres añadir más.</string>
+    <string name="location_service_not_available">Service is not available.\nCheck location service.</string>
+    <string name="location_service_is_turned_off">El servicio de ubicación está desactivado</string>
+    <string name="notifications_warning">Tenga en cuenta que las notificaciones pueden no funcionar correctamente en algunos dispositivos (sobre todo en Samsung).\nDisable notifications if app is crashing at the time of notification.</string>
+    <string name="must_have_one_location">La aplicación debe tener al menos una ubicación.</string>
+
+    <string name="permission_access_fine_location">Se necesita el permiso de acceso a la ubicación para conocer tu ubicación actual.</string>
+    <string name="turn_on">Endender</string>
+    <string name="database_error">Error de la base de datos</string>
+    <string name="notification_already_exist">No guardado, la notificacion ya existe</string>
+    <string name="unknown_error">Error Desconocido</string>
+
+    <string name="alarm_default_title">Alarma</string>
+
+    <string name="alarm_dismiss_now_text">Descartar ahora</string>
+    <string name="alarm_dismiss_text">Descartar</string>
+    <string name="alarm_snooze_text">Dormitar</string>
+    <string name="alarm_upcoming">Próxima alarma</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Noche</string>
+    <string name="sun_phase_twilight_astronomical">Crepúsculo astronómico</string>
+    <string name="sun_phase_twilight_nautical">Crepúsculo naútico</string>
+    <string name="sun_phase_twilight_civil">Crepúsculo civil</string>
+    <string name="sun_phase_blue_hour">Hora azúl</string>
+    <string name="sun_phase_golden_hour">Hora dorada</string>
+    <string name="sun_phase_twilight_official">Crepúsculo oficial</string>
+    <string name="sun_phase_day">Día</string>
+    <string name="sun_phase_morning">Mañana</string>
+    <string name="sun_phase_evening">Tarde</string>
+
+    <string name="sun_position_sunrise">Salida del sol</string>
+    <string name="sun_position_sunset">Puesta del sol</string>
+    <string name="sun_position_duration">Duración</string>
+    <string name="sun_position_noon">Mediodía</string>
+
+</resources>
