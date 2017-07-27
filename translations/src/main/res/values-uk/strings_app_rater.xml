@@ -16,7 +16,7 @@
 
 <resources>
     <string name="ar_dialog_rate_title">Оцінити програму</string>
-    <string name="ar_dialog_rate_message">Якщо вам подобається цей додаток - не забудьте оцінити його, це займе лише хвилину вашого часу.\n\nДякуємо за вашу підтримку!</string>
+    <string name="ar_dialog_rate_message">Якщо вам подобається користуватися нашим застосунком, ви могли б виділити хвильку, аби його оцінити? Це не займе багацько часу.\n\nДякуємо за вашу підтримку!</string>
     <string name="ar_dialog_rate_positive_button_rate">Оцінити застосунок</string>
     <string name="ar_dialog_rate_negative_button">Пізніше</string>
     <string name="ar_dialog_rate_neutral_button">Ні, дякую</string>
