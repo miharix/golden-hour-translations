@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- <= 80 characters-->
+    <string name="short_description">Encuentre la hora de las diferentes fases de luz solar en cualquier lugarv.</string>
+
+    <string name="full_description">
+        Fácil y conveniente herramienta para calcular el tiempo y la duración de la salida del sol, la puesta de sol y otras fases de la luz solar en cualquier lugar.
+
+        <b>Libre de anuncios!</b>
+
+        <b>Características:</b>
+        - Encuentre la hora del amanecer y la puesta del sol
+        - Encuentre la duración de los crepúsculos civiles, náuticos y astronómicos, horas doradas y azules
+        - Disfrute de una interfaz sencilla y fácil de usar
+        - Trabaje fuera de línea sin conexión a Internet
+        - Rastrea todas tus ciudades favoritas
+        - Configura notificaciones para los próximos amaneceres, atardeceres o horas doradas
+
+        <b>Permisos:</b>
+        - <b>Ubicación precisa</b>: Necesario para poder encontrar la ubicación actual
+        - <b>View network connections</b>, <b>Acceso completo a la red</b>: necesario para poder añadir una nueva ubicación y obtener el nombre de la ubicación actual
+        - <b>Ejecutar en el arranque</b>: Necesario para poder establecer notificaciones al inicio.
+        - <b>Evitar que el teléfono se quede dormido</b>: Necesario para entregar las notificaciones cuando la pantalla está apagada.
+
+        <b>Trucos:</b>
+        - Deslizar de derecha a izquierda para moverse entre ubicaciones
+        - Utilice los botones de volumen para cambiar la fecha
+    </string>
+
+</resources>
