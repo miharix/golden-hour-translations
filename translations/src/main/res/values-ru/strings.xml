@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Спасибо переводчикам:</string>
     <string name="translate_to_your_language">Свяжитесь с разработчиком для получения дополнительной информации</string>
     <string name="translate_to_your_language_description">Вы можете помочь перевести приложение на ваш язык</string>
-    <string name="translate_to_your_language_message">Здравствуйте, я хочу помочь с переводом приложения на ___ язык!</string>
-    <string name="translate_to_your_language_subject">Перевод</string>
 
     <!-- -->
     <string name="alarms_warning">Пожалуйста, примите к сведению, что будильник может работать некорректно на некоторых устройства (в основном на Самсунгах).\nОтключите будильники, если приложение сообщает об ошибке в момент срабатывания будильника.</string>

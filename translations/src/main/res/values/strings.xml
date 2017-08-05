@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Thanks to translators:</string>
     <string name="translate_to_your_language">Contact developer for further information</string>
     <string name="translate_to_your_language_description">You can help to translate this app to your language</string>
-    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
-    <string name="translate_to_your_language_subject">Translation</string>
 
     <!-- -->
     <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDisable alarms if app is crashing at the time of alarm.</string>

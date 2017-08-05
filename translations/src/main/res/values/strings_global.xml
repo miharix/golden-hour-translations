@@ -27,4 +27,7 @@
     <string name="degree_sign">°</string>
     <string name="empty_time">--:--</string>
 
+    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
+    <string name="translate_to_your_language_subject">Translation</string>
+
 </resources>

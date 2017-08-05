@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Danke an die Übersetzer:</string>
     <string name="translate_to_your_language">Kontaktieren Sie die Entwickler für nähere Informationen</string>
     <string name="translate_to_your_language_description">Sie können helfen, um diese App in Ihre Sprache zu übersetzen</string>
-    <string name="translate_to_your_language_message">Hi, ich möchte gerne bei der Übersetzung der App in die Sprache ___ helfen.</string>
-    <string name="translate_to_your_language_subject">Übersetzung</string>
 
     <!-- -->
     <string name="alarms_warning">>Bitte beachten Sie, dass die Alarme nicht auf allen Geräten (vorallem Samsung) funktionieren.\nBitte die Funktion abschalten, wenn die App zum Zeitpunkt eines Alarmes abstürzt.</string>
