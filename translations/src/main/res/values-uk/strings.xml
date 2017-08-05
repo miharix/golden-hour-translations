@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Подяка перекладачам:</string>
     <string name="translate_to_your_language">Зв\'яжіться з розробником для отримання додаткових даних</string>
     <string name="translate_to_your_language_description">Ви можете допомогти перекласти цю програму своєю мовою</string>
-    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
-    <string name="translate_to_your_language_subject">Translation</string>
 
     <!-- -->
     <string name="alarms_warning">Будь ласка, пам\'ятайте, що на деяких пристроях (насамперед Samsung) сиґнали не працюють належним чином.\Вимкнути сиґнал при збої програми під час сиґналу.</string>
