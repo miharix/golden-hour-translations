@@ -30,3 +30,5 @@ And last but not least: Always write your commit messages in the present tense. 
 
 - Alexander Fischer (Deutsch / Deutschland)
 - Izar Castorina (Italiano)
+- Oleh Tsyupka (Українська)
+- Sergio Bartolomé Carrera (Español)
