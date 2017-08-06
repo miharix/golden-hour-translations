@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- <= 80 characters-->
+    <string name="short_description">Vind de tijd en duur van de diverse zonlichtperiodes op elke locatie.</string>
+
+    <string name="full_description">
+        Eenvoudig en gemakkelijke tool voor het berekenen van de tijd en duur van zonsopkomst, zonsondergang en andere zonlichtperiodes op elke locatie.
+
+        <b>Zonder advertenties!</b>
+
+        <b>Belangrijkeste functies:</b>
+        - Vind de tijd van zonsopkomst en zonsondergang
+        - Vind de duur van burgerlijke, nautische en astronomische schemering, gouden en blauwe uur
+        - Geniet van een simpelen en gemakkelijk te gebruiken interface
+        - Werkt offline zonder internet verbinding
+        - Houd al je favoriete steden in de gaten
+        - Stel notificaties in voor aankomende zonsopkomsten, zonsondergangen of gouden uren
+
+        <b>Toestemmingen:</b>
+        - <b>Toegang tot precieze locatie</b>: benodigd voor het vinden van de huidige locatie
+        - <b>Netwerkverindingen weergeven</b>, <b>Volledige netwerktoegang</b>: benodigd voor het toevoegen van nieuwe locaties en het verkrijgen van de locatienaam
+        - <b>Uitvoeren bij opstarten</b>: benodigd voor het instellen van notificaties.
+        - <b>Voorkomen dat telefoon overschakeld naar de slaapmodus</b>: benodigd voor notificaties wanneer het scherm uit is.
+
+        <b>Tips:</b>
+        - Swipe rechts naar links om te wisselen tussen locaties
+        - Gebruik volumeknoppen om de datum te wisselen
+    </string>
+
+</resources>
