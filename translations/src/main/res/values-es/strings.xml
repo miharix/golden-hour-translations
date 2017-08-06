@@ -121,10 +121,6 @@
     <string name="error_zero_results">No se encontraron resultados</string>
     <string name="error_unknown">Error desconocido</string>
 
-    <string name="database_error">Error de la base de datos</string>
-    <string name="notification_already_exist">No guardado, la notificacion ya existe</string>
-    <string name="unknown_error">Error Desconocido</string>
-
     <string name="alarm_default_title">Alarma</string>
 
     <string name="alarm_dismiss_now_text">Descartar ahora</string>
