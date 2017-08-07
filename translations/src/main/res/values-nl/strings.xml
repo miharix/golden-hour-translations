@@ -52,7 +52,7 @@
         \'s Ochtends begint astronomische schemering als het middenpunt van de zon 18° onder de horizon is en eindigt met zonsopkomst.\n\'s Avonds begint astronomische schemering met zonsondergang en eindig als het middenpunt van de zon 18° onder de horizon is.\nVanaf het einde van astronomische schemering in de avond tot het begin van astronomische schemering in de ochtend is de lucht (afgezien van lichtvervuiling) donker genoeg voor het zien van maan en sterren.
     </string>
     <string name="day_phase_info_source">wikipedia</string>
-    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+    <string name="day_phase_info_link">https://nl.wikipedia.org/wiki/Schemering</string>
 
     <!-- fragment add location -->
     <string name="current_location">Huidige locatie</string>
