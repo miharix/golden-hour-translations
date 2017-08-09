@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Alarm</string>
+    <string name="activity_alarm_settings">Alarmen</string>
+    <string name="activity_edit_locations">Bewerk locaties</string>
+    <string name="activity_notification_setting">Notificatie</string>
+    <string name="activity_notification_settings">Notificaties</string>
+    <string name="activity_select_location">Selecteer locatie</string>
+    <string name="activity_settings">Instellingen</string>
+    <string name="activity_support_this_project">Ondersteun dit project</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Opkomst &amp; Ondergang</string>
+    <string name="widget_sun_table">Tabel</string>
+    <string name="widget_sun_tiles">Tegels</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Annuleren</string>
+    <string name="delete">Verwijderen</string>
+    <string name="edit_location">Bewerk locatie</string>
+
+    <string name="day_phase_golden_hour_description">
+        Het gouden uur, ook wel magische uur genoemd, is een term uit de fotografie, die de korte periode na zonsopgang of voor zonsondergang aangeeft, waarin er meer indirect zonlicht is, waardoor het licht meer rood en zachter is. Omdat de zon aan de horizon staat, gaat het licht een langere afstand door de atmosfeer. Het blauwe licht wordt hierdoor meer verstrooid, waardoor het rode licht relatief meer aanwezig is.\nDe term uur betekent niet dat dit ook echt zestig minuten duurt. Het effect duurt sowieso korter voor plaatsen dichter bij de evenaar, omdat de zon daar sneller klimt. In theorie kan het gouden uur boven de poolcirkel de hele dag duren. Als vuistregel wordt doorgaans wel \"het eerste en het laatste uur van de dag\" genomen. Een andere definitie is de periode dat de zon minder dan zes graden boven de horizon staat.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        Het blauwe uur is de benaming voor het verschijnsel dat \'s ochtends, het uur voor zonsopkomst en \'s avonds, net na zonsondergang bij bepaalde omstandigheden de lucht en de omgeving een blauwe kleur aannemen. Het blauwe uur is een onderdeel van de schemering en duurt meestal slechts een tiental minuten.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        \'s Ochtends begint burgerlijke schemering als het middenpunt van de zon 6° onder de horizon is (dageraad) en eindigt met zonsopkomst.\n\'s Avonds begint burgerlijke scherming met zonsondergang en eindigt wanneer het middenpunt van de zon 6° onder de horizon is (schemering).\nTijdens de burgerlijke schemering wordt het duidelijk licht aan de horizon.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        Gedurende nautische schemering is de horizon duidelijk zichtbaar, maar kunstlicht is nodig om objecten te kunnen onderscheiden.\n\'s Ochtends begint nautische schemering als het middenpunt van de zon 12° onder de horizon is en eindigt met zonsopkomst.\n\'s Avonds begint nautische schemering met zonsondergang en eindig als het middenpunt van de zon 12° onder de horizon is.\nIn het algemeen eindigt nautische schemering als navigatie via de horizon op zee niet langer mogelijk is.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        \'s Ochtends begint astronomische schemering als het middenpunt van de zon 18° onder de horizon is en eindigt met zonsopkomst.\n\'s Avonds begint astronomische schemering met zonsondergang en eindig als het middenpunt van de zon 18° onder de horizon is.\nVanaf het einde van astronomische schemering in de avond tot het begin van astronomische schemering in de ochtend is de lucht (afgezien van lichtvervuiling) donker genoeg voor het zien van maan en sterren.
+    </string>
+    <string name="day_phase_info_source">wikipedia</string>
+    <string name="day_phase_info_link">https://nl.wikipedia.org/wiki/Schemering</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Huidige locatie</string>
+    <string name="search_location_hint">Zoeken naar locatienaam</string>
+
+    <!-- menu -->
+    <string name="action_delete">Verwijderen</string>
+    <string name="action_grid">Rooster</string>
+    <string name="action_map">Kaart</string>
+    <string name="action_select_date">Selecteer datum</string>
+    <string name="action_satellite_map">Satelietkaart</string>
+
+    <!-- notifications -->
+    <string name="local_time">Lokale tijd</string>
+    <string name="wait">Even wachten…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">De gouden uur app heeft een aantal handige functies voor het vinden van de tijd voor zonsopgang of zonsondergang - je kan de nieuwe versie downloaden via: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Vandaag</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
+    <string name="refresh">Verversen</string>
+
+    <string name="event">Gebeurtenis</string>
+    <string name="every_day">Elke dag</string>
+    <string name="label_optional">Label (optioneel)</string>
+    <string name="select_event">Selecteer gebeurtenis</string>
+    <string name="select_location">Selecteer locatie</string>
+    <string name="task_setting_incomplete">Locatie, gebeurtenis en dag van de week mag niet leeg zijn</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Neem deel aan het test programma voor een nog niet uitgebrachte versie van de app</string>
+    <string name="beta_program_description">Als je experimentele functies uit wil proberen voordag de app uitgebracht is, kun je meedoen aan het beta test programma.\n
+        Als beta tester, ben je in staat om functies te gebruiken die nog niet uitgebracht zijn. Deze functies kunnen in de toekomst beschikbaar worden. We vragen je om niets over de functies te publiceren of the delen voordat ze uitgebracht zijn.\n
+        Door deel te nemen als beta tester wordt je een belangrijk onderdeel van de ontwikkeling van deze app. Je deelname en feedback zal ons helpen om een betere versie van de app uit te brengen.\n
+        Wees bewust dat testversies onstabiel of een aantal bugs kunnen bevatten.</string>
+    <string name="thanks_to_translators">Dank voor de vertalers:</string>
+    <string name="translate_to_your_language">Neem contact op met de ontwikkelaar voor verdere informatie</string>
+    <string name="translate_to_your_language_description">Je kan helpen om de app te vertalen in je eigen taal</string>
+
+    <!-- -->
+    <string name="alarms_warning">Wees bewust dat de alarmen niet goed kunnen werken op sommige apparaten (voornamelijk Samsung apparaten).\nSchakel alarmen uit als de app crasht op de alarmtijd.</string>
+    <string name="connection_not_available">Sorry, de gegevens zijn niet beschikbaar.\nControleer je internet verbinding.</string>
+    <string name="disable_current_location">Zet huidige locatie uit</string>
+    <string name="location_limit_reached">Locatielimiet bereikt.\nVerwijder een locatie als je een nieuwe wilt toevoegen.</string>
+    <string name="location_service_not_available">Gegevens niet beschikbaar.\nControleer locatiegegevensinstellingen.</string>
+    <string name="location_service_is_turned_off">Locatieservice is uitgeschakeld</string>
+    <string name="notifications_warning">Wees bewust dat de notificaties niet goed kunnen werken op sommige apparaten (voornamelijk Samsung apparaten).\nSchakel notificaties uit als de app crasht op de notificatietijd.</string>
+    <string name="must_have_one_location">App heeft tenminste 1 locatie nodig</string>
+
+    <string name="permission_access_fine_location">Toestemming voor locatiegegevens is nodig om de huidige locatie te bepalen.</string>
+    <string name="turn_on">Inschakelen</string>
+    <string name="database_error">Databasefout</string>
+    <string name="notification_already_exist">Niet opgeslagen, instelling betaat al</string>
+    <string name="unknown_error">Onbekende fout</string>
+
+    <string name="alarm_default_title">Alarm</string>
+
+    <string name="alarm_dismiss_now_text">Nu stoppen</string>
+    <string name="alarm_dismiss_text">Stoppen</string>
+    <string name="alarm_snooze_text">Uitstellen</string>
+    <string name="alarm_upcoming">Aankomend alarm</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Nacht</string>
+    <string name="sun_phase_twilight_astronomical">Astronomische schemering</string>
+    <string name="sun_phase_twilight_nautical">Nautische schemering</string>
+    <string name="sun_phase_twilight_civil">Burgerlijke schemering</string>
+    <string name="sun_phase_blue_hour">Blauwe uur</string>
+    <string name="sun_phase_golden_hour">Gouden uur</string>
+    <string name="sun_phase_twilight_official">Officiële schemering</string>
+    <string name="sun_phase_day">Dag</string>
+    <string name="sun_phase_morning">Ochtend</string>
+    <string name="sun_phase_evening">Avond</string>
+
+    <string name="sun_position_sunrise">Zonsopkomst</string>
+    <string name="sun_position_sunset">Zonsondergang</string>
+    <string name="sun_position_duration">Tijdsduur</string>
+    <string name="sun_position_noon">Hoogste punt</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="ar_dialog_rate_title">Beoordeel applicatie</string>
+    <string name="ar_dialog_rate_message">Als u tevreden bent over onze app dan stellen wij het op prijs als u dat met andere gebruikers wilt delen. Het beoordelen kost minder dan 1 minuut.\n\nBedankt voor uw ondersteuning!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Beoordeel app</string>
+    <string name="ar_dialog_rate_negative_button">Later</string>
+    <string name="ar_dialog_rate_neutral_button">Nee, dank je</string>
+    <string name="ar_unable_to_find_google_play">Kan Google Play Store app niet vinden</string>
+</resources>
