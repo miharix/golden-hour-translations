@@ -98,7 +98,7 @@
     <string name="translate_to_your_language_description">Sie können helfen, um diese App in Ihre Sprache zu übersetzen</string>
 
     <!-- -->
-    <string name="alarms_warning">>Bitte beachten Sie, dass die Alarme nicht auf allen Geräten (vorallem Samsung) funktionieren.\nBitte die Funktion abschalten, wenn die App zum Zeitpunkt eines Alarmes abstürzt.</string>
+    <string name="alarms_warning">Bitte beachten Sie, dass die Alarme nicht auf allen Geräten (vorallem Samsung) funktionieren.\nBitte die Funktion abschalten, wenn die App zum Zeitpunkt eines Alarmes abstürzt.</string>
     <string name="connection_not_available">Dienst steht zur Zeit nicht zur Verfügung.\nBitte prüfen Sie Ihre Internetverbindung.</string>
     <string name="disable_current_location">Aktuelle Position abschalten.</string>
     <string name="location_limit_reached">Maximal speicherbare Positionen sind überschritten.\nBitte eine Position löschen um eine neue hinzuzufügen.</string>
