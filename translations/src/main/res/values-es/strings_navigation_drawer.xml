@@ -17,7 +17,6 @@
 
 <resources>
 
-    <string name="navigation_view_about">Acerca</string>
     <string name="navigation_view_alarms">Alarmas</string>
     <string name="navigation_view_close">Cerrar cajón de notificaciones</string>
     <string name="navigation_view_current_location">Ubicación actual</string>
