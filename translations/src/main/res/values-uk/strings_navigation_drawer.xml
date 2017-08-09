@@ -17,7 +17,6 @@
 
 <resources>
 
-    <string name="navigation_view_about">Детальніше</string>
     <string name="navigation_view_alarms">Сиґнали</string>
     <string name="navigation_view_close">Закрити навіґаційну панель</string>
     <string name="navigation_view_current_location">Поточне розташування</string>

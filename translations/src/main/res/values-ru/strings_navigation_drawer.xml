@@ -17,7 +17,6 @@
 
 <resources>
 
-    <string name="navigation_view_about">О программе</string>
     <string name="navigation_view_alarms">Будильники</string>
     <string name="navigation_view_close">Закрыть меню</string>
     <string name="navigation_view_current_location">Текущее местоположение</string>
