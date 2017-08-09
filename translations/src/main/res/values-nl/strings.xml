@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Dank voor de vertalers:</string>
     <string name="translate_to_your_language">Neem contact op met de ontwikkelaar voor verdere informatie</string>
     <string name="translate_to_your_language_description">Je kan helpen om de app te vertalen in je eigen taal</string>
-    <string name="translate_to_your_language_message">Hoi, ik wil graag helpen om de app te vertalen naar ____ !</string>
-    <string name="translate_to_your_language_subject">Vertalingen</string>
 
     <!-- -->
     <string name="alarms_warning">Wees bewust dat de alarmen niet goed kunnen werken op sommige apparaten (voornamelijk Samsung apparaten).\nSchakel alarmen uit als de app crasht op de alarmtijd.</string>
