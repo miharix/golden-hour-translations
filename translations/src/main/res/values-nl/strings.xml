@@ -77,7 +77,7 @@
 
     <string name="developer_name">Oleg Kan</string>
 
-    <string name="coordinates">breedtegraad: %1$s, lengtegraad: %2$s</string>
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
     <string name="refresh">Verversen</string>
 
     <string name="event">Gebeurtenis</string>

@@ -16,7 +16,7 @@
 
 <resources>
     <string name="ar_dialog_rate_title">Beoordeel applicatie</string>
-    <string name="ar_dialog_rate_message">If you enjoy using our app, would you mind taking a moment to let us know how you feel?\n\nThank you for your support!</string>
+    <string name="ar_dialog_rate_message">Als u tevreden bent over onze app dan stellen wij het op prijs als u dat met andere gebruikers wilt delen. Het beoordelen kost minder dan 1 minuut.\n\nBedankt voor uw ondersteuning!</string>
     <string name="ar_dialog_rate_positive_button_rate">Beoordeel app</string>
     <string name="ar_dialog_rate_negative_button">Later</string>
     <string name="ar_dialog_rate_neutral_button">Nee, dank je</string>
