@@ -23,7 +23,7 @@
     <string name="settings_category_notifications">Ustawienia powiadomień</string>
     <string name="settings_week_start">Zacznij tydzień od</string>
     <string name="settings_notifications_sound">Dźwięk</string>
-    <string name="settings_notifications_vibrate">Wibracja</string>
+    <string name="settings_notifications_vibrate">Wibracje</string>
     <string name="settings_notifications_light">Dioda powiadomień</string>
     <string name="settings_category_information">Informacje</string>
     <string name="settings_more_from_developer">Więcej od dewelopera</string>
