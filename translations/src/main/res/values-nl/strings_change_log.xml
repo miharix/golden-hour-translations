@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="change_log_description">
+        <![CDATA[
+        <html>
+            <head>
+                <style>
+                    p {
+                        margin-top: 0em;
+                        margin-bottom: 0em;
+                    }
+                    h3 {
+                        margin-top: 0em;
+                        margin-bottom: 0em;
+                    }
+                    div {
+                        margin-top: 1em;
+                        margin-bottom: 1em;
+                        margin-right: 0.2em;
+                        padding-left: 4px;
+                        padding-right: 4px;
+                    }
+                    ul {
+                        -webkit-padding-start: 1em;
+                        list-style-position: outside;
+                    }
+                </style>
+            </head>
+            <body>
+                <div>
+
+                    <div align="left">
+                        <h3>New in 2.2</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>New: App translated to German (Germany) (thanks to Alexander Fischer).</li>
+                            <li>New: App translated to Italian (thanks to Izar Castorina).</li>
+                            <li>New: Weekdays added to notification settings.</li>
+                            <li>New: Notifications moved to main menu. Independent settings for location + event.</li>
+                            <li>Fixed: Bug fixes and miscellaneous improvements.</li>
+                            <li>A big thanks to all of you who have rated the app, joined beta testing group, offered suggestions and sent crash reports.
+                            <br>Your support is much appreciated!</li>
+                        </ul>
+                        Join beta testing group to get new features before they\'re released.<br>
+                        Go to Menu =&gt; Support this project to join the group.<br>
+                    </div>
+
+                    <div align="left">
+                        <h3>New in 2.1</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>New: Widgets.</li>
+                            <li>Fixed: Bug fixes and miscellaneous improvements.</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>New in 2.0</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>New: Option to switch map to satellite view.</li>
+                            <li>New: Time format setting (12-hour or 24-hour).</li>
+                            <li>New: Coordinates format setting.</li>
+                            <li>New: Now you can set the ringtone as a notification sound.</li>
+                            <li>Improved: Current location mode.</li>
+                            <li>Improved: Notifications.</li>
+                            <li>Improved: User interface.</li>
+                            <li>Improved: Timezone database updated.</li>
+                            <li>Fixed: Disable all notifications is working now.</li>
+                            <li>Fixed: Notifications on Android 7.</li>
+                            <li>Fixed: Known bugs fixed, new bugs added.</li>
+                        </ul>
+                        Coming next in v2.1:
+                        <ul>
+                            <li>Widgets.</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>New in 1.2</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>New: <u>Notifications</u>.&nbsp;You are now able to set notifications for upcoming sunrises, sunsets or golden hours.
+                            <br>To enable notifications go to Settings, check Notification checkbox and tap on Locations.
+                            <br>Optionally you can change notification\'s sound, vibration pattern and LED light (on supported devices).</li>
+                            <li>New: Country name added to location\'s properties (for newly added locations).</li>
+                            <li>Improved: User interface.</li>
+                            <li>Improved: Timezone database updated.</li>
+                            <li>New: Change log added.</li>
+                            <li>Fixed: Bug fixes and miscellaneous improvements.</li>
+                        </ul>
+                    </div>
+
+                    <div align="left">
+                        <h3>New in 1.1</h3>
+                    </div>
+                    <div align="left">
+                        <ul>
+                            <li>New: Map mode added.</li>
+                            <li>Improved: Android 6 (Marshmallow) support added.</li>
+                            <li>Improved: Timezone database updated.</li>
+                            <li>Fixed: Bug fixes and miscellaneous improvements.</li>
+                        </ul>
+                    </div>
+
+                </div>
+            </body>
+        </html>
+        ]]>
+    </string>
+
+</resources>
