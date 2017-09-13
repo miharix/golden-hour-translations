@@ -40,19 +40,19 @@
         Het gouden uur, ook wel magische uur genoemd, is een term uit de fotografie, die de korte periode na zonsopgang of voor zonsondergang aangeeft, waarin er meer indirect zonlicht is, waardoor het licht meer rood en zachter is. Omdat de zon aan de horizon staat, gaat het licht een langere afstand door de atmosfeer. Het blauwe licht wordt hierdoor meer verstrooid, waardoor het rode licht relatief meer aanwezig is.\nDe term uur betekent niet dat dit ook echt zestig minuten duurt. Het effect duurt sowieso korter voor plaatsen dichter bij de evenaar, omdat de zon daar sneller klimt. In theorie kan het gouden uur boven de poolcirkel de hele dag duren. Als vuistregel wordt doorgaans wel \"het eerste en het laatste uur van de dag\" genomen. Een andere definitie is de periode dat de zon minder dan zes graden boven de horizon staat.
     </string>
     <string name="day_phase_blue_hour_description">
-        Het blauwe uur is de benaming voor het verschijnsel dat 's ochtends, het uur voor zonsopkomst en 's avonds, net na zonsondergang bij bepaalde omstandigheden de lucht en de omgeving een blauwe kleur aannemen. Het blauwe uur is een onderdeel van de schemering en duurt meestal slechts een tiental minuten.
+        Het blauwe uur is de benaming voor het verschijnsel dat \'s ochtends, het uur voor zonsopkomst en \'s avonds, net na zonsondergang bij bepaalde omstandigheden de lucht en de omgeving een blauwe kleur aannemen. Het blauwe uur is een onderdeel van de schemering en duurt meestal slechts een tiental minuten.
     </string>
     <string name="day_phase_twilight_civil_description">
-        's Ochtends begint burgerlijke schemering als het middenpunt van de zon 6° onder de horizon is (dageraad) en eindigt met zonsopkomst.\n's Avonds begint burgerlijke scherming met zonsondergang en eindigt wanneer het middenpunt van de zon 6° onder de horizon is (schemering).\nTijdens de burgerlijke schemering wordt het duidelijk licht aan de horizon.
+        \'s Ochtends begint burgerlijke schemering als het middenpunt van de zon 6° onder de horizon is (dageraad) en eindigt met zonsopkomst.\n\'s Avonds begint burgerlijke scherming met zonsondergang en eindigt wanneer het middenpunt van de zon 6° onder de horizon is (schemering).\nTijdens de burgerlijke schemering wordt het duidelijk licht aan de horizon.
     </string>
     <string name="day_phase_twilight_nautical_description">
-        Gedurende nautische schemering is de horizon duidelijk zichtbaar, maar kunstlicht is nodig om objecten te kunnen onderscheiden.\n's Ochtends begint nautische schemering als het middenpunt van de zon 12° onder de horizon is en eindigt met zonsopkomst.\n's Avonds begint nautische schemering met zonsondergang en eindig als het middenpunt van de zon 12° onder de horizon is.\nIn het algemeen eindigt nautische schemering als navigatie via de horizon op zee niet langer mogelijk is.
+        Gedurende nautische schemering is de horizon duidelijk zichtbaar, maar kunstlicht is nodig om objecten te kunnen onderscheiden.\n\'s Ochtends begint nautische schemering als het middenpunt van de zon 12° onder de horizon is en eindigt met zonsopkomst.\n\'s Avonds begint nautische schemering met zonsondergang en eindig als het middenpunt van de zon 12° onder de horizon is.\nIn het algemeen eindigt nautische schemering als navigatie via de horizon op zee niet langer mogelijk is.
     </string>
     <string name="day_phase_twilight_astronomical_description">
-        's Ochtends begint astronomische schemering als het middenpunt van de zon 18° onder de horizon is en eindigt met zonsopkomst.\n's Avonds begint astronomische schemering met zonsondergang en eindig als het middenpunt van de zon 18° onder de horizon is.\nVanaf het einde van astronomische schemering in de avond tot het begin van astronomische schemering in de ochtend is de lucht (afgezien van lichtvervuiling) donker genoeg voor het zien van maan en sterren.
+        \'s Ochtends begint astronomische schemering als het middenpunt van de zon 18° onder de horizon is en eindigt met zonsopkomst.\n\'s Avonds begint astronomische schemering met zonsondergang en eindig als het middenpunt van de zon 18° onder de horizon is.\nVanaf het einde van astronomische schemering in de avond tot het begin van astronomische schemering in de ochtend is de lucht (afgezien van lichtvervuiling) donker genoeg voor het zien van maan en sterren.
     </string>
     <string name="day_phase_info_source">wikipedia</string>
-    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+    <string name="day_phase_info_link">https://nl.wikipedia.org/wiki/Schemering</string>
 
     <!-- fragment add location -->
     <string name="current_location">Huidige locatie</string>
@@ -77,7 +77,7 @@
 
     <string name="developer_name">Oleg Kan</string>
 
-    <string name="coordinates">breedtegraad: %1$s, lengtegraad: %2$s</string>
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
     <string name="refresh">Verversen</string>
 
     <string name="event">Gebeurtenis</string>
@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Dank voor de vertalers:</string>
     <string name="translate_to_your_language">Neem contact op met de ontwikkelaar voor verdere informatie</string>
     <string name="translate_to_your_language_description">Je kan helpen om de app te vertalen in je eigen taal</string>
-    <string name="translate_to_your_language_message">Hoi, ik wil graag helpen om de app te vertalen naar ____ !</string>
-    <string name="translate_to_your_language_subject">Vertalingen</string>
 
     <!-- -->
     <string name="alarms_warning">Wees bewust dat de alarmen niet goed kunnen werken op sommige apparaten (voornamelijk Samsung apparaten).\nSchakel alarmen uit als de app crasht op de alarmtijd.</string>

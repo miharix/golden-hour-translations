@@ -17,7 +17,6 @@
 
 <resources>
 
-    <string name="navigation_view_about">Over</string>
     <string name="navigation_view_alarms">Alarmen</string>
     <string name="navigation_view_close">Sluit menu</string>
     <string name="navigation_view_current_location">Huidige locatie</string>

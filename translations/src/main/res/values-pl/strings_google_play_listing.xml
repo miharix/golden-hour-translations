@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- <= 80 characters-->
+    <string name="short_description">Znajdź czas i długość poszczególnych faz światła słonecznego w dowolnym miejscu.</string>
+
+    <string name="full_description">
+        Łatwe i wygodne narzędzie do obliczania czasu i długości wschodu i zachodu Słońca oraz innych faz światła słonecznego w dowolnym miejscu.
+
+        <b>Bez Reklam!</b>
+
+        <b>Podstawowe cechy:</b>
+        - Poznaj czas wschodu i zachodu Słońca
+        - Znajdź długość cywilnego, żeglarskiego i astronomicznego zmierzchu oraz świtu, "złotej" i "niebieskiej" godziny
+        - Ciesz się prostym i łatwym w obsłudze interfejsem
+        - Pracuj offline, bez połączenia internetowego
+        - Obserwuj wszystkie ulubione miasta
+        - Ustaw powiadomienia na nadchodzące wschody, zachody czy złote godziny
+
+        <b>Uprawnienia:</b>
+        - <b>Dokładna lokalizacja</b>: wymagane w celu znalezienia aktualnej lokalizacji.
+        - <b>Wyświetlanie połączeń sieciowych</b>, <b>Pełny dostęp do sieci</b>: wymagane, aby móc dodać nową lokalizację i uzyskać aktualną nazwę miejsca.
+        - <b>Uruchamianie podczas włączania urządzenia</b>: wymagana w celu ustawienia powiadomień podczas uruchamiania.
+        - <b>Zapobieganie przed uśpieniem</b>: wymagane w celu dostarczenia powiadomień, gdy ekran jest wyłączony.
+
+        <b>Wskazówki:</b>
+        - Przesuń palcem z prawej do lewej, aby przemieszczać się między lokalizacjami
+        - Użyj przycisków głośności, aby zmienić datę
+    </string>
+
+</resources>

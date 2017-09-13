@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Сиґнал</string>
+    <string name="activity_alarm_settings">Сиґнали</string>
+    <string name="activity_edit_locations">Змінити розташування</string>
+    <string name="activity_notification_setting">Сповіщення</string>
+    <string name="activity_notification_settings">Сповіщення</string>
+    <string name="activity_select_location">Обрати розташування</string>
+    <string name="activity_settings">Налаштування</string>
+    <string name="activity_support_this_project">Підтримати цей проєкт</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Схід &amp; Захід</string>
+    <string name="widget_sun_table">Таблиця</string>
+    <string name="widget_sun_tiles">Плитки</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Скасувати</string>
+    <string name="delete">Вилучити</string>
+    <string name="edit_location">Змінити розташування</string>
+
+    <string name="day_phase_golden_hour_description">
+        У фотографії, золота година (иноді відома як магічна година, особливо в кінематографії) — це період, невдовзі після сходу або до заходу сонця, під час якого денне світло червоне і м\'яке, в порівнянні з тим, коли сонце є вище в небі. Термін \"година\" використовується образно; ефект не має чітко визначеної тривалости й змінюється залежно від сезону та широти.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        Блакитна (режимна) година — це період сутінків, що стається кожного ранку та вечора, коли сонце є на значній відстані нижче від обрію, а залишкове, непряме сонячне світло має переважно блакитний відтінок.\nПід час блакитної \"години\" червоне світло проходить просто у простір, а блакитне світло розсіюється в атмосфері і, отже, доходить до поверхні Землі.\nЗавдяки якости світла цей період цінується мистцями.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        Ранок цивільних сутінків починається, коли геометричний центр сонця перебуває на 6° нижче за небокрай (цивільного світанку) і закінчується на сході сонця.\nПочаток цивільних сутінків починається із заходу сонця й закінчується, коли геометричний центр сонця досягає 6° нижче крайнеба (цивільний присмерк).\nЦивільні сутінки також можна описати як межа, за якою сутінкове освітлення є достатнім, за сприятливих погодних умов, для чіткого розмежування наземних об\'єктів.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        Під час морських сутінків овид (горизонт) чітко видно, але щоб бачити наземні об\'єкти, потрібне штучне освітлення.\nВизначається, що ранкові навіґаційні сутінки починаються, коли центр сонця розташований геометрично під кутом 12° над обрієм до кінця сходу сонця.\nЩо ж до вечірних навіґаційних сутінків, то визначається, що вони починаються із заходу сонця й закінчуються, коли центр сонця розташований геометрично під кутом 12 градусів над круговидом до кінця сходу сонця.\На загал, навіґаційні сутінки закінчуються, коли навіґація за допомогою небокраю в морі більше неможлива.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        Визначається, що ранкові астрономічні сутінки починаються, коли центр сонця розташований геометрично під кутом 12° над небокругом до кінця сходу сонця.\nТак само, визначається, що вечірні астрономічні сутінки починаються, коли сходить сонце і закінчуються, коли центр сонця розташований під кутом 18° нижче за горизонт.\nВід кінця астрономічних сутінків увечері й до початку астрономічних сутінків зранку, небо (далеко від міського забруднення світлом) є доволі темним для всіх астрономічних спостережень.
+    </string>
+    <string name="day_phase_info_source">wikipedia</string>
+    <string name="day_phase_info_link" formatted="false">https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D1%82%D1%96%D0%BD%D0%BA%D0%B8</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Поточне місце</string>
+    <string name="search_location_hint">Шукати за назвою місця</string>
+
+    <!-- menu -->
+    <string name="action_delete">Вилучити</string>
+    <string name="action_grid">Таблиця</string>
+    <string name="action_map">Мапа</string>
+    <string name="action_select_date">Обрати дату</string>
+    <string name="action_satellite_map">Супутникова мапа</string>
+
+    <!-- notifications -->
+    <string name="local_time">Місцевий час</string>
+    <string name="wait">Будь ласка, зачекайте…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">Застосунок «Golden Hour» має кілька цікавих функцій для пошуку часу сходу або заходу сонця — ви можете завантажити нову версію з: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Сьогодні</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">ш.: %1$s, д.: %2$s</string>
+    <string name="refresh">Оновити</string>
+
+    <string name="event">Подія</string>
+    <string name="every_day">Щодня</string>
+    <string name="label_optional">Мітка (необов\'язково)</string>
+    <string name="select_event">Обрати подію</string>
+    <string name="select_location">Обрати місце розташування</string>
+    <string name="task_setting_incomplete">Місце розташування, подія та дні тижня не можуть бути порожніми</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Долучитися до програми тестування для невиданої версії застосунка</string>
+    <string name="beta_program_description">Якщо бажаєте випробувати експериментальні функції програми, перш ніж вони будуть випущені, ви можете приєднатися до програми бета-тестування.\n
+        Як бета-тестер, ви зможете користати функції, які не були випущені для загалу. Ці функції можуть стати доступними для користувачів у майбутньому. Ми просимо вас не оприлюднювати чи ділитися функціями, які ви тестуєте, допоки вони не будуть відкриті.\n
+        За допомогою бета-тестування ви станете важливою частиною розробки застосунка. Ваша участь і відгуки допоможуть нам випустити кращу версію програми.\n
+        Зверніть увагу, що версії для тестування можуть бути нестабільними або мати вади.</string>
+    <string name="thanks_to_translators">Подяка перекладачам:</string>
+    <string name="translate_to_your_language">Зв\'яжіться з розробником для отримання додаткових даних</string>
+    <string name="translate_to_your_language_description">Ви можете допомогти перекласти цю програму своєю мовою</string>
+
+    <!-- -->
+    <string name="alarms_warning">Будь ласка, пам\'ятайте, що на деяких пристроях (насамперед Samsung) сиґнали не працюють належним чином.\Вимкнути сиґнал при збої програми під час сиґналу.</string>
+    <string name="disable_current_location">Вимкнути поточне місце розташування</string>
+    <string name="location_service_is_turned_off">Служба локації вимкнена</string>
+    <string name="notifications_warning">Зверніть увагу, що на деяких пристроях сповіщення можуть не працювати належним чином (здебільшого Samsung).\nВимкнути сповіщення при збої програми під час сповіщення.</string>
+    <string name="permission_access_fine_location">Потрібний дозвіл для отримання поточного місця розташування.</string>
+    <string name="turn_on">Увімкнути</string>
+
+    <string name="error_database">Помилка бази даних</string>
+    <string name="error_http">Помилка HTTP</string>
+    <string name="error_invalid_request">Неправильний запит</string>
+    <string name="error_invalid_response">Неправильна відповідь</string>
+    <string name="error_location_limit_reached">Ліміт розташувань досягнуто.\nВилучіть місце, якщо хочете додати більше.</string>
+    <string name="error_location_not_found">Місце розташування не знайдено</string>
+    <string name="error_location_service_not_available">Сервіс недоступний.\nПеревірте службу локації.</string>
+    <string name="error_must_have_one_location">Застосунок має мати, принаймні, 1 місце розташування</string>
+    <string name="error_network_connection">На жаль, ця послуга недоступна.\nПеревірте інтернет-з\'єднання.</string>
+    <string name="error_over_query_limit">Ліміт запитів досягнуто, спробуйте ще раз пізніше</string>
+    <string name="error_remote_server_connection">Помилка з\'єднання із сервером</string>
+    <string name="error_request_denied">Запит відхилено</string>
+    <string name="error_task_setting_already_exist">Не збережено, налаштування вже існують</string>
+    <string name="error_zero_results">Нічого не знайдено</string>
+    <string name="error_unknown">Невідома помилка</string>
+
+    <string name="alarm_default_title">Сиґнал</string>
+
+    <string name="alarm_dismiss_now_text">Поки відхилити</string>
+    <string name="alarm_dismiss_text">Відхилити</string>
+    <string name="alarm_snooze_text">Відкласти</string>
+    <string name="alarm_upcoming">Надхожий сиґнал</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Ніч</string>
+    <string name="sun_phase_twilight_astronomical">Астрономічні сутінки</string>
+    <string name="sun_phase_twilight_nautical">Навіґаційні сутінки</string>
+    <string name="sun_phase_twilight_civil">Цивільні сутінки</string>
+    <string name="sun_phase_blue_hour">Режимна година</string>
+    <string name="sun_phase_golden_hour">Золота година</string>
+    <string name="sun_phase_twilight_official">Офіційні сутінки</string>
+    <string name="sun_phase_day">День</string>
+    <string name="sun_phase_morning">Ранок</string>
+    <string name="sun_phase_evening">Вечір</string>
+
+    <string name="sun_position_sunrise">Схід сонця</string>
+    <string name="sun_position_sunset">Захід сонця</string>
+    <string name="sun_position_duration">Тривалість</string>
+    <string name="sun_position_noon">Полудень</string>
+
+</resources>
