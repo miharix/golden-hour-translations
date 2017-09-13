@@ -89,8 +89,8 @@
 
     <!-- support this project -->
     <string name="beta_program">Neem deel aan het test programma voor een nog niet uitgebrachte versie van de app</string>
-    <string name="beta_program_description">Als je experimentele functies uit wil proberen voordag de app uitgebracht is, kun je meedoen aan het beta test programma.\n
-        Als beta tester, ben je in staat om functies te gebruiken die nog niet uitgebracht zijn. Deze functies kunnen in de toekomst beschikbaar worden. We vragen je om niets over de functies te publiceren of the delen voordat ze uitgebracht zijn.\n
+    <string name="beta_program_description">Als je experimentele functies uit wil proberen voordat de app uitgebracht is, kun je meedoen aan het beta test programma.\n
+        Als beta tester, ben je in staat om functies te gebruiken die nog niet uitgebracht zijn. Deze functies kunnen in de toekomst beschikbaar worden. We vragen je om niets over de functies te publiceren of te delen voordat ze uitgebracht zijn.\n
         Door deel te nemen als beta tester wordt je een belangrijk onderdeel van de ontwikkeling van deze app. Je deelname en feedback zal ons helpen om een betere versie van de app uit te brengen.\n
         Wees bewust dat testversies onstabiel of een aantal bugs kunnen bevatten.</string>
     <string name="thanks_to_translators">Dank voor de vertalers:</string>
