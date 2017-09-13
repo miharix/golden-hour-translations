@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- <= 80 characters-->
+    <string name="short_description">З\'ясуйте час і тривалість різних фаз сонячного світла в будь-якому місці.</string>
+
+    <string name="full_description">
+        Легкий і зручний інструмент для розрахунку часу й тривалости сходу та заходу сонця та инших фаз сонячного світла в будь-якому місці.
+
+        <b>Без реклями!</b>
+
+        <b>Особливості:</b>
+        - З'ясуйте час сходу та заходу сонця
+        - З'ясуйте тривалість цивільних, морських та астрономічних сутінків, "золотих" та "режимних" (блакитних) годин
+        - Насолоджуйтеся простою та легкою оболонкою
+        - Працюйте в автономному режимі без під’єднання до Інтернету
+        - Відстежуйте всі свої улюблені міста
+        - Налаштуйте сповіщення про майбутні сходи та заходи сонця або золоті години
+
+        <b>Дозволи:</b>
+        - <b>Точне місце розташування</b>: потрібне для того, щоб можна було знайти поточне розташування.
+        - <b>Перегляд мережевих з'єднань</b>, <b>Повний доступ до мережі</b>: потрібні, аби мати можливість додавати нове місце розташування й для отримання назви поточного розташування.
+        - <b>Запуск при ввімкнені</b>: потрібний задля встановлення сповіщення при запуску.
+        - <b>Запобігання переходу телефона у сплячий режим</b>: потрібне для отримання сповіщень, коли екран вимкнений.
+
+        <b>Поради:</b>
+        - Проведіть пальцем справа наліво, аби переміщуватися між місцями
+        - Користайте кнопки гучности, щоб змінити дату
+    </string>
+
+</resources>

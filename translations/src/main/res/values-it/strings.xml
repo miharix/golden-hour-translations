@@ -52,7 +52,7 @@
         L\'inizio del crepuscolo astronomico mattutino è definito quando il centro del sole è geometricamente 18 gradi al di sotto dell\'orizzonte e finisce all\'alba.\nL\'inizio del crepuscolo astronomico serale è definito al tramonto e finisce quando il centro del sole è 18 gradi al di sotto dell\'orizzonte.\nDalla fine del crepuscolo astronomico serale all\'inizio del crepuscolo astronomico mattutino, il cielo (in zone prive di inquinamento luminoso) è abbastanza scuro per le osservazioni astronomiche.
     </string>
     <string name="day_phase_info_source">Wikipedia</string>
-    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+    <string name="day_phase_info_link">https://it.wikipedia.org/wiki/Crepuscolo</string>
 
     <!-- fragment add location -->
     <string name="current_location">Posizione Attuale</string>
@@ -96,8 +96,6 @@
     <string name="thanks_to_translators">Grazie ai traduttori:</string>
     <string name="translate_to_your_language">Contatta lo sviluppatore per ulteriori informazioni</string>
     <string name="translate_to_your_language_description">Puoi aiutare a tradurre questa app nella tua lingua</string>
-    <string name="translate_to_your_language_message">Hi, I would like to help with translation of the app to ____ language!</string>
-    <string name="translate_to_your_language_subject">Translation</string>
 
     <!-- -->
     <string name="alarms_warning">Per favore, tieni presente che gli allarmi potrebbero non funzionare correttamente su alcuni dispositivi (principalmente Samsung).\nDisabilita gli allarmi se l\'app va in crash al momento dell\'allarme.</string>

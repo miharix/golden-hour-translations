@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="navigation_view_alarms">Сиґнали</string>
+    <string name="navigation_view_close">Закрити навіґаційну панель</string>
+    <string name="navigation_view_current_location">Поточне розташування</string>
+    <string name="navigation_view_edit_locations">Змінити міста</string>
+    <string name="navigation_view_info">Інфо</string>
+    <string name="navigation_view_notifications">Сповіщення</string>
+    <string name="navigation_view_open">Відкрити навіґаційну панель</string>
+    <string name="navigation_view_rate_this_app">Оцінити програму</string>
+    <string name="navigation_view_send_feedback">Надіслати відозву</string>
+    <string name="navigation_view_settings">Налаштування</string>
+    <string name="navigation_view_show_more_locations">Показати більше</string>
+    <string name="navigation_view_show_fewer_locations">Показати менше</string>
+    <string name="navigation_view_share">Поділитися з друзями</string>
+    <string name="navigation_view_support_this_project">Підтримати проєкт</string>
+
+</resources>

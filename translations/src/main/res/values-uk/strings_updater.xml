@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright (C) 2017 Oleg Kan
   ~
@@ -15,10 +16,5 @@
   -->
 
 <resources>
-    <string name="ar_dialog_rate_title">Rate Application</string>
-    <string name="ar_dialog_rate_message">If you enjoy using our app, would you mind taking a moment to rate it? It won\'t take more than a minute.\n\nThank you for your support!</string>
-    <string name="ar_dialog_rate_positive_button_rate">Rate App</string>
-    <string name="ar_dialog_rate_negative_button">Later</string>
-    <string name="ar_dialog_rate_neutral_button">No, Thanks</string>
-    <string name="ar_unable_to_find_google_play">Unable to find Google Play Store app</string>
+    <string name="u_change_log_title">Що нового?</string>
 </resources>

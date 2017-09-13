@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Alarm</string>
+    <string name="activity_alarm_settings">Alarmy</string>
+    <string name="activity_edit_locations">Edytuj Lokalizacje</string>
+    <string name="activity_notification_setting">Powiadomienie</string>
+    <string name="activity_notification_settings">Powiadomienia</string>
+    <string name="activity_select_location">Wybierz Lokalizację</string>
+    <string name="activity_settings">Ustawienia</string>
+    <string name="activity_support_this_project">Wesprzyj projekt</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Wschód &amp; Zachód</string>
+    <string name="widget_sun_table">Tabela</string>
+    <string name="widget_sun_tiles">Kafelki</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Anuluj</string>
+    <string name="delete">Usuń</string>
+    <string name="edit_location">Edytuj Lokalizację</string>
+
+    <string name="day_phase_golden_hour_description">
+        W fotografii, złota godzina (znana również jako magiczna godzina, szczególnie w kinematografii) to okres zaraz po wschodzie lub przed zachodem, podczas którego światło dzienne jest bardziej czerwone i miększe w porównaniu do czasu kiedy Słońce jest wysoko na niebie.\nOkreślenie \"godzina\" jest używane w przeności; efekt ten nie ma dokładnie określonego czasu trwania i różni się w zależności od pory roku i szerokości geograficznej.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        Niebieska godzina jest to czas podczas świtu i zmierzchu kiedy Słońce jest na znaczącej odległości pod horyzontem i resztkowe, pośrednie światło przybiera w przeważającej mierze niebieski odcień.\nPodczas niebieskiej \"godziny\" czerwone światło przechodzi w przestrzeń, podczas gdy niebieskie światło jest rozproszone w atmosferze i dociera do powierzchni Ziemi.\nZe względu na jakość światła ten okres jest ceniony przez artystów.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        Świt cywilny zaczyna się, gdy geometryczny środek Słońca jest 6° poniżej horyzontu i kończy się wschodem.\nZmierzch cywilny zaczyna się zachodem i kończy kiedy geometryczny środek Słońca dotrze do 6° poniżej horyzontu.\nZmierzch lub świt cywilny można określić jako granicę, przy której na jasnych warunkach pogodowych wystarczające jest oświetlenie zmierzchowe, aby obiekty lądowe były wyraźnie wyróżnione.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        Podczas zmierzchu żeglarskiego horyzont jest wyraźnie widoczny, ale musi być użyte sztuczne oświetlenie, żeby zobaczyć naziemne obiekty.\nŚwit żeglarski zaczyna się, gdy środek Słońca jest geometrycznie 12° poniżej horyzontu i trwa to wschodu.\nZmierzch żeglarski zaczyna się o zachodzie i kończy kiedy środek Słońca jest 12° poniżej horyzontu.\nGeneralnie, świt lub zmierzch żeglarski kończy się, gdy nawigacja na morzu przez horyzont przestaje być możliwa.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        Świt astronomiczny zaczyna się, gdy środek Słońca jest 18° poniżej horyzontu i kończy się wschodem.\nZmierzch astronomiczny zaczyna się zachodem i kończy kiedy geometryczny środek Słońca dotrze do 18° poniżej horyzontu.\nOd końca zmierzchu astronomicznego do początku świtu astronomicznego niebo (zdala od miejskiego zanieczyszczenia powietrza światłem) jest wystarczająco ciemne, że można prowadzić obserwacje astronomiczne.
+    </string>
+    <string name="day_phase_info_source">Wikipedia</string>
+    <string name="day_phase_info_link">https://pl.wikipedia.org/wiki/Zmierzch_(pora_dnia)</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Aktualna Lokalizacja</string>
+    <string name="search_location_hint">Wyszukaj według nazwy</string>
+
+    <!-- menu -->
+    <string name="action_delete">Usuń</string>
+    <string name="action_grid">Siatka</string>
+    <string name="action_map">Mapa</string>
+    <string name="action_select_date">Wybierz datę</string>
+    <string name="action_satellite_map">Mapa satelitarna</string>
+
+    <!-- notifications -->
+    <string name="local_time">Czas lokalny</string>
+    <string name="wait">Proszę czekać…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">Aplikacja The Golden Hour posiada parę świetnych funkcji, które wskażą ci dokładną godzinę wschodu i zachodu Słońca - możesz pobrać najnowszą wersję na: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Dziś</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">szer: %1$s, dł: %2$s</string>
+    <string name="refresh">Odśwież</string>
+
+    <string name="event">Wydarzenie</string>
+    <string name="every_day">Codziennie</string>
+    <string name="label_optional">Etykieta (opcjonalnie)</string>
+    <string name="select_event">Wybierz Wydarzenie</string>
+    <string name="select_location">Wybierz Lokalizację</string>
+    <string name="task_setting_incomplete">Lokalizacja, Wydarzenie i dni tygodnia nie mogą być puste.</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Dołącz do programu testowego dla nieupublicznionych wersji aplikacji</string>
+    <string name="beta_program_description">Jeśli chciałbyś przetestować eksperymentalne funkcje aplikacji przed jej wydaniem, możesz dołączyć do programu testowego wersji beta.\n
+        Jako tester wersji beta będziesz mógł korzystać z funkcji, które nie zostały jeszcze upublicznione. Funkcje te mogą być dostępne w przyszłości. Prosimy o niepublikowanie ani udostępnianie funkcji, które są testowane dopóki nie zostaną upublicznione.\n
+        Dzięki testowaniu wersji beta, staniesz się ważną częścią rozwoju aplikacji. Twój udział i uwagi pomogą nam wypuszczać lepsze wersje aplikacji.\n
+        Należy pamiętać, że wersje testowe mogą być niestabilne lub mogą zawierać kilka błędów.</string>
+    <string name="thanks_to_translators">Podziękowania dla tłumaczy:</string>
+    <string name="translate_to_your_language">Skontaktuj się z wydawcą dla dalszych informacji</string>
+    <string name="translate_to_your_language_description">Możesz pomóc w tłumaczeniu aplikacji na swój język</string>
+
+    <!-- -->
+    <string name="alarms_warning">Pamiętaj, że na niektórych urządzeniach alarmy mogą działać nieprawidłowo (głównie na Samsungach).\nWyłącz alarmy jeśli aplikacja wyłącza się w czasie alarmu.</string>
+    <string name="disable_current_location">Wyłącz aktualną lokalizację</string>
+    <string name="location_service_is_turned_off">Usługa lokalizacji jest wyłączona</string>
+    <string name="notifications_warning">Pamiętaj, że na niektórych urządzeniach powiadomienia mogą działać nieprawidłowo (głównie na Samsungach).\nWyłącz powiadomienia jeśli aplikacja wyłącza się w czasie powiadomienia.</string>
+    <string name="permission_access_fine_location">Usługa lokalizacji jest wymagana, aby pobrać aktualną lokalizację.</string>
+    <string name="turn_on">Włącz</string>
+
+    <string name="error_database">Błąd bazy danych</string>
+    <string name="error_http">Błąd HTTP</string>
+    <string name="error_invalid_request">Nieprawidłowe żądanie</string>
+    <string name="error_invalid_response">Nieprawidłowa odpowiedź</string>
+    <string name="error_location_limit_reached">Osiągnięto limit lokalizacji.\nUsuń lokalizację, aby dodać nową.</string>
+    <string name="error_location_not_found">Lokalizacja nie została znaleziona</string>
+    <string name="error_location_service_not_available">Usługa jest niedostępna.\nSprawdź usługę lokalizacji.</string>
+    <string name="error_must_have_one_location">Aplikacja musi posiadać co najmniej jedną lokalizację.</string>
+    <string name="error_network_connection">Przepraszamy, usługa jest niedostępna.\nSprawdź połączenie internetowe.</string>
+    <string name="error_over_query_limit">Osiągnięto limit zapytań, spróbuj później</string>
+    <string name="error_remote_server_connection">Błąd połączenia z serwerem</string>
+    <string name="error_request_denied">Prośba odrzucona</string>
+    <string name="error_task_setting_already_exist">Nie można zapisać, takie ustawienie już istnieje</string>
+    <string name="error_zero_results">Brak wyników</string>
+    <string name="error_unknown">Nieznany błąd</string>
+
+    <string name="alarm_default_title">Alarm</string>
+
+    <string name="alarm_dismiss_now_text">Odrzuć Teraz</string>
+    <string name="alarm_dismiss_text">Odrzuć</string>
+    <string name="alarm_snooze_text">Drzemka</string>
+    <string name="alarm_upcoming">Nadchodzący alarm</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Noc</string>
+    <string name="sun_phase_twilight_astronomical">Świt/Zmierzch astronomiczny</string>
+    <string name="sun_phase_twilight_nautical">Świt/Zmierzch żeglarski</string>
+    <string name="sun_phase_twilight_civil">Świt/Zmierzch cywilny</string>
+    <string name="sun_phase_blue_hour">Niebieska godzina</string>
+    <string name="sun_phase_golden_hour">Złota godzina</string>
+    <string name="sun_phase_twilight_official">Oficjalny zmierzch</string>
+    <string name="sun_phase_day">Dzień</string>
+    <string name="sun_phase_morning">Ranek</string>
+    <string name="sun_phase_evening">Wieczór</string>
+
+    <string name="sun_position_sunrise">Wschód</string>
+    <string name="sun_position_sunset">Zachód</string>
+    <string name="sun_position_duration">Długość</string>
+    <string name="sun_position_noon">Południe</string>
+
+</resources>

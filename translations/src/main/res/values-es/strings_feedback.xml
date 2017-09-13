@@ -16,7 +16,15 @@
   -->
 
 <resources>
-    <string name="a_about_developed_by">Sviluppato da:</string>
-    <string name="a_about_feedback">Per favore, invia ogni feedback a:</string>
-    <string name="a_about_more_from_developer">Altro dallo sviluppatore</string>
+    <string name="a_send_feedback">Enviar comentarios</string>
+
+    <string name="a_feedback_subject">Comentarios</string>
+    <string name="a_feedback_device">ispositivo:</string>
+    <string name="a_feedback_android_version">Versión de Android:</string>
+    <string name="a_feedback_app_version">Versión de la aplicación:</string>
+    <string name="a_feedback_region">Idioma / ó:</string>
+    <string name="a_feedback_screen">Pantalla:</string>
+    <string name="a_feedback_screen_width">Anchura:</string>
+    <string name="a_feedback_screen_height">Altura:</string>
+    <string name="a_feedback_message">Escribe sobre tu problema o sugerencia.\nGracias!\n_____</string>
 </resources>
