@@ -15,18 +15,8 @@
   ~ limitations under the License.
   -->
 
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
-
-    <string name="translators_list">
-        Alexander Fischer (Deutsch / Deutschland)
-        \nIzar Castorina (Italiano)
-        \nOleh Tsyupka (Українська)
-        \nSergio Bartolomé Carrera (Español)
-        \nRobert van der Rhee (Nederlands)
-        \nPatryk Pawluczuk (Polski)
-        \n周星耀 (简体中文)
-    </string>
-
+<resources>
+    <string name="a_about_developed_by">开发者:</string>
+    <string name="a_about_feedback">如有任何意见或建议，请发送邮件至:</string>
+    <string name="a_about_more_from_developer">发现更多</string>
 </resources>

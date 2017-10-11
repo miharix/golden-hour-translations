@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="settings_category_localization">本地化</string>
+    <string name="settings_localization_time_format">时间格式</string>
+    <string name="settings_localization_coordinate_format">坐标格式</string>
+    <string name="settings_category_notifications">通知设置</string>
+    <string name="settings_week_start">星期开始于</string>
+    <string name="settings_notifications_sound">铃声</string>
+    <string name="settings_notifications_vibrate">振动</string>
+    <string name="settings_notifications_light">屏幕</string>
+    <string name="settings_category_information">信息</string>
+    <string name="settings_more_from_developer">了解更多</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_change_log">改动日志</string>
+    <string name="settings_change_log_summary">查看相对于以前版本的改动</string>
+    <string name="settings_info">信息</string>
+    <string name="settings_open_source_licences">Open Source Licences</string>
+
+    <!-- entries -->
+    <string name="light_off">关闭</string>
+    <string name="light_default">默认</string>
+
+    <string name="notification_tone">提示音</string>
+
+    <string name="sound_off">关闭</string>
+
+    <string name="time_format_regional">不改动</string>
+    <string name="time_format_hmma">1:00 PM</string>
+    <string name="time_format_Hmm">13:00</string>
+
+    <string name="vibrate_off">关闭</string>
+    <string name="vibrate_default">默认</string>
+    <string name="vibrate_short">短振动</string>
+    <string name="vibrate_long">长振动</string>
+
+    <string name="week_start_regional">不改动</string>
+    <string name="week_start_saturday">星期六</string>
+    <string name="week_start_sunday">星期日</string>
+    <string name="week_start_monday">星期一</string>
+
+    <string name="notify_60_minutes_before">提前 60 分钟</string>
+    <string name="notify_55_minutes_before">提前 55 分钟</string>
+    <string name="notify_50_minutes_before">提前 50 分钟</string>
+    <string name="notify_45_minutes_before">提前 45 分钟</string>
+    <string name="notify_40_minutes_before">提前 40 分钟</string>
+    <string name="notify_35_minutes_before">提前 35 分钟</string>
+    <string name="notify_30_minutes_before">提前 30 分钟</string>
+    <string name="notify_25_minutes_before">提前 25 分钟</string>
+    <string name="notify_20_minutes_before">提前 20 分钟</string>
+    <string name="notify_15_minutes_before">提前 15 分钟</string>
+    <string name="notify_10_minutes_before">提前 10 分钟</string>
+    <string name="notify_5_minutes_before">提前 5 分钟</string>
+    <string name="notify_at_time_of_event">准时</string>
+    <string name="notify_5_minutes_after">推迟 5 分钟</string>
+    <string name="notify_10_minutes_after">推迟 10 分钟</string>
+    <string name="notify_15_minutes_after">推迟 15 分钟</string>
+    <string name="notify_20_minutes_after">推迟 20 分钟</string>
+    <string name="notify_25_minutes_after">推迟 25 分钟</string>
+    <string name="notify_30_minutes_after">推迟 30 分钟</string>
+    <string name="notify_35_minutes_after">推迟 35 分钟</string>
+    <string name="notify_40_minutes_after">推迟 40 分钟</string>
+    <string name="notify_45_minutes_after">推迟 45 分钟</string>
+    <string name="notify_50_minutes_after">推迟 50 分钟</string>
+    <string name="notify_55_minutes_after">推迟 55 分钟</string>
+    <string name="notify_60_minutes_after">推迟 60 分钟</string>
+
+</resources>
