@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">闹钟</string>
+    <string name="activity_alarm_settings">闹钟</string>
+    <string name="activity_edit_locations">编辑地点</string>
+    <string name="activity_notification_setting">提醒</string>
+    <string name="activity_notification_settings">提醒</string>
+    <string name="activity_select_location">选择地点</string>
+    <string name="activity_settings">设置</string>
+    <string name="activity_support_this_project">提供支持</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">日出日落</string>
+    <string name="widget_sun_table">表格</string>
+    <string name="widget_sun_tiles">平铺</string>
+
+    <!-- common buttons -->
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="edit_location">编辑地点</string>
+
+    <string name="day_phase_golden_hour_description">
+        In photography, the golden hour (sometimes known as magic hour, especially in cinematography) is a period shortly after sunrise or before sunset during which daylight is redder and softer compared to when the Sun is higher in the sky.\nThe term \"hour\" is used figuratively; the effect has no clearly defined duration and varies according to season and latitude.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        The blue hour is the period of twilight each morning and evening when the sun is a significant distance below the horizon and the residual, indirect sunlight takes on a predominantly blue hue.\nDuring the blue \"hour\", red light passes straight into space while blue light is scattered in the atmosphere and therefore reaches the earth\'s surface.\nBecause of the quality of the light, this period is treasured by artists.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        Morning civil twilight begins when the geometric center of the sun is 6° below the horizon (civil dawn) and ends at sunrise.\nEvening civil twilight begins at sunset and ends when the geometric center of the sun reaches 6° below the horizon (civil dusk).\nCivil twilight can also be described as the limit at which twilight illumination is sufficient, under clear weather conditions, for terrestrial objects to be clearly distinguished.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        During nautical twilight, the horizon is clearly visible, but artificial lighting must be used to see terrestrial objects clearly.\nMorning nautical twilight is defined to begin when the center of the sun is geometrically 12 degrees below the horizon and to end at sunrise.\nEvening nautical twilight is defined to begin at sunset and end when the center of the sun is 12 degrees below the horizon.\nIn general, nautical twilight ends when navigation via the horizon at sea is no longer possible.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        Morning astronomical twilight is defined to begin when the center of the sun is geometrically 18 degrees below the horizon and to end at sunrise.\nEvening astronomical twilight is defined to begin at sunset and end when the center of the sun is 18 degrees below the horizon.\nFrom the end of astronomical twilight in the evening to the beginning of astronomical twilight in the morning, the sky (away from urban light pollution) is dark enough for all astronomical observations.
+    </string>
+    <string name="day_phase_info_source">查看维基百科</string>
+    <string name="day_phase_info_link">https://zh.wikipedia.org/wiki/曙暮光</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">当前位置</string>
+    <string name="search_location_hint">搜索地名</string>
+
+    <!-- menu -->
+    <string name="action_delete">删除</string>
+    <string name="action_grid">表格</string>
+    <string name="action_map">地图</string>
+    <string name="action_select_date">选择日期</string>
+    <string name="action_satellite_map">卫星地图</string>
+
+    <!-- notifications -->
+    <string name="local_time">当地时间</string>
+    <string name="wait">请稍候…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">向你推荐一个优秀的App，赶快下载并发掘它的用途吧: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">今天</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">纬度: %1$s, 经度: %2$s</string>
+    <string name="refresh">刷新</string>
+
+    <string name="event">Event</string>
+    <string name="every_day">每天</string>
+    <string name="label_optional">活动（可不填写）</string>
+    <string name="select_event">选择事件</string>
+    <string name="select_location">选择地点</string>
+    <string name="task_setting_incomplete">地点，事件，日期不完整</string>
+
+    <!-- support this project -->
+    <string name="beta_program">Join a testing program for an unreleased version of the app</string>
+    <string name="beta_program_description">If you want to test experimental features of the app before they’re released, you can join the beta tester program.\n
+        As a beta tester, you\’ll be able to use features that haven’t been released to the public. These features could become available to the public in the future. We ask that you don’t publicize or share the features you’re testing until they’re publicly launched.\n
+        By beta testing, you’ll become an important part of the app’s development. Your participation and feedback will help us release a better version of the app.\n
+        Please note that testing versions may be unstable or have a few bugs.</string>
+    <string name="thanks_to_translators">Thanks to translators:</string>
+    <string name="translate_to_your_language">Contact developer for further information</string>
+    <string name="translate_to_your_language_description">You can help to translate this app to your language</string>
+
+    <!-- -->
+    <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDisable alarms if app is crashing at the time of alarm.</string>
+    <string name="disable_current_location">禁用当前位置</string>
+    <string name="location_service_is_turned_off">定位服务已关闭</string>
+    <string name="notifications_warning">请注意，在某些设备上提醒服务可能会失效。\n如果App异常退出，请关闭提醒服务。</string>
+    <string name="permission_access_fine_location">需要给予定位服务权限</string>
+    <string name="turn_on">打开</string>
+
+    <string name="error_database">数据库错误</string>
+    <string name="error_http">网络错误</string>
+    <string name="error_invalid_request">无效请求</string>
+    <string name="error_invalid_response">无效响应</string>
+    <string name="error_location_limit_reached">不能添加更多地点。\n你可以删除一些地点以增加另一些地点。</string>
+    <string name="error_location_not_found">未找到该地点</string>
+    <string name="error_location_service_not_available">服务未开启。\n请检查定位服务。</string>
+    <string name="error_must_have_one_location">不能删除仅有的一个地点。</string>
+    <string name="error_network_connection">请检查网络是否已连接。</string>
+    <string name="error_over_query_limit">请稍后再试。</string>
+    <string name="error_remote_server_connection">服务器连接错误</string>
+    <string name="error_request_denied">拒绝请求</string>
+    <string name="error_task_setting_already_exist">已有相同设置，该项不能保存</string>
+    <string name="error_zero_results">未找到结果</string>
+    <string name="error_unknown">未知错误</string>
+
+    <string name="alarm_default_title">闹钟</string>
+
+    <string name="alarm_dismiss_now_text">关闭</string>
+    <string name="alarm_dismiss_text">关闭</string>
+    <string name="alarm_snooze_text">稍后提醒</string>
+    <string name="alarm_upcoming">后续闹钟</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">夜晚</string>
+    <string name="sun_phase_twilight_astronomical">天文曙暮光</string>
+    <string name="sun_phase_twilight_nautical">航海曙暮光</string>
+    <string name="sun_phase_twilight_civil">民用曙暮光</string>
+    <string name="sun_phase_blue_hour">Blue hour</string>
+    <string name="sun_phase_golden_hour">Golden hour</string>
+    <string name="sun_phase_twilight_official">Official twilight</string>
+    <string name="sun_phase_day">白天</string>
+    <string name="sun_phase_morning">早晨</string>
+    <string name="sun_phase_evening">傍晚</string>
+
+    <string name="sun_position_sunrise">日出</string>
+    <string name="sun_position_sunset">日落</string>
+    <string name="sun_position_duration">昼长</string>
+    <string name="sun_position_noon">正午</string>
+
+</resources>
