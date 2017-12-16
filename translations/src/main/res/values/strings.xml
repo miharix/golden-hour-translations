@@ -88,6 +88,9 @@
     <string name="task_setting_incomplete">Location, Event and days of the week cannot be empty</string>
 
     <!-- support this project -->
+    <string name="action_beta_testing">Beta Testing</string>
+    <string name="action_support">Support</string>
+    <string name="action_translate">Translate</string>
     <string name="beta_program">Join a testing program for an unreleased version of the app</string>
     <string name="beta_program_description">If you want to test experimental features of the app before they’re released, you can join the beta tester program.\n
         As a beta tester, you\’ll be able to use features that haven’t been released to the public. These features could become available to the public in the future. We ask that you don’t publicize or share the features you’re testing until they’re publicly launched.\n
@@ -96,6 +99,8 @@
     <string name="thanks_to_translators">Thanks to translators:</string>
     <string name="translate_to_your_language">Contact developer for further information</string>
     <string name="translate_to_your_language_description">You can help to translate this app to your language</string>
+    <string name="become_supporter">Become a Supporter</string>
+    <string name="supporter_app_description">If you are a happy user of my application and would like to support my project\'s further development you can do so by purchasing the Supporter app.</string>
 
     <!-- -->
     <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDisable alarms if app is crashing at the time of alarm.</string>
