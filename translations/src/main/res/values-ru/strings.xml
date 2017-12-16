@@ -145,7 +145,7 @@
     <string name="sun_phase_morning">Утро</string>
     <string name="sun_phase_evening">Вечер</string>
 
-    <string name="sun_position_sunrise">Рассвет</string>
+    <string name="sun_position_sunrise">Восход</string>
     <string name="sun_position_sunset">Закат</string>
     <string name="sun_position_duration">Длительность</string>
     <string name="sun_position_noon">Полдень</string>
