@@ -78,6 +78,7 @@
     <string name="developer_name">Oleg Kan</string>
 
     <string name="coordinates">纬度: %1$s, 经度: %2$s</string>
+    <string name="coordinates_copied">坐标复制到剪贴板</string>
     <string name="refresh">刷新</string>
 
     <string name="event">Event</string>

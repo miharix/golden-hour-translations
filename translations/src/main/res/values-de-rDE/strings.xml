@@ -78,6 +78,7 @@
     <string name="developer_name">Oleg Kan</string>
 
     <string name="coordinates">Breite: %1$s, Länge: %2$s</string>
+    <string name="coordinates_copied">Die Koordinaten werden in die Zwischenablage kopiert</string>
     <string name="refresh">Aktualisieren</string>
 
     <string name="event">Ereignis</string>

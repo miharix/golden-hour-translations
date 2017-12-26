@@ -78,6 +78,7 @@
     <string name="developer_name">Олег Кан</string>
 
     <string name="coordinates">ш.: %1$s, д.: %2$s</string>
+    <string name="coordinates_copied">Координаты скопированы в буфер обмена</string>
     <string name="refresh">Обновить</string>
 
     <string name="event">Событие</string>

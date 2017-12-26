@@ -78,6 +78,7 @@
     <string name="developer_name">Oleg Kan</string>
 
     <string name="coordinates">szer: %1$s, dł: %2$s</string>
+    <string name="coordinates_copied">Skopiowano współrzędne do schowka</string>
     <string name="refresh">Odśwież</string>
 
     <string name="event">Wydarzenie</string>

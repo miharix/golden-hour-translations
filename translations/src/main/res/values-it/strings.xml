@@ -78,6 +78,7 @@
     <string name="developer_name">Oleg Kan</string>
 
     <string name="coordinates">lat: %1$s, long: %2$s</string>
+    <string name="coordinates_copied">Coordinate copiate negli appunti</string>
     <string name="refresh">Aggiorna</string>
 
     <string name="event">Evento</string>
