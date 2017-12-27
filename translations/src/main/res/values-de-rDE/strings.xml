@@ -146,4 +146,8 @@
     <string name="sun_position_duration">Dauer</string>
     <string name="sun_position_noon">Mittag</string>
 
+    <string name="altitude">Flughöhe</string>
+    <string name="azimuth">Azimut</string>
+    <string name="time">Zeit</string>
+
 </resources>

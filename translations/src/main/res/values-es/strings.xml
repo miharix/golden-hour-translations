@@ -146,4 +146,8 @@
     <string name="sun_position_duration">Duración</string>
     <string name="sun_position_noon">Mediodía</string>
 
+    <string name="altitude">Altitud</string>
+    <string name="azimuth">Acimut</string>
+    <string name="time">Tiempo</string>
+
 </resources>

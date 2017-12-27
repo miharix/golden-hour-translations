@@ -146,4 +146,8 @@
     <string name="sun_position_duration">Тривалість</string>
     <string name="sun_position_noon">Полудень</string>
 
+    <string name="altitude">Висота</string>
+    <string name="azimuth">Азимут</string>
+    <string name="time">Час</string>
+
 </resources>

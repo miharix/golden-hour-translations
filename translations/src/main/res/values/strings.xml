@@ -151,4 +151,8 @@
     <string name="sun_position_duration">Duration</string>
     <string name="sun_position_noon">Noon</string>
 
+    <string name="altitude">Altitude</string>
+    <string name="azimuth">Azimuth</string>
+    <string name="time">Time</string>
+
 </resources>

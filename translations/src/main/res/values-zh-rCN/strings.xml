@@ -146,4 +146,8 @@
     <string name="sun_position_duration">昼长</string>
     <string name="sun_position_noon">正午</string>
 
+    <string name="altitude">海拔</string>
+    <string name="azimuth">方位角</string>
+    <string name="time">时间</string>
+
 </resources>

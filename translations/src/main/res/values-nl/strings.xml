@@ -146,4 +146,8 @@
     <string name="sun_position_duration">Tijdsduur</string>
     <string name="sun_position_noon">Hoogste punt</string>
 
+    <string name="altitude">Hoogte</string>
+    <string name="azimuth">Azimut</string>
+    <string name="time">Tijd</string>
+
 </resources>

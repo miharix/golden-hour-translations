@@ -146,4 +146,8 @@
     <string name="sun_position_duration">Durata</string>
     <string name="sun_position_noon">Mezzogiorno</string>
 
+    <string name="altitude">Altitudine</string>
+    <string name="azimuth">Azimut</string>
+    <string name="time">Tempo</string>
+
 </resources>
