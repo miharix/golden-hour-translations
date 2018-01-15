@@ -110,6 +110,7 @@
     <string name="location_service_is_turned_off">Сервис определения местоположения отключен.</string>
     <string name="notifications_warning">Пожалуйста, примите к сведению, что уведомления могут работать некорректно на некоторых устройства (в основном на Самсунгах).\nОтключите уведовления, если приложение сообщает об ошибке в момент доставки уведомления.</string>
     <string name="permission_access_fine_location">Необходим доступ к определению местоположения.</string>
+    <string name="save_coordinates_confirmation">Сохранить координаты?</string>
     <string name="turn_on">Включить</string>
 
     <string name="error_database">Ошибка базы данных</string>

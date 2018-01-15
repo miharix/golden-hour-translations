@@ -110,6 +110,7 @@
     <string name="location_service_is_turned_off">Location service is turned off</string>
     <string name="notifications_warning">Please be aware that notifications might not work properly on some devices (mostly on Samsungs).\nDisable notifications if app is crashing at the time of notification.</string>
     <string name="permission_access_fine_location">Location permission is needed to get current location.</string>
+    <string name="save_coordinates_confirmation">Save coordinates?</string>
     <string name="turn_on">Turn On</string>
 
     <string name="error_database">Database error</string>
