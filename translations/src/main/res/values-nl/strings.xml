@@ -62,6 +62,7 @@
     <string name="action_delete">Verwijderen</string>
     <string name="action_grid">Rooster</string>
     <string name="action_map">Kaart</string>
+    <string name="action_save">Opslaan</string>
     <string name="action_select_date">Selecteer datum</string>
     <string name="action_satellite_map">Satelietkaart</string>
 

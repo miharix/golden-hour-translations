@@ -62,6 +62,7 @@
     <string name="action_delete">Delete</string>
     <string name="action_grid">Grid</string>
     <string name="action_map">Map</string>
+    <string name="action_save">Save</string>
     <string name="action_select_date">Select date</string>
     <string name="action_satellite_map">Satellite map</string>
 

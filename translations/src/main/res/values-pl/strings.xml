@@ -62,6 +62,7 @@
     <string name="action_delete">Usuń</string>
     <string name="action_grid">Siatka</string>
     <string name="action_map">Mapa</string>
+    <string name="action_save">Zapisz</string>
     <string name="action_select_date">Wybierz datę</string>
     <string name="action_satellite_map">Mapa satelitarna</string>
 

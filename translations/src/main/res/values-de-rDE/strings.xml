@@ -62,6 +62,7 @@
     <string name="action_delete">Löschen</string>
     <string name="action_grid">Raster</string>
     <string name="action_map">Karte</string>
+    <string name="action_save">Speichern</string>
     <string name="action_select_date">Datum auswählen</string>
     <string name="action_satellite_map">Satellitenkarte</string>
 

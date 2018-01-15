@@ -62,6 +62,7 @@
     <string name="action_delete">Вилучити</string>
     <string name="action_grid">Таблиця</string>
     <string name="action_map">Мапа</string>
+    <string name="action_save">Зберегти</string>
     <string name="action_select_date">Обрати дату</string>
     <string name="action_satellite_map">Супутникова мапа</string>
 

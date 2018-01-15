@@ -62,6 +62,7 @@
     <string name="action_delete">Cancella</string>
     <string name="action_grid">Griglia</string>
     <string name="action_map">Mappa</string>
+    <string name="action_save">Salva</string>
     <string name="action_select_date">Seleziona data</string>
     <string name="action_satellite_map">Mappa Satellite</string>
 
