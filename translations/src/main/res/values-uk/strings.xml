@@ -20,6 +20,7 @@
     <string name="activity_alarm_setting">Сиґнал</string>
     <string name="activity_alarm_settings">Сиґнали</string>
     <string name="activity_edit_locations">Змінити розташування</string>
+    <string name="activity_open_source_licenses">Ліцензії з відкритим кодом</string>
     <string name="activity_notification_setting">Сповіщення</string>
     <string name="activity_notification_settings">Сповіщення</string>
     <string name="activity_select_location">Обрати розташування</string>

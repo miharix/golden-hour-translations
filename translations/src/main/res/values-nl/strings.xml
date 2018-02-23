@@ -22,6 +22,7 @@
     <string name="activity_edit_locations">Bewerk locaties</string>
     <string name="activity_notification_setting">Notificatie</string>
     <string name="activity_notification_settings">Notificaties</string>
+    <string name="activity_open_source_licenses">Open Source Licentie</string>
     <string name="activity_select_location">Selecteer locatie</string>
     <string name="activity_settings">Instellingen</string>
     <string name="activity_support_this_project">Ondersteun dit project</string>

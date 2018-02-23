@@ -22,6 +22,7 @@
     <string name="activity_edit_locations">Edytuj Lokalizacje</string>
     <string name="activity_notification_setting">Powiadomienie</string>
     <string name="activity_notification_settings">Powiadomienia</string>
+    <string name="activity_open_source_licenses">Otwórz Licencje Źródłowe</string>
     <string name="activity_select_location">Wybierz Lokalizację</string>
     <string name="activity_settings">Ustawienia</string>
     <string name="activity_support_this_project">Wesprzyj projekt</string>
