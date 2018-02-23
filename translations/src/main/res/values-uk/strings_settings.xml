@@ -31,7 +31,7 @@
     <string name="settings_change_log">Журнал змін</string>
     <string name="settings_change_log_summary">Перелік змін, внесених до попередніх оновлень</string>
     <string name="settings_info">Інфо</string>
-    <string name="settings_open_source_licences">Ліцензії з відкритим кодом</string>
+    <string name="settings_open_source_licenses">Ліцензії з відкритим кодом</string>
 
     <!-- entries -->
     <string name="light_off">Вимкнене</string>

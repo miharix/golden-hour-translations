@@ -31,7 +31,7 @@
     <string name="settings_change_log">Change Log</string>
     <string name="settings_change_log_summary">List of changes included in previous updates</string>
     <string name="settings_info">Info</string>
-    <string name="settings_open_source_licences">Open Source Licences</string>
+    <string name="settings_open_source_licenses">Open Source Licenses</string>
 
     <!-- entries -->
     <string name="light_off">Off</string>

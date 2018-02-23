@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2017 Oleg Kan
+  ~ Copyright (C) 2014 Oleg Kan, @Simplaapliko
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@
     <string name="settings_change_log">Lista Zmian</string>
     <string name="settings_change_log_summary">Lista zmian uwzględnionych w poprzednich aktualizacjach</string>
     <string name="settings_info">Info</string>
-    <string name="settings_open_source_licences">Otwórz Licencje Źródłowe</string>
+    <string name="settings_open_source_licenses">Otwórz Licencje Źródłowe</string>
 
     <!-- entries -->
     <string name="light_off">Wyłączona</string>

@@ -31,7 +31,7 @@
     <string name="settings_change_log">Changelog</string>
     <string name="settings_change_log_summary">Lista dei cambi inclusi negli aggiornamenti precedenti</string>
     <string name="settings_info">Informazioni</string>
-    <string name="settings_open_source_licences">Licenze Open Source</string>
+    <string name="settings_open_source_licenses">Licenze Open Source</string>
 
     <!-- entries -->
     <string name="light_off">Spento</string>

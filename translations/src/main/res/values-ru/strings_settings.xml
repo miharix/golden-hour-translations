@@ -31,7 +31,7 @@
     <string name="settings_change_log">Список изменений</string>
     <string name="settings_change_log_summary">Описание изменений включенных в предыдущие обновления</string>
     <string name="settings_info">Справка</string>
-    <string name="settings_open_source_licences">Лицензии открытого ПО</string>
+    <string name="settings_open_source_licenses">Лицензии открытого ПО</string>
 
     <!-- entries -->
     <string name="light_off">Выкл.</string>

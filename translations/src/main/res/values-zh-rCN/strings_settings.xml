@@ -31,7 +31,7 @@
     <string name="settings_change_log">改动日志</string>
     <string name="settings_change_log_summary">查看相对于以前版本的改动</string>
     <string name="settings_info">信息</string>
-    <string name="settings_open_source_licences">Open Source Licences</string>
+    <string name="settings_open_source_licenses">Open Source Licenses</string>
 
     <!-- entries -->
     <string name="light_off">关闭</string>

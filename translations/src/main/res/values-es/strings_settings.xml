@@ -31,7 +31,7 @@
     <string name="settings_change_log">Cambiar log</string>
     <string name="settings_change_log_summary">Lista de cambios incluidos en versiones anteriores</string>
     <string name="settings_info">Info</string>
-    <string name="settings_open_source_licences">Licencias de código abierto</string>
+    <string name="settings_open_source_licenses">Licencias de código abierto</string>
 
     <!-- entries -->
     <string name="light_off">Desactivado</string>
