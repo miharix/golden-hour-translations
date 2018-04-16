@@ -106,7 +106,7 @@
     <string name="location_service_is_turned_off">El servicio de ubicación está desactivado</string>
     <string name="notifications_warning">Tenga en cuenta que las notificaciones pueden no funcionar correctamente en algunos dispositivos (sobre todo en Samsung).\nDisable notifications if app is crashing at the time of notification.</string>
     <string name="permission_access_fine_location">Se necesita el permiso de acceso a la ubicación para conocer tu ubicación actual.</string>
-    <string name="turn_on">Endender</string>
+    <string name="turn_on">Encender</string>
 
     <string name="error_database">Error de la base de datos</string>
     <string name="error_http">HTTP error</string>
