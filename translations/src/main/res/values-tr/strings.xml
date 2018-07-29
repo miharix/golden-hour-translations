@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Alarm</string>
+    <string name="activity_alarm_settings">Alarmlar</string>
+    <string name="activity_edit_locations">Konumları düzenle</string>
+    <string name="activity_notification_setting">Bildirim</string>
+    <string name="activity_notification_settings">Bildirimler</string>
+    <string name="activity_select_location">Konum seç</string>
+    <string name="activity_settings">Ayarlar</string>
+    <string name="activity_support_this_project">Bu projeyi destekle</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Gündoğumu &amp; Ayarla</string>
+    <string name="widget_sun_table">Tablo</string>
+    <string name="widget_sun_tiles">Karolar</string>
+
+    <!-- common buttons -->
+    <string name="cancel">İptal</string>
+    <string name="delete">Sil</string>
+    <string name="edit_location">Konumu düzenle</string>
+
+    <string name="day_phase_golden_hour_description">
+        Altın Saat ya da Sihirli Saat; fotoğrafçılıkta kullanılan, güneş batmadan önce havanın aldığı sarımtırak rengi tanımlar. Günün bu vakti, güneşin batışıyla havanın kararması arasındaki zamana karşılık gelir. Başka bir tanım yapılacak olursa, güneşin ufuk çizgisinden altı derece daha aşağıda olduğu vakittir. Ayrıca bu saatte gölgeler uzar.
+    </string>
+    <string name="day_phase_blue_hour_description">
+        Mavi Saat (Fransızca: l\'heure bleue), gün doğumundan önce ve gün batımından sonra olmak üzere gece ve gündüz arasındaki zaman süresinde ortaya çıkan gökyüzünün neredeyse tamamının mavi renkle doldurulduğu alacakaranlık. Rayleigh saçılımı etkisinden kaynaklanır. Bu renk, Altın saat (İngilizce: Magic hour/Golden hour) ile birlikte kaliteli bir ışık ortamı yarattığından dolayı özellikle fotoğrafçılar tarafından tercih edilir. Buna rağmen \"Mavi Saat\"in herhangi bir alanda resmi bir tanımı yoktur.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+        Sabah sivil alacakaranlığı, güneşin geometrik merkezi ufkun 6 derece altındayken başlar (şafak) ve gündoğumunda biter.\nAkşam da günbatımında başlayıp güneş ufkun 6 derece altındayken biter.\nTemiz hava koşullarında gök cisimlerinin ayırt edilebilmesi için gereken aydınlanmaın yeterli olduğu zamanın limiti olarak tanımlanabilir.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+        Nautik alacakaranlıkta ufuk görünürdür ama gök cisimlerinin gözlenmelebilmesi için yapay ışık gereklidir.\nSivil alacakaranlıkla arasında 6 derece fark vardır, yani başlangıç ve bitişi ufkun 12 derece altında olur.\nGenellikle ufka bakarak deniz yolculuğunun mümkün olmaktan çıktığı zaman biter.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+        Nautik alacakaranlıkla arasında 6 derece fark vardır, yani başlangıç ve bitişi ufkun 18 derece altında olur.\nGece astronomik alacakaranlığın bitişinden sabahkinin başlangıcına kadar (şehir ışıklarından uzakta) gökyüzü tüm astronomik gözlemlere müsaittir.
+    </string>
+    <string name="day_phase_info_source">Vikipedi</string>
+    <string name="day_phase_info_link">https://tr.wikipedia.org/wiki/Alacakaranlık</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Geçerli konum</string>
+    <string name="search_location_hint">Konum adı ara</string>
+
+    <!-- menu -->
+    <string name="action_delete">Sil</string>
+    <string name="action_grid">Izgara</string>
+    <string name="action_info">Bilgi</string>
+    <string name="action_map">Harita</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_select_date">Tarih seç</string>
+    <string name="action_satellite_map">Uydu haritası</string>
+
+    <!-- notifications -->
+    <string name="local_time">Yerel saat</string>
+    <string name="wait">Lütfen bekleyin…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">Altın Saat uygulaması gündoğumu ve günbatımını bulmak için kullanışlı özellikler içerir - yeni sürümü burdan indirebilirsiniz: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Bugün</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">enlem: %1$s, boylam: %2$s</string>
+    <string name="coordinates_copied">Kornidatlar kopyalandı</string>
+    <string name="refresh">Yenile</string>
+
+    <string name="event">Olay</string>
+    <string name="every_day">Her gün</string>
+    <string name="label_optional">Etiket (isteğe bağlı)</string>
+    <string name="select_event">Olay seç</string>
+    <string name="select_location">Konum seç</string>
+    <string name="task_setting_incomplete">Konum, Olay ve haftanın günleri boş kalamaz</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testi</string>
+    <string name="action_support">Destekle</string>
+    <string name="action_translate">Çevir</string>
+    <string name="beta_program">Yayınlanmamış bir sürümü denemek için beta testine katılın</string>
+    <string name="beta_program_description">Eğer deneysel özellikleri yayınlanmadan önce denemek isterseniz beta sürümü programına katılabilirsiniz.\n
+        Beta testçisi olarak yeni özellikleri halka yayınlanmadan önce deneyebilirsiniz. Bu özellikler gelecekte halka açık sürüme eklenebilir. Paylaşılmadan önce yeni deneysel özellikleri paylaşmamanızı rica ediyoruz.\n
+        Beta testine katılarak uygulamanın geliştirilmesine önemli bir katkıda bulunacaksınız. Katılım ve geri bildiriminiz uygulamayı daha iyi bir hale getirmemize yardımcı olacak.\n
+        Lütfen unutmayın ki bu sürümler düzgün çalışmayabilir veya böcekler (bug\'lar) içerebilir.</string>
+    <string name="thanks_to_translators">Çevirmenlere teşekkürler:</string>
+    <string name="translate_to_your_language">Daha fazla bilgi için geliştiriciyle iletişime geçin</string>
+    <string name="translate_to_your_language_description">Uygulamayı dilinize çevirmek için yardımda bulunabilirsiniz</string>
+    <string name="become_supporter">Destekçi olun</string>
+    <string name="supporter_app_description">Uygulamamı beğendiyseniz ve bana destek olmak istiyorsanız destek uygulamamı satın alarak destekte bulunabilirsiniz</string>
+
+    <!-- -->
+    <string name="alarms_warning">Alarmlar tüm cihazlarda düzgün çalışmayabilir (özellikle Samsung\'da). Alarmlar uygulamanın durmasına neden olursa alarmları kapatın.</string>
+    <string name="disable_current_location">Geçerli konumu kapat</string>
+    <string name="location_service_is_turned_off">Konum servisi kapalı</string>
+    <string name="notifications_warning">Bildirimler tüm cihazlarda düzgün çalışmayabilir (özellikle Samsung\'da). Bildirimler uygulamanın durmasına neden olursa bildirimleri kapatın.</string>
+    <string name="permission_access_fine_location">Geçerli konumu alabilmek için konum izni gereklidir.</string>
+    <string name="save_coordinates_confirmation">Kordinatlar kaydedilsin mi?</string>
+    <string name="turn_on">Aç</string>
+
+    <string name="error_database">Veritabanı hatası</string>
+    <string name="error_http">HTTP hatası</string>
+    <string name="error_invalid_request">Geçersiz istek</string>
+    <string name="error_invalid_response">Geçersiz dönüt</string>
+    <string name="error_location_limit_reached">Konum limitine ulaşıldı.\nDaha fazla konum eklemek için bazı konumları silin.</string>
+    <string name="error_location_not_found">Konum bulunamadı</string>
+    <string name="error_location_service_not_available">Servis kullanılamıyor.\nKonum servisini kontrol edin.</string>
+    <string name="error_must_have_one_location">Uygulama en az 1 konum içermelidir</string>
+    <string name="error_network_connection">Üzgünüz, servis kullanılamıyor.\nİnternet bağlantınızı kontrol edin</string>
+    <string name="error_over_query_limit">Sorgu limitine ulaşıldı, daha sonra tekrar deneyin</string>
+    <string name="error_remote_server_connection">Sunucu bağlantı hatası</string>
+    <string name="error_request_denied">İstek reddedildi</string>
+    <string name="error_task_setting_already_exist">Kaydedilmedi, ayar zaten mevcut</string>
+    <string name="error_zero_results">Sonuç bulunamadı</string>
+    <string name="error_unknown">Bilinmeyen hata</string>
+
+    <string name="alarm_default_title">Alarm</string>
+
+    <string name="alarm_dismiss_now_text">Şimdi kapat</string>
+    <string name="alarm_dismiss_text">Kapat</string>
+    <string name="alarm_snooze_text">Ertele</string>
+    <string name="alarm_upcoming">Yaklaşan alarm</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Gece</string>
+    <string name="sun_phase_twilight_astronomical">Astronomik alacakaranlık</string>
+    <string name="sun_phase_twilight_nautical">Nautik alacakaranlık</string>
+    <string name="sun_phase_twilight_civil">Sivil alacakaranlık</string>
+    <string name="sun_phase_blue_hour">Mavi saat</string>
+    <string name="sun_phase_golden_hour">Altın saat</string>
+    <string name="sun_phase_twilight_official">Resmi alacakaranlık</string>
+    <string name="sun_phase_day">Gün</string>
+    <string name="sun_phase_morning">Sabah</string>
+    <string name="sun_phase_evening">Akşam</string>
+
+    <string name="sun_position_sunrise">Gündoğumu</string>
+    <string name="sun_position_sunset">Günbatımı</string>
+    <string name="sun_position_duration">Süre</string>
+    <string name="sun_position_noon">Öğle</string>
+
+    <string name="altitude">Rakım</string>
+    <string name="azimuth">Azimut (Güneş açısı)</string>
+    <string name="time">Zaman</string>
+
+</resources>

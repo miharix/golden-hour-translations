@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="settings_category_localization">Yerelleştirme</string>
+    <string name="settings_localization_time_format">Zaman formatı</string>
+    <string name="settings_localization_coordinate_format">Kordinat formatı</string>
+    <string name="settings_category_notifications">Bildirim ayarları</string>
+    <string name="settings_week_start">Haftanın ilk günü</string>
+    <string name="settings_notifications_sound">Ses</string>
+    <string name="settings_notifications_vibrate">Titreşim</string>
+    <string name="settings_notifications_light">Işık</string>
+    <string name="settings_category_information">Bilgi</string>
+    <string name="settings_more_from_developer">Geliştiriciden daha fazlası</string>
+    <string name="settings_about">Hakkında</string>
+    <string name="settings_change_log">Değişiklik kütüğü</string>
+    <string name="settings_change_log_summary">Önceki sürümlerdeki değişikliklerin listesi</string>
+    <string name="settings_info">Bilgi</string>
+    <string name="settings_open_source_licenses">Açık kaynak lisansları</string>
+
+    <!-- entries -->
+    <string name="light_off">Kapalı</string>
+    <string name="light_default">Varsayılan</string>
+
+    <string name="notification_tone">Bildirim tonu</string>
+
+    <string name="sound_off">Kapalı</string>
+
+    <string name="time_format_regional">Bölgesel ayarlar</string>
+    <string name="time_format_hmma">1:00 ÖS (PM)</string>
+    <string name="time_format_Hmm">13:00</string>
+
+    <string name="vibrate_off">Kapalı</string>
+    <string name="vibrate_default">Varsayılan</string>
+    <string name="vibrate_short">Kısa</string>
+    <string name="vibrate_long">Uzun</string>
+
+    <string name="week_start_regional">Bölgesel Ayarlar</string>
+    <string name="week_start_saturday">Cumartesi</string>
+    <string name="week_start_sunday">Pazar</string>
+    <string name="week_start_monday">Pazartesi</string>
+
+    <string name="notify_60_minutes_before">60 dakika önce</string>
+    <string name="notify_55_minutes_before">55 dakika önce</string>
+    <string name="notify_50_minutes_before">50 dakika önce</string>
+    <string name="notify_45_minutes_before">45 dakika önce</string>
+    <string name="notify_40_minutes_before">40 dakika önce</string>
+    <string name="notify_35_minutes_before">35 dakika önce</string>
+    <string name="notify_30_minutes_before">30 dakika önce</string>
+    <string name="notify_25_minutes_before">25 dakika önce</string>
+    <string name="notify_20_minutes_before">20 dakika önce</string>
+    <string name="notify_15_minutes_before">15 dakika önce</string>
+    <string name="notify_10_minutes_before">10 dakika önce</string>
+    <string name="notify_5_minutes_before">5 dakika önce</string>
+    <string name="notify_at_time_of_event">Olay anında</string>
+    <string name="notify_5_minutes_after">5 dakika sonra</string>
+    <string name="notify_10_minutes_after">10 dakika sonra</string>
+    <string name="notify_15_minutes_after">15 dakika sonra</string>
+    <string name="notify_20_minutes_after">20 dakika sonra</string>
+    <string name="notify_25_minutes_after">25 dakika sonra</string>
+    <string name="notify_30_minutes_after">30 dakika sonra</string>
+    <string name="notify_35_minutes_after">35 dakika sonra</string>
+    <string name="notify_40_minutes_after">40 dakika sonra</string>
+    <string name="notify_45_minutes_after">45 dakika sonra</string>
+    <string name="notify_50_minutes_after">50 dakika sonra</string>
+    <string name="notify_55_minutes_after">55 dakika sonra</string>
+    <string name="notify_60_minutes_after">60 dakika sonra</string>
+
+</resources>
