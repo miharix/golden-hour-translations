@@ -22,7 +22,6 @@
     <string name="activity_edit_locations">Bewerk locaties</string>
     <string name="activity_notification_setting">Notificatie</string>
     <string name="activity_notification_settings">Notificaties</string>
-    <string name="activity_open_source_licenses">Open Source Licentie</string>
     <string name="activity_select_location">Selecteer locatie</string>
     <string name="activity_settings">Instellingen</string>
     <string name="activity_support_this_project">Ondersteun dit project</string>
@@ -62,6 +61,7 @@
     <!-- menu -->
     <string name="action_delete">Verwijderen</string>
     <string name="action_grid">Rooster</string>
+    <string name="action_info">Info</string>
     <string name="action_map">Kaart</string>
     <string name="action_save">Opslaan</string>
     <string name="action_select_date">Selecteer datum</string>

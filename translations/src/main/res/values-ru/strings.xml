@@ -20,7 +20,6 @@
     <string name="activity_alarm_setting">Будильник</string>
     <string name="activity_alarm_settings">Будильники</string>
     <string name="activity_edit_locations">Местоположения</string>
-    <string name="activity_open_source_licenses">Лицензии открытого ПО</string>
     <string name="activity_notification_setting">Уведомление</string>
     <string name="activity_notification_settings">Уведомления</string>
     <string name="activity_select_location">Выберите местоположение</string>
@@ -62,6 +61,7 @@
     <!-- menu -->
     <string name="action_delete">Удалить</string>
     <string name="action_grid">Таблица</string>
+    <string name="action_info">Справка</string>
     <string name="action_map">Карта</string>
     <string name="action_save">Сохранить</string>
     <string name="action_select_date">Выберите дату</string>

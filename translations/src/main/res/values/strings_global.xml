@@ -21,8 +21,13 @@
 
     <string name="beta_testing_program_url">https://play.google.com/apps/testing/com.simplaapliko.goldenhour</string>
 
+    <string name="change_log_url">https://simplaapliko.com/goldenhour/changelog</string>
+
     <string name="developer_id">Simplaapliko</string>
     <string name="developer_feedback_email">simplaapliko@gmail.com</string>
+
+    <string name="github">GitHub</string>
+    <string name="github_translations_url">https://github.com/simplaapliko/golden-hour-translations</string>
 
     <string name="degree_sign">°</string>
     <string name="empty_time">--:--</string>

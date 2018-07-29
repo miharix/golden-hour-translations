@@ -22,7 +22,6 @@
     <string name="activity_edit_locations">Position editieren</string>
     <string name="activity_notification_setting">Benachrichtigung</string>
     <string name="activity_notification_settings">Benachrichtigungen</string>
-    <string name="activity_open_source_licenses">Open Source Lizenzen</string>
     <string name="activity_select_location">Position auswählen</string>
     <string name="activity_settings">Einstellungen</string>
     <string name="activity_support_this_project">Unterstütze das Projekt</string>
@@ -62,6 +61,7 @@
     <!-- menu -->
     <string name="action_delete">Löschen</string>
     <string name="action_grid">Raster</string>
+    <string name="action_info">Info</string>
     <string name="action_map">Karte</string>
     <string name="action_save">Speichern</string>
     <string name="action_select_date">Datum auswählen</string>

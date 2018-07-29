@@ -22,7 +22,6 @@
     <string name="activity_edit_locations">Modifica Posizioni</string>
     <string name="activity_notification_setting">Notifica</string>
     <string name="activity_notification_settings">Notifiche</string>
-    <string name="activity_open_source_licenses">Licenze Open Source</string>
     <string name="activity_select_location">Seleziona Posizione</string>
     <string name="activity_settings">Impostazioni</string>
     <string name="activity_support_this_project">Sostieni questo progetto</string>
@@ -62,6 +61,7 @@
     <!-- menu -->
     <string name="action_delete">Cancella</string>
     <string name="action_grid">Griglia</string>
+    <string name="action_info">Informazioni</string>
     <string name="action_map">Mappa</string>
     <string name="action_save">Salva</string>
     <string name="action_select_date">Seleziona data</string>

@@ -20,7 +20,6 @@
     <string name="activity_alarm_setting">闹钟</string>
     <string name="activity_alarm_settings">闹钟</string>
     <string name="activity_edit_locations">编辑地点</string>
-    <string name="activity_open_source_licenses">Open Source Licenses</string>
     <string name="activity_notification_setting">提醒</string>
     <string name="activity_notification_settings">提醒</string>
     <string name="activity_select_location">选择地点</string>
@@ -62,6 +61,7 @@
     <!-- menu -->
     <string name="action_delete">删除</string>
     <string name="action_grid">表格</string>
+    <string name="action_info">信息</string>
     <string name="action_map">地图</string>
     <string name="action_save">保存</string>
     <string name="action_select_date">选择日期</string>

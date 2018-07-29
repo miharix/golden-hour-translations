@@ -22,7 +22,6 @@
     <string name="activity_edit_locations">Edit Locations</string>
     <string name="activity_notification_setting">Notification</string>
     <string name="activity_notification_settings">Notifications</string>
-    <string name="activity_open_source_licenses">Open Source Licenses</string>
     <string name="activity_select_location">Select Location</string>
     <string name="activity_settings">Settings</string>
     <string name="activity_support_this_project">Support this project</string>
@@ -62,6 +61,7 @@
     <!-- menu -->
     <string name="action_delete">Delete</string>
     <string name="action_grid">Grid</string>
+    <string name="action_info">Info</string>
     <string name="action_map">Map</string>
     <string name="action_save">Save</string>
     <string name="action_select_date">Select date</string>
