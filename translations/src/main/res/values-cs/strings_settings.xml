@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="settings_category_localization">Umístění</string>
+    <string name="settings_localization_time_format">Časový formát</string>
+    <string name="settings_localization_coordinate_format">Formát souřadnic</string>
+    <string name="settings_category_notifications">Nastavení notifikací</string>
+    <string name="settings_week_start">Týden začíná dnem</string>
+    <string name="settings_notifications_sound">Zvuky</string>
+    <string name="settings_notifications_vibrate">Vibrace</string>
+    <string name="settings_notifications_light">Světlo</string>
+    <string name="settings_category_information">Informace</string>
+    <string name="settings_more_from_developer">Více od vydavatele</string>
+    <string name="settings_about">O aplikaci</string>
+    <string name="settings_change_log">Změny v aplikaci</string>
+    <string name="settings_change_log_summary">Seznam změn v předchozích verzích</string>
+    <string name="settings_info">Info</string>
+    <string name="settings_open_source_licenses">Licence Open Source</string>
+
+    <!-- entries -->
+    <string name="light_off">Vypnuto</string>
+    <string name="light_default">Výchozí nastavení</string>
+
+    <string name="notification_tone">Zvuk notifikací</string>
+
+    <string name="sound_off">Vypnuto</string>
+
+    <string name="time_format_regional">Místní nastavení</string>
+    <string name="time_format_hmma">1:00 PM</string>
+    <string name="time_format_Hmm">13:00</string>
+
+    <string name="vibrate_off">Vypnuto</string>
+    <string name="vibrate_default">Výchozí nastavení</string>
+    <string name="vibrate_short">Krátké</string>
+    <string name="vibrate_long">Dlouhé</string>
+
+    <string name="week_start_regional">Místní nastavení</string>
+    <string name="week_start_saturday">Sobota</string>
+    <string name="week_start_sunday">Neděle</string>
+    <string name="week_start_monday">Pondělí</string>
+
+    <string name="notify_60_minutes_before">60 minut před</string>
+    <string name="notify_55_minutes_before">55 minut před</string>
+    <string name="notify_50_minutes_before">50 minut před</string>
+    <string name="notify_45_minutes_before">45 minut před</string>
+    <string name="notify_40_minutes_before">40 minut před</string>
+    <string name="notify_35_minutes_before">35 minut před</string>
+    <string name="notify_30_minutes_before">30 minut před</string>
+    <string name="notify_25_minutes_before">25 minut před</string>
+    <string name="notify_20_minutes_before">20 minut před</string>
+    <string name="notify_15_minutes_before">15 minut před</string>
+    <string name="notify_10_minutes_before">10 minut před</string>
+    <string name="notify_5_minutes_before">5 minut před</string>
+    <string name="notify_at_time_of_event">V čase události</string>
+    <string name="notify_5_minutes_after">5 minut po</string>
+    <string name="notify_10_minutes_after">10 minut po</string>
+    <string name="notify_15_minutes_after">15 minut po</string>
+    <string name="notify_20_minutes_after">20 minut po</string>
+    <string name="notify_25_minutes_after">25 minut po</string>
+    <string name="notify_30_minutes_after">30 minut po</string>
+    <string name="notify_35_minutes_after">35 minut po</string>
+    <string name="notify_40_minutes_after">40 minut po</string>
+    <string name="notify_45_minutes_after">45 minut po</string>
+    <string name="notify_50_minutes_after">50 minut po</string>
+    <string name="notify_55_minutes_after">55 minut po</string>
+    <string name="notify_60_minutes_after">60 minut po</string>
+
+</resources>

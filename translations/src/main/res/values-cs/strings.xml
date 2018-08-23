@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">Alarm</string>
+    <string name="activity_alarm_settings">Alarmy</string>
+    <string name="activity_edit_locations">Upravit polohy</string>
+    <string name="activity_notification_setting">Notifikace</string>
+    <string name="activity_notification_settings">Notifikace</string>
+    <string name="activity_select_location">Zvollte polohu</string>
+    <string name="activity_settings">Nastavení</string>
+    <string name="activity_support_this_project">Podpořte projekt</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Východ &amp; Západ</string>
+    <string name="widget_sun_table">Tabulka</string>
+    <string name="widget_sun_tiles">Seznam</string>
+
+    <!-- common buttons -->
+    <string name="cancel">Zrušit</string>
+    <string name="delete">Smazat</string>
+    <string name="edit_location">Upravit polohu</string>
+
+    <string name="day_phase_golden_hour_description">
+      Ve fotografii označuje zlatá hodina (někdy známá jako magická hodina - zejména v kinematografii) první a poslední hodinu slunečního denního svitu, kdy je dosaženo specifického fotografického efektu díky kvalitě světla.
+    </string>
+    <string name="day_phase_blue_hour_description">
+      Modrá hodina je období soumraku každé ráno a večer, kdy je slunce značnou vzdáleností pod horizontem a zbytkové, nepřímé sluneční světlo má převážně modrý odstín,  přibližně stejný jas jako umělé osvětlení budov a pouličního osvětlení.\nBěhem modré \"hodiny\" prochází červené světlo přímo do prostoru, zatímco modré světlo je rozptýleno v atmosféře, a proto dosáhne zemského povrchu.\nVzhledem ke kvalitě světla je tato doba ceněna umělci.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+      Ráno civilní soumrak začíná okamžikem, kdy se střed slunečního kotouče nachází 6° pod horizontem, a končí východem Slunce.\nVečer začíná západem Slunce a končí okamžikem, kdy se střed slunečního kotouče nachází 6° pod horizontem.\nCivilní soumrak lze také popsat jako hranici, při níž za jasných povětrnostních podmínek postačuje osvětlení soumraku, aby byly pozemní objekty jasně rozlišeny.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+      Při nautickém soumraku jsou světelné podmínky již špatné. Rozeznáváme pouze obrysy předmětů, na obloze je vidět většina jasných hvězd.\nNautický soumrak je časový interval, ve kterém pro výšku geometrického středu Slunce na obloze platí, že je mezi −12° a −6°. Nautický soumrak tedy večer navazuje na občanský, ráno mu předchází.\nVečerní soumrak je definován tak, že začíná při západu slunce a končí, když je střed slunce 12° pod horizontem.\nObecně, Nautický soumrak končí, když navigace pomocí horizontu na moři již není možná (obloha již splýbá s mořkosu hladinou).
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+      Astronomický soumrak je časový interval, ve kterém pro výšku geometrického středu Slunce na obloze platí, že je mezi −18° a −12°. Astronomický soumrak, tedy večer, navazuje na nautický, ráno mu předchází.\nVečerní astronomický soumrak je definován tak,že začíná při západu slunce a končí, když je střed slunce 18° pod horizontem.\nOd konce astronomického soumraku večer až po začátek astronomického soumraku ráno je obloha (mimo městské světelné znečištění) dostatečně tmavá pro všechny astronomické pozorování.
+    </string>
+    <string name="day_phase_info_source">wikipedie</string>
+    <string name="day_phase_info_link">https://cs.wikipedia.org/wiki/Soumrak</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">Aktuální poloha</string>
+    <string name="search_location_hint">Hledat podle názvu</string>
+
+    <!-- menu -->
+    <string name="action_delete">Smazat</string>
+    <string name="action_grid">Mřížka</string>
+    <string name="action_info">Info</string>
+    <string name="action_map">Mapa</string>
+    <string name="action_save">Uložit</string>
+    <string name="action_select_date">Zvolit datum</string>
+    <string name="action_satellite_map">Satelitní mapa</string>
+
+    <!-- notifications -->
+    <string name="local_time">Místní čas</string>
+    <string name="wait">Prosím čekejte…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">Aplikace Golden Hour App obsahuje funkce k nalezení času východu nebo západu slunce - novou verzi si můžete stáhnout zde: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Dnes</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">Šířka: %1$s, délka: %2$s</string>
+    <string name="coordinates_copied">Souřadnice byly zkopírovány do schránky</string>
+    <string name="refresh">Obnovit</string>
+
+    <string name="event">Událost</string>
+    <string name="every_day">Každý den</string>
+    <string name="label_optional">Popisek (volitelný)</string>
+    <string name="select_event">Zvolte událost</string>
+    <string name="select_location">Zvolte polohu</string>
+    <string name="task_setting_incomplete">Poloha, Událost a dny v týdnu nemůžou být prázdné</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta Testování</string>
+    <string name="action_support">Podpora</string>
+    <string name="action_translate">Překlad</string>
+    <string name="beta_program">Připojte se k testování aplikace díky nevydané verzi aplikace</string>
+    <string name="beta_program_description">Pokud chcete vyzkoušet nové funkce aplikace, než budou zveřejněny, můžete se připojit k beta testování.\n
+        Jako beta tester budete moci využívat nové funkce aplikace, ještě než budou vydány. Tyto funkce mohou být později zpřístupěny veřejnosti. Žádáme, abyste nezveřejňovali ani nesdíleli funkce, které testujete, dokud nejsou veřejně vydány.\n
+        Díky beta testování se stanete důležitou součástí tohoto projektu. Vaše zpětná vazba a účast pomohou vytvořit lepší verzi aplikace.\n
+        Buďte si prosím vědomi, že beta verze může být nestabilní a může obsahovat chyby.</string>
+    <string name="thanks_to_translators">Poděkování s překladem:</string>
+    <string name="translate_to_your_language">Kontakt na vydavatele pro více informací</string>
+    <string name="translate_to_your_language_description">Pomožte přeložit aplikaci do více jazyků</string>
+    <string name="become_supporter">Staňte se Supporterem</string>
+    <string name="supporter_app_description">Pokud jste spokojeným uživatelem této aplikace a chcete podpořit další rozvoj projektu, můžete zakoupit Supporter verzi</string>
+
+    <!-- -->
+    <string name="alarms_warning">Prosím, berte na vědomí, že alarmy nemusí fungovat správně u některých zařízení (nejčastěji Samsung).\nAlarm se vypne, pokud se aplikace v době alarmu vypne.</string>
+    <string name="disable_current_location">Vypnout aktuální polohu</string>
+    <string name="location_service_is_turned_off">Služba Určování polohy je vypnutá</string>
+    <string name="notifications_warning">Prosím, berte na vědomí, že notifikace nemusí fungovat správně u některých zařízení (nejčastěji Samsung).\nNotifikace se vypnou, pokud se aplikace v době notifikací vypne.</string>
+    <string name="permission_access_fine_location">Povolení umístění je potřebné k získání aktuální polohy.</string>
+    <string name="save_coordinates_confirmation">Uložit souřadnice?</string>
+    <string name="turn_on">Zapnout</string>
+
+    <string name="error_database">Chyba databáze</string>
+    <string name="error_http">Chyba HTTP</string>
+    <string name="error_invalid_request">Neplatná žádost</string>
+    <string name="error_invalid_response">Neplatná odpověď</string>
+    <string name="error_location_limit_reached">Dosažen limit míst.\nOdstraňte některá místa, pokud chcete přidat další.</string>
+    <string name="error_location_not_found">Poloha nenalezena</string>
+    <string name="error_location_service_not_available">Služba není k dispozici.\nZkontrolujte službu určování polohy.</string>
+    <string name="error_must_have_one_location">Aplikace musí mít alespoň 1 umístění</string>
+    <string name="error_network_connection">Omlouváme se, ale služba není k dispozici.\nZkontorlujte připojení k internetu.</string>
+    <string name="error_over_query_limit">Dosáhli jste limit dotazů, porsím opakujte později</string>
+    <string name="error_remote_server_connection">Chyba připojení k serveru</string>
+    <string name="error_request_denied">Žádost zamítnuta</string>
+    <string name="error_task_setting_already_exist">Nelze uložit, nastavení již existuje</string>
+    <string name="error_zero_results">Žádné výsledky</string>
+    <string name="error_unknown">Neznámá chyba</string>
+
+    <string name="alarm_default_title">Alarm</string>
+
+    <string name="alarm_dismiss_now_text">Odmítnout nyní</string>
+    <string name="alarm_dismiss_text">Odmítnout</string>
+    <string name="alarm_snooze_text">Odložit</string>
+    <string name="alarm_upcoming">Nadcházející alarm</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Noc</string>
+    <string name="sun_phase_twilight_astronomical">Astronomický soumrak</string>
+    <string name="sun_phase_twilight_nautical">Nautický soumrak</string>
+    <string name="sun_phase_twilight_civil">Civilní soumrak</string>
+    <string name="sun_phase_blue_hour">Modrá hodina</string>
+    <string name="sun_phase_golden_hour">Zlatá hodina</string>
+    <string name="sun_phase_twilight_official">Oficiální soumrak</string>
+    <string name="sun_phase_day">Den</string>
+    <string name="sun_phase_morning">Ráno</string>
+    <string name="sun_phase_evening">Večer</string>
+
+    <string name="sun_position_sunrise">Východ</string>
+    <string name="sun_position_sunset">Západ</string>
+    <string name="sun_position_duration">Doba trvání</string>
+    <string name="sun_position_noon">Poledne</string>
+
+    <string name="altitude">Nadmořská výška</string>
+    <string name="azimuth">Azimut</string>
+    <string name="time">Čas</string>
+
+</resources>
