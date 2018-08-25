@@ -21,19 +21,19 @@
     <string name="short_description">Objevte čas a délku trvání různých fází slunečního svitu na jakémkoliv místě.</string>
 
     <string name="full_description">
-        Jednoduchá a pohodlná aplikace pro spočítání času a délky trvání východu, záapadu slunce a dalších fází slunce na jakémkoliv místě.
-		
+        Jednoduchá a pohodlná aplikace pro spočítání času a délky trvání východu, západu slunce a dalších fází slunce na jakémkoliv místě.
+
         <b>Bez reklam!</b>
 
         <b>Klíčové vlastnosti:</b>
-		- Najděte čas východu a západu slunce
-		- Najděte dobu civilních, nautických a astronomických soumraků, "zlaté" a "modré" hodiny
-		- Užijte si jednoduché ovládání prostředí
-		- Pracujte i bez připojení k internetu
-		- Sledujte všechna Vaše oblíbená města
-		- Nastavete si notifikace pro nadcházející východ, západ nebo zlatou hodinu
+        - Najděte čas východu a západu slunce
+        - Najděte dobu civilních, nautických a astronomických soumraků, "zlaté" a "modré" hodiny
+        - Užijte si jednoduché ovládání prostředí
+        - Pracujte i bez připojení k internetu
+        - Sledujte všechna Vaše oblíbená města
+        - Nastavete si notifikace pro nadcházející východ, západ nebo zlatou hodinu
 
-		<b>Oprávnění:</b>
+        <b>Oprávnění:</b>
         - <b>Přísup k poloze</b>: potřebné k určení aktuální polohy.
         - <b>Zobrazení připojení k síti</b>, <b>Plný přístup k síti</b>: potřebné pro přidání nového umístění a získání názvu aktuální polohy.
         - <b>Zapnout při spuštění</b>: potřebné k tomu, aby bylo možné nastavit oznámení při spuštění.
