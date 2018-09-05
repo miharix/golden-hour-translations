@@ -35,3 +35,5 @@ And last but not least: Always write your commit messages in the present tense. 
 - Robert van der Rhee (Nederlands)
 - Patryk Pawluczuk (Polski)
 - 周星耀 (简体中文)
+- Yuşa Çetin (Türkçe)
+- Michal Hráček (Čeština)
