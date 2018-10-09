@@ -15,21 +15,9 @@
   ~ limitations under the License.
   -->
 
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
+<resources>
 
-    <string name="translators_list">
-        Alexander Fischer (Deutsch / Deutschland)
-        \nIzar Castorina (Italiano)
-        \nOleh Tsyupka (Українська)
-        \nSergio Bartolomé Carrera (Español)
-        \nRobert van der Rhee (Nederlands)
-        \nPatryk Pawluczuk (Polski)
-        \n周星耀 (简体中文)
-        \nYuşa Çetin (Türkçe)
-        \nMichal Hráček (Čeština)
-        \nAlon Elay Latucha (עִברִית)
-    </string>
+    <string name="bug_fixes">תיקוני באגים ושיפורים שונים</string>
+    <string name="app_translated_to">האפליקציה תורגמה ל-xxx</string>
 
 </resources>

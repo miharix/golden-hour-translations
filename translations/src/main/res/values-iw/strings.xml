@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- activities -->
+    <string name="activity_alarm_setting">התראה</string>
+    <string name="activity_alarm_settings">התראות</string>
+    <string name="activity_edit_locations">ערוך מיקומים</string>
+    <string name="activity_notification_setting">הודעה</string>
+    <string name="activity_notification_settings">הודעות</string>
+    <string name="activity_select_location">בחר מיקום</string>
+    <string name="activity_settings">הגדרות</string>
+    <string name="activity_support_this_project">תמוך בפרוייקט</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">זריחה &amp; שקיעה</string>
+    <string name="widget_sun_table">טבלה</string>
+    <string name="widget_sun_tiles">אריח</string>
+
+    <!-- common buttons -->
+    <string name="cancel">בטל</string>
+    <string name="delete">מחק</string>
+    <string name="edit_location">ערוך מיקום</string>
+
+    <string name="day_phase_golden_hour_description">
+        בצילום, שעת הזהב (ידועה גם כשעת הקסם, במיוחד באמנות הקולנוע) היא מחזור קצר מיד לאחר הזריחה או לפני השקיעה שבה אור היום נראה אדמדם ורך יותר בהשוואה לזמן בו השמש גבוהה יותר בשמיים.\n התנאי \"השעה\" משומשת באופן ציורי; לאפקט אין זמן קבוע ומשתנה בהתאם לעונה ולקו הרוחב.
+    </string>
+    <string name="day_phase_blue_hour_description">
+    השעה הכחולה היא מחזור בין ערביים כל בוקר וערב בזמן שהשמש משמעותית מתחת לאופק ולמשקע, שמש ישירה הופכת גוונה לכחול.\nבזמן השעה \"הכחולה\", אור אדום עובר ישירות לחלל בזמן שהואר הכחול מפוזר באטמוספירה ולכן היא מגיעה לקרקע של כדור הארץ.\nבגלל האיכות של האור, המחזור הזה הינו אוצר בעיני אמנים.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+	דמדומי בוקר מתחילים כשהמרכז הגאומטרי של השמש הוא °6 מתחת לאופק (שחר אזרחי) ונגמר בזריחה.\nערב אזרחי מתחיל בשקיעה ונגמר כשהמרכז הגאומטרי של השמש מגיעה ל-°6 מתחת לאופק (דמדומים).\nשחר אזרחי יכול להיות גם מתואר בתור המגבלה בה מאור הדמדומים מספיק, בו תחת תנאי מזג אוויר ברורים, אובייקטים על היבשה יובחנו בקלות.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+     בזמן הדמדומים הימיים, האופק ברור, אך תאורה מלאכותית הכרחית כדי לראות בבירור אובייקטים יבשתיים.\nדמדומים ימיים מתחילים כאשר מרכזה של השמש נמצא בין 6° ו-12° מתחת לאופק ובתחילת הזריחה.\nדמדומים ימיים בערב מתחילים בזריחה ומסתיימים כשמרכז השמש נמצא 16 מעלות מתחת לאופק.\nככלל, דמדומים אלה הם השלב שבו שוב או עדיין לא ניתן לנווט בים על פי תצפית לעבר קו האופק.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+	דמדומים אסטרונומיים מוגדרים כפרקי הזמן בערב ולפנות שחר, כאשר מרכזה של השמש נמצא בין 12° ו-18° מתחת לאופק.\nככלל, בטרם תחילתו של שלב זה בבוקר, או עם סיומו לעת ערב, השמיים חשוכים לחלוטין, אם כי רוב בני האדם יגדירו את השמיים כחשוכים עם סיומו של שלב זה בבוקר או טרם תחילתו לפנות ערב.\nבשלב זה ניתן לבצע תצפיות אסטרונומיות, אם כי ייתכן שכדי לתצפת גרמי שמיים חיוורים במיוחד, יהא צורך להמתין עד תום הדמדומים האסטרונומיים או להקדים את תחילתם.
+    </string>
+    <string name="day_phase_info_source">וויקיפדיה</string>
+    <string name="day_phase_info_link">https://he.wikipedia.org/wiki/%D7%93%D7%9E%D7%93%D7%95%D7%9E%D7%99%D7%9D</string>
+
+    <!-- fragment add location -->
+    <string name="current_location">מיקום נוכחי</string>
+    <string name="search_location_hint">חפש לפי מיקום</string>
+
+    <!-- menu -->
+    <string name="action_delete">מחק</string>
+    <string name="action_grid">רשת</string>
+    <string name="action_info">מידע</string>
+    <string name="action_map">מפה</string>
+    <string name="action_save">שמור</string>
+    <string name="action_select_date">בחר תאריך</string>
+    <string name="action_satellite_map">מפת לוויין</string>
+
+    <!-- notifications -->
+    <string name="local_time">זמן מקומי</string>
+    <string name="wait">המתן…</string>
+
+    <!-- share app -->
+    <string name="share_app_message">לאפליקציה יש כמה פיצ\'רים נחמדים כדי למצוא את הזמן של הזריחה או השקיעה – אתם יכולים להוריד את הגרסה החדשה כאן: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">היום</string>
+
+    <string name="developer_name">Oleg Kan</string>
+
+    <string name="coordinates">רוחב: %1$s ,אורך: %2$s</string>
+    <string name="coordinates_copied">נקודות הציון הועתקו ללוח</string>
+    <string name="refresh">rרענן</string>
+
+    <string name="event">אירוע</string>
+    <string name="every_day">כל יום</string>
+    <string name="label_optional">תווית (בחירה)</string>
+    <string name="select_event">בחר אירוע</string>
+    <string name="select_location">בחר מיקום</string>
+    <string name="task_setting_incomplete">המיקום, האירוע וימי השבוע לא יכולים להיות ריקים</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">בדיקות בטא</string>
+    <string name="action_support">תמוך</string>
+    <string name="action_translate">תרגם</string>
+    <string name="beta_program">הצטרף לתכנית בדיקה של גרסת בטא של האפליקציה</string>
+    <string name="beta_program_description">אם אתם רוצים לנסות אפשרויות ניסיוניות של האפליקציה לפני שהן שוחררו, אתם יכולים להצטרף לתכנית הביטא.\n
+        בתור נסיין ביטא אתה תוכל להשתמש באפשרויות שעוד לא שוחררו לקהל הרחב. האפשרויות האלה יכולות להפוך פומביות בעתיד. אנחנו מבקשים שלא תפרסם או תשתף את האפשרויות שאתה בודק עד שהן ישוחררו.\n
+        במהלך בדיקת הביטא, אתה תהפוך לחלק חשוב בפיתוח האפליקציה. השתתפותך וחוות הדעת שלך יעזרו לנו להפיק גרסה טובה יותר של האפליקציה.\n
+        אנא זכרו כי גרסאות ביטא עלולות להיות לא יציבות או עם באגים.
+    </string>
+    <string name="thanks_to_translators">תודה למתרגמים:</string>
+    <string name="translate_to_your_language">פנה למפתח למידע נוסף</string>
+    <string name="translate_to_your_language_description">אתה יכול לתרגם את האפליקציה הזו לשפה שלך</string>
+    <string name="become_supporter">הפוך לתומך</string>
+    <string name="supporter_app_description">אם אתה משתמש מאושר של האפליקציה ואתה רוצה לתמוך בפיתוח הלאה של האפליקציה שלי אתה יכול לעשות זאת ברכישת גרסת התומכים של האפליקציה.</string>
+
+    <!-- -->
+    <string name="alarms_warning">תהיו מודעים לכך שחלק מההתראות לא יעבדו כשורה בחלק מהמכשירים (במיוחד במכשירי סמסונג).\nכבה את ההתראות אם האפליקציה קורסת בזמן ההתראה.</string>
+    <string name="disable_current_location">כבה מיקום נוכחי</string>
+    <string name="location_service_is_turned_off">שירותי המיקום כבויים</string>
+    <string name="notifications_warning">תהיו מודעים לכך שחלק מההודעות לא יעבדו כשורה בחלק מהמכשירים (במיוחד במכשירי סמסונג).\nכבה את ההתראות אם האפליקציה קורסת בזמן ההתראה.</string>
+    <string name="permission_access_fine_location">Lהרשאה למיקום נדרשת כדי לגשת למיקום הנוכחי.</string>
+    <string name="save_coordinates_confirmation">לשמור מיקום?</string>
+    <string name="turn_on">הפעל</string>
+
+    <string name="error_database">תקלה במסד הנתונים</string>
+    <string name="error_http">תקלת HTTP</string>
+    <string name="error_invalid_request">בקשה שגויה</string>
+    <string name="error_invalid_response">תגובה שגויה</string>
+    <string name="error_location_limit_reached">הגעת למגבלת המיקומים.\nהסר מיקום אם ברצונך להוסיף עוד.</string>
+    <string name="error_location_not_found">מיקום לא נמצא</string>
+    <string name="error_location_service_not_available">השירות לא זמין.\nבדוק שירותי מיקום.</string>
+    <string name="error_must_have_one_location">היישום דורש לפחות מיקום אחד.</string>
+    <string name="error_network_connection">סליחה, השירות אינו זמין.\nבדוק חיבור לאינטרנט.</string>
+    <string name="error_over_query_limit">מגבלת המידע הושגה, אנא נסה שנית מאוחר יותר</string>
+    <string name="error_remote_server_connection">בעיית חיבור לשרת</string>
+    <string name="error_request_denied">הבקשה נדחתה</string>
+    <string name="error_task_setting_already_exist">לא נשמר, ההגדרה כבר קיימת</string>
+    <string name="error_zero_results">לא נמצאו תוצאות</string>
+    <string name="error_unknown">בעיה לא ידועה</string>
+
+    <string name="alarm_default_title">התראה</string>
+
+    <string name="alarm_dismiss_now_text">דחה עכשיו</string>
+    <string name="alarm_dismiss_text">דחה</string>
+    <string name="alarm_snooze_text">נודניק</string>
+    <string name="alarm_upcoming">ההתראה הקרובה</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">לילה</string>
+    <string name="sun_phase_twilight_astronomical">דמדומים אסטרונומיים</string>
+    <string name="sun_phase_twilight_nautical">דמדומים ימיים</string>
+    <string name="sun_phase_twilight_civil">דמדומים אזרחיים</string>
+    <string name="sun_phase_blue_hour">השעה הכחולה</string>
+    <string name="sun_phase_golden_hour">שעת הזהב</string>
+    <string name="sun_phase_twilight_official">דמדומים רשמיים</string>
+    <string name="sun_phase_day">יום</string>
+    <string name="sun_phase_morning">בוקר</string>
+    <string name="sun_phase_evening">ערב</string>
+
+    <string name="sun_position_sunrise">זריחה</string>
+    <string name="sun_position_sunset">שקיעה</string>
+    <string name="sun_position_duration">אורך</string>
+    <string name="sun_position_noon">צהריים</string>
+
+    <string name="altitude">גובה</string>
+    <string name="azimuth">אזימוט</string>
+    <string name="time">זמן</string>
+
+</resources>

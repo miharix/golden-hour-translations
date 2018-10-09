@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <!-- <= 80 characters-->
+    <string name="short_description">מצא את הזמן ואת האורך של סוגים שונים של אור שמש מכל מקום.</string>
+
+    <string name="full_description">
+        כלי קל ונוח כדי לחשב את השעה ואת אורך הזריחה, השקיעה, ועוד סוגים של אור שמש מכל מקום.
+
+        <b>ללא פרסומות!</b>
+
+        <b>תכונות היישום:</b>
+		- מצא את הזמן של הזריחה והשקיעה
+		- מצא את האורך של דמדומים אזרחיים, ימיים ואסטרונומיים, שעת הזהב והשעה הכחולה.
+		- תיהנה מממשק פשוט וקל לשימוש.
+		- תעבוד ללא חיבור לאינטרנט.
+		- עקוב אחרי הערים המועדפות עליך
+		- הגדר הודעות עבור זריחות, שקיעות או שעות זהב.
+
+        <b>הרשאות:</b>
+        - <b>מיקום מדוייק</b>: נדרש על מנת למצוא את המיקום הנוכחי.
+        - <b>הצגת חיבורים לרשת</b>, <b> חיבור מלא לאינטרנט</b>: נדרש על מנת להוסיף מיקום חדש ואת שמו.
+        - <b>הפעלה בהדלקת המכשיר</b>: נדרש על מנת להציג התראות בהדלקת המכשיר.
+        - <b>למנוע מהמכשיר לעבור לשינה</b>: נדרש על מנת לשלוח את ההודעות למכשיר כשהמסך כבוי.
+
+        <b>טיפים:</b>
+       - החלק מימין לשמאל כדי להחליף בין מיקומים
+	   - השתמש בכפתורי הווליום כדי לשנות תאריך
+
+    </string>
+
+</resources>
