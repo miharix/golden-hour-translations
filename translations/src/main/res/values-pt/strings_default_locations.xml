@@ -15,22 +15,16 @@
   ~ limitations under the License.
   -->
 
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
+<resources>
 
-    <string name="translators_list">
-        Alexander Fischer (Deutsch / Deutschland)
-        \nIzar Castorina (Italiano)
-        \nOleh Tsyupka (Українська)
-        \nSergio Bartolomé Carrera (Español)
-        \nRobert van der Rhee (Nederlands)
-        \nPatryk Pawluczuk (Polski)
-        \n周星耀 (简体中文)
-        \nYuşa Çetin (Türkçe)
-        \nMichal Hráček (Čeština)
-        \nAlon Elay Latucha (עִברִית)
-        \nGuilherme Coelho (Português)
-    </string>
+    <string name="san_francisco">São Francisco</string>
+    <string name="paris">Paris</string>
+    <string name="moscow">Moscou</string>
+    <string name="sydney">Sydney</string>
+
+    <string name="australia">Australia</string>
+    <string name="france">França</string>
+    <string name="russia">Russia</string>
+    <string name="united_states">Estados Unidos</string>
 
 </resources>

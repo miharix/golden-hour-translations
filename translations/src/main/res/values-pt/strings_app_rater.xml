@@ -15,22 +15,11 @@
   ~ limitations under the License.
   -->
 
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
-
-    <string name="translators_list">
-        Alexander Fischer (Deutsch / Deutschland)
-        \nIzar Castorina (Italiano)
-        \nOleh Tsyupka (Українська)
-        \nSergio Bartolomé Carrera (Español)
-        \nRobert van der Rhee (Nederlands)
-        \nPatryk Pawluczuk (Polski)
-        \n周星耀 (简体中文)
-        \nYuşa Çetin (Türkçe)
-        \nMichal Hráček (Čeština)
-        \nAlon Elay Latucha (עִברִית)
-        \nGuilherme Coelho (Português)
-    </string>
-
+<resources>
+    <string name="ar_dialog_rate_title">Avalie o app</string>
+    <string name="ar_dialog_rate_message">Se você está gostando do app, se importa em deixar uma avaliação? Não irá demorar nenhum minuto.\n\nObrigado pelo apio!</string>
+    <string name="ar_dialog_rate_positive_button_rate">Avaliar app</string>
+    <string name="ar_dialog_rate_negative_button">Depois</string>
+    <string name="ar_dialog_rate_neutral_button">Não, obrigado</string>
+    <string name="ar_unable_to_find_google_play">Não foi possível encontrar o Google Play</string>
 </resources>
