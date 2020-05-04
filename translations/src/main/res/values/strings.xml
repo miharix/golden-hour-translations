@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2017 Oleg Kan
+  ~ Copyright (C) 2019 Oleg Kan
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -16,25 +16,29 @@
   -->
 
 <resources>
-    <!-- activities -->
-    <string name="activity_alarm_setting">Alarm</string>
-    <string name="activity_alarm_settings">Alarms</string>
-    <string name="activity_edit_locations">Edit Locations</string>
-    <string name="activity_notification_setting">Notification</string>
-    <string name="activity_notification_settings">Notifications</string>
-    <string name="activity_select_location">Select Location</string>
-    <string name="activity_settings">Settings</string>
-    <string name="activity_support_this_project">Support this project</string>
+    <!-- screens -->
+    <string name="screen_alarm_setting">Alarm</string>
+    <string name="screen_alarm_settings">Alarms</string>
+    <string name="screen_edit_location">Edit Location</string>
+    <string name="screen_locations">Locations</string>
+    <string name="screen_notification">Notification</string>
+    <string name="screen_notifications">Notifications</string>
+    <string name="screen_open_source_libraries">Open Source Libraries</string>
+    <string name="screen_search_location">Search Location</string>
+    <string name="screen_select_location">Select Location</string>
+    <string name="screen_settings">Settings</string>
+    <string name="screen_support_this_project">Support this project</string>
+
+    <string name="navigation_map">Map</string>
+    <string name="navigation_notifications">Notifications</string>
+    <string name="navigation_overview">Overview</string>
+    <string name="navigation_settings">Settings</string>
+    <string name="navigation_support">Support</string>
 
     <!-- widgets -->
     <string name="widget_sun_rise_set">Rise &amp; Set</string>
     <string name="widget_sun_table">Table</string>
     <string name="widget_sun_tiles">Tiles</string>
-
-    <!-- common buttons -->
-    <string name="cancel">Cancel</string>
-    <string name="delete">Delete</string>
-    <string name="edit_location">Edit Location</string>
 
     <string name="day_phase_golden_hour_description">
         In photography, the golden hour (sometimes known as magic hour, especially in cinematography) is a period shortly after sunrise or before sunset during which daylight is redder and softer compared to when the Sun is higher in the sky.\nThe term \"hour\" is used figuratively; the effect has no clearly defined duration and varies according to season and latitude.
@@ -54,30 +58,31 @@
     <string name="day_phase_info_source">wikipedia</string>
     <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
 
-    <!-- fragment add location -->
     <string name="current_location">Current Location</string>
+    <string name="delete_location_confirmation">Delete location?</string>
     <string name="search_location_hint">Search by location name</string>
 
     <!-- menu -->
+    <string name="action_add">Add</string>
     <string name="action_delete">Delete</string>
-    <string name="action_grid">Grid</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_edit_location">Edit Location</string>
     <string name="action_info">Info</string>
-    <string name="action_map">Map</string>
+    <string name="action_map_default">Default</string>
+    <string name="action_map_satellite">Satellite</string>
+    <string name="action_map_terrain">Terrain</string>
     <string name="action_save">Save</string>
+    <string name="action_search">Search</string>
     <string name="action_select_date">Select date</string>
-    <string name="action_satellite_map">Satellite map</string>
+    <string name="action_sort">Sort</string>
 
-    <!-- notifications -->
-    <string name="local_time">Local time</string>
-    <string name="wait">Please wait…</string>
+    <string name="notification_chanel_description">Notifications</string>
 
     <!-- share app -->
     <string name="share_app_message">The Golden Hour App has some nice features for finding the time of sunrise or sunset - you can download the new version at: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
 
     <!-- select date -->
     <string name="select_date_today">Today</string>
-
-    <string name="developer_name">Oleg Kan</string>
 
     <string name="coordinates">lat: %1$s, long: %2$s</string>
     <string name="coordinates_copied">Coordinates copied to clipboard</string>
@@ -92,6 +97,7 @@
 
     <!-- support this project -->
     <string name="action_beta_testing">Beta Testing</string>
+    <string name="action_pro">Golden Hour+</string>
     <string name="action_support">Support</string>
     <string name="action_translate">Translate</string>
     <string name="beta_program">Join a testing program for an unreleased version of the app</string>
@@ -99,19 +105,15 @@
         As a beta tester, you\’ll be able to use features that haven’t been released to the public. These features could become available to the public in the future. We ask that you don’t publicize or share the features you’re testing until they’re publicly launched.\n
         By beta testing, you’ll become an important part of the app’s development. Your participation and feedback will help us release a better version of the app.\n
         Please note that testing versions may be unstable or have a few bugs.</string>
+    <string name="pro_version">Get Golden Hour+</string>
+    <string name="pro_version_description">If you are a happy user of my application and would like to support it\'s further development you can do so by purchasing Golden Hour+.\n\nGolden Hour+ features:\n\n&#8226; Save unlimited locations\n&#8226; Edit Location\n&#8226; Advanced location search: by address, description, etc.</string>
     <string name="thanks_to_translators">Thanks to translators:</string>
     <string name="translate_to_your_language">Contact developer for further information</string>
     <string name="translate_to_your_language_description">You can help to translate this app to your language</string>
-    <string name="become_supporter">Become a Supporter</string>
-    <string name="supporter_app_description">If you are a happy user of my application and would like to support my project\'s further development you can do so by purchasing the Supporter app.</string>
 
-    <!-- -->
-    <string name="alarms_warning">Please be aware that alarms might not work properly on some devices (mostly on Samsungs).\nDisable alarms if app is crashing at the time of alarm.</string>
     <string name="disable_current_location">Disable current location</string>
     <string name="location_service_is_turned_off">Location service is turned off</string>
-    <string name="notifications_warning">Please be aware that notifications might not work properly on some devices (mostly on Samsungs).\nDisable notifications if app is crashing at the time of notification.</string>
     <string name="permission_access_fine_location">Location permission is needed to get current location.</string>
-    <string name="save_coordinates_confirmation">Save coordinates?</string>
     <string name="turn_on">Turn On</string>
 
     <string name="error_database">Database error</string>
@@ -157,5 +159,10 @@
     <string name="altitude">Altitude</string>
     <string name="azimuth">Azimuth</string>
     <string name="time">Time</string>
+
+    <string name="country">Country</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="name">Name</string>
 
 </resources>

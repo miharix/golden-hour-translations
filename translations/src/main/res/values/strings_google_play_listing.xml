@@ -28,19 +28,11 @@
         <b>Key Features:</b>
         - Find the time of sunrise and sunset
         - Find the duration of the civil, nautical and astronomical twilights, "golden" and "blue" hours
-        - Enjoy simple and easy-to-use interface
         - Work offline without internet connection
-        - Track all your favorite cities
         - Set up notifications for upcoming sunrises, sunsets or golden hours
-
-        <b>Permissions:</b>
-        - <b>Precise location</b>: required in order to be able to find current location
-        - <b>View network connections</b>, <b>Full network access</b>: required in order to be able to add new location and to get current location's name
-        - <b>Run at startup</b>: required in order to able to set notifications on startup.
-        - <b>Prevent phone from sleeping</b>: required in order to deliver the notifications when the screen is off.
+        - Widgets
 
         <b>Tips:</b>
-        - Swipe right-to-left to move between locations
         - Use volume buttons to change date
     </string>
 

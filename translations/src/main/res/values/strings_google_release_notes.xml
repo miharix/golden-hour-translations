@@ -20,4 +20,8 @@
     <string name="bug_fixes">Bug fixes and miscellaneous improvements</string>
     <string name="app_translated_to">App translated to xxx</string>
 
+    <string name="ui">Redesigned interface</string>
+    <string name="timezone_db">Timezone database updates</string>
+    <string name="android_10">Android 10 support</string>
+
 </resources>

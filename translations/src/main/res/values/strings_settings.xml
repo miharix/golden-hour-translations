@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2017 Oleg Kan
+  ~ Copyright (C) 2019 Oleg Kan
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,68 +17,43 @@
 
 <resources>
 
+    <string name="settings_category_general">General settings</string>
+    <string name="settings_general_theme">Theme</string>
     <string name="settings_category_localization">Localization</string>
     <string name="settings_localization_time_format">Time format</string>
     <string name="settings_localization_coordinate_format">Coordinate format</string>
+    <string name="settings_category_locations">Locations</string>
+    <string name="settings_current_location">Current location</string>
     <string name="settings_category_notifications">Notification settings</string>
     <string name="settings_week_start">Start week on</string>
-    <string name="settings_notifications_sound">Sound</string>
-    <string name="settings_notifications_vibrate">Vibrate</string>
-    <string name="settings_notifications_light">Light</string>
     <string name="settings_category_information">Information</string>
     <string name="settings_more_from_developer">More from developer</string>
-    <string name="settings_about">About</string>
+    <string name="settings_rate_this_app">Rate this app</string>
+    <string name="settings_send_feedback">Send feedback</string>
+    <string name="settings_share">Share with Friends</string>
+    <string name="settings_support_this_project">Support this project</string>
     <string name="settings_change_log">Change Log</string>
     <string name="settings_change_log_summary">List of changes included in previous updates</string>
     <string name="settings_info">Info</string>
     <string name="settings_open_source_licenses">Open Source Licenses</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
 
     <!-- entries -->
-    <string name="light_off">Off</string>
-    <string name="light_default">Default</string>
-
-    <string name="notification_tone">Notification tone</string>
-
-    <string name="sound_off">Off</string>
+    <string name="theme_system_default">System default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
 
     <string name="time_format_regional">Regional Settings</string>
     <string name="time_format_hmma">1:00 PM</string>
     <string name="time_format_Hmm">13:00</string>
-
-    <string name="vibrate_off">Off</string>
-    <string name="vibrate_default">Default</string>
-    <string name="vibrate_short">Short</string>
-    <string name="vibrate_long">Long</string>
 
     <string name="week_start_regional">Regional Settings</string>
     <string name="week_start_saturday">Saturday</string>
     <string name="week_start_sunday">Sunday</string>
     <string name="week_start_monday">Monday</string>
 
-    <string name="notify_60_minutes_before">60 minutes before</string>
-    <string name="notify_55_minutes_before">55 minutes before</string>
-    <string name="notify_50_minutes_before">50 minutes before</string>
-    <string name="notify_45_minutes_before">45 minutes before</string>
-    <string name="notify_40_minutes_before">40 minutes before</string>
-    <string name="notify_35_minutes_before">35 minutes before</string>
-    <string name="notify_30_minutes_before">30 minutes before</string>
-    <string name="notify_25_minutes_before">25 minutes before</string>
-    <string name="notify_20_minutes_before">20 minutes before</string>
-    <string name="notify_15_minutes_before">15 minutes before</string>
-    <string name="notify_10_minutes_before">10 minutes before</string>
-    <string name="notify_5_minutes_before">5 minutes before</string>
     <string name="notify_at_time_of_event">At time of event</string>
-    <string name="notify_5_minutes_after">5 minutes after</string>
-    <string name="notify_10_minutes_after">10 minutes after</string>
-    <string name="notify_15_minutes_after">15 minutes after</string>
-    <string name="notify_20_minutes_after">20 minutes after</string>
-    <string name="notify_25_minutes_after">25 minutes after</string>
-    <string name="notify_30_minutes_after">30 minutes after</string>
-    <string name="notify_35_minutes_after">35 minutes after</string>
-    <string name="notify_40_minutes_after">40 minutes after</string>
-    <string name="notify_45_minutes_after">45 minutes after</string>
-    <string name="notify_50_minutes_after">50 minutes after</string>
-    <string name="notify_55_minutes_after">55 minutes after</string>
-    <string name="notify_60_minutes_after">60 minutes after</string>
+    <string name="notify_x_minutes_after">%d minutes after</string>
+    <string name="notify_x_minutes_before">%d minutes before</string>
 
 </resources>
