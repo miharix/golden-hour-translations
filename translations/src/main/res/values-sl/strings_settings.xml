@@ -26,7 +26,7 @@
     <string name="settings_current_location">Trenutna lokacija</string>
     <string name="settings_category_notifications">Nastavitve opomnikov</string>
     <string name="settings_week_start">Teden se začne z</string>
-    <string name="settings_category_information">Razlaga</string>
+    <string name="settings_category_information">Informacije</string>
     <string name="settings_more_from_developer">Razvijalčeve aplikacije</string>
     <string name="settings_rate_this_app">Oceni to aplikacijo</string>
     <string name="settings_send_feedback">Pošlji povratno informacijo</string>
