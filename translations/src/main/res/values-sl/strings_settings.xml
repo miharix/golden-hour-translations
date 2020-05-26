@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2019 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="settings_category_general">Splošne nastavitve</string>
+    <string name="settings_general_theme">Videz</string>
+    <string name="settings_category_localization">Lokalno</string>
+    <string name="settings_localization_time_format">Zapis časa</string>
+    <string name="settings_localization_coordinate_format">Zapis datuma</string>
+    <string name="settings_category_locations">Lokacije</string>
+    <string name="settings_current_location">Trenutna lokacija</string>
+    <string name="settings_category_notifications">Nastavitve opomnikov</string>
+    <string name="settings_week_start">Teden se začne z</string>
+    <string name="settings_category_information">Razlaga</string>
+    <string name="settings_more_from_developer">Razvijalčeve aplikacije</string>
+    <string name="settings_rate_this_app">Oceni to aplikacijo</string>
+    <string name="settings_send_feedback">Pošlji povratno informacijo</string>
+    <string name="settings_share">Deli z prijatelji</string>
+    <string name="settings_support_this_project">Podpri ta projekt</string>
+    <string name="settings_change_log">Log sprememb</string>
+    <string name="settings_change_log_summary">Seznam sprememb vsebovanih v predhodnih posodobitvah</string>
+    <string name="settings_info">Informacije</string>
+    <string name="settings_open_source_licenses">OdprtoKodne Licence</string>
+    <string name="settings_privacy_policy">Izjava o zasebnosti</string>
+
+    <!-- entries -->
+    <string name="theme_system_default">Sistemsko privzeto</string>
+    <string name="theme_light">Svetlo</string>
+    <string name="theme_dark">Temno</string>
+
+    <string name="time_format_regional">Lokalne nastavitve</string>
+    <string name="time_format_hmma">1:00 PM</string>
+    <string name="time_format_Hmm">13:00</string>
+
+    <string name="week_start_regional">Lokalne nastavitve</string>
+    <string name="week_start_saturday">Soboto</string>
+    <string name="week_start_sunday">Nedeljo</string>
+    <string name="week_start_monday">Ponedeljkom</string>
+
+    <string name="notify_at_time_of_event">Ob času dogodka</string>
+    <string name="notify_x_minutes_after">%d minut po</string>
+    <string name="notify_x_minutes_before">%d minut prej</string>
+
+</resources>

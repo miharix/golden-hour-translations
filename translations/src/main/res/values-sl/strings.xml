@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2019 Oleg Kan
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- screens -->
+    <string name="screen_alarm_setting">Opozorilo</string>
+    <string name="screen_alarm_settings">Opozorila</string>
+    <string name="screen_edit_location">Uredi lokacije</string>
+    <string name="screen_locations">Lokacije</string>
+    <string name="screen_notification">Opomnik</string>
+    <string name="screen_notifications">Opomniki</string>
+    <string name="screen_open_source_libraries">OdprtoKodne Knjižnice</string>
+    <string name="screen_search_location">Najdi kraj</string>
+    <string name="screen_select_location">Izberi kraj</string>
+    <string name="screen_settings">Nastavitve</string>
+    <string name="screen_support_this_project">Podpri ta projekt</string>
+
+    <string name="navigation_map">Zemljevid</string>
+    <string name="navigation_notifications">Opomniki</string>
+    <string name="navigation_overview">Pregled</string>
+    <string name="navigation_settings">Nastavitve</string>
+    <string name="navigation_support">Podpora</string>
+
+    <!-- widgets -->
+    <string name="widget_sun_rise_set">Sončni Vzhod &amp; Zahod</string>
+    <string name="widget_sun_table">Tabela</string>
+    <string name="widget_sun_tiles">Ploščice</string>
+
+    <string name="day_phase_golden_hour_description">
+		Zlata ura, v fotografiji (včasih imenovana čarobna ura, predvsem v videografiji) je obdobje takoj za sončnim vzhodom ali sončnim zahodom. Med tem časom je dnevna svetloba rdečkasta ter mehkejša v primerjavi, ko je sonce višje na nebu.
+       \nTermin \"ura\" se uporablja is used v prenesenem pomenu; Učinek nima jasno določenega časa trajanja, ter se spreminja glede na letni čas ter zemljepisno širino.
+    </string>
+    <string name="day_phase_blue_hour_description">
+		Modra Ura, je obdobje mraka vsako jutro ter večer, ko je sonce že precej pod horizontom in preostala indirektna svetloba daje dominantno moder odtenek. Zaradi kvalitete te svelobe, jo imajo radi umetniki, kakor je tudi zelo primerna za fotografiranje nočne razsvetljave.
+    </string>
+    <string name="day_phase_twilight_civil_description">
+		Civilni mrak se prične, ko je središče sonca 6° pod horizontom ter konča ob sončnem vzhodu. Civilni mrak, lahko tudi opišemo kot meja, ko postane ob lepem vremenu dovolj temno, da že lahko jasno razločimo zvezde.
+    </string>
+    <string name="day_phase_twilight_nautical_description">
+		Med navtičnim mrakom je horizont jasno viden a umetna svetloba je potreba, da jasno vidimo zemeljske predmete. Konča se, ko meja med morsko gladino ter horizontom ni več jasno vidna.
+    </string>
+    <string name="day_phase_twilight_astronomical_description">
+		Astronomski mrak se prične, ko je središče sonca 18° pod horizontom ter konča ob sončem vzhodu. Ob jasnem vremenu vstran o svetlobne onesnaženosti, je takrat mogoče izvajati vsa astronomska opazovanja.    
+	</string>
+    <string name="day_phase_info_source">wikipedia</string>
+    <string name="day_phase_info_link">https://en.wikipedia.org/wiki/Twilight</string>
+
+    <string name="current_location">Trenutna lokacija</string>
+    <string name="delete_location_confirmation">Izbrišem kraj?</string>
+    <string name="search_location_hint">Išči po imenu kraja</string>
+
+    <!-- menu -->
+    <string name="action_add">Dodaj</string>
+    <string name="action_delete">Izbriši</string>
+    <string name="action_edit">Uredi</string>
+    <string name="action_edit_location">Uredi kraj</string>
+    <string name="action_info">Info</string>
+    <string name="action_map_default">Privzeto</string>
+    <string name="action_map_satellite">Satelitska</string>
+    <string name="action_map_terrain">Relief</string>
+    <string name="action_save">shrani</string>
+    <string name="action_search">Išči</string>
+    <string name="action_select_date">izberi datum</string>
+    <string name="action_sort">Razvrsti</string>
+
+    <string name="notification_chanel_description">Opomniki</string>
+
+    <!-- share app -->
+    <string name="share_app_message">The Golden Hour App ima par uporabnih funkcij za ugotovitev časa sončnega vzhoda ali sončnega zahoda - najnovejšo verzijo si lahko preneseš iz: \nhttp://play.google.com/store/apps/details?id=com.simplaapliko.goldenhour</string>
+
+    <!-- select date -->
+    <string name="select_date_today">Danes</string>
+
+    <string name="coordinates">lat: %1$s, long: %2$s</string>
+    <string name="coordinates_copied">Koordinate kopirane na odložišče</string>
+    <string name="refresh">Osveži</string>
+
+    <string name="event">Dogodek</string>
+    <string name="every_day">Vsak dan</string>
+    <string name="label_optional">Napis (opcijsko)</string>
+    <string name="select_event">Izberi dogodek</string>
+    <string name="select_location">Izberi kraj</string>
+    <string name="task_setting_incomplete">Kraj, Dogodek ter dnevi tedna ne morejo biti prazni.</string>
+
+    <!-- support this project -->
+    <string name="action_beta_testing">Beta testiranje</string>
+    <string name="action_pro">Golden Hour+</string>
+    <string name="action_support">Podpora</string>
+    <string name="action_translate">Prevedi</string>
+    <string name="beta_program">Pridruži se programu testiranja še ne izdanih različic programa</string>
+    <string name="beta_program_description">Če želite testirati eksperimentalne funkcije te aplikacije, še preden uradno izidejo, se lahko pridružite beta tester progamu.\n
+        Kot beta tester, boste lahko uporabljali funkcije, ki še niso bile omogočene za javnost. Te funkcije bi lahko postale omogočene za javnost šele čez čas. prosimo vas, da v javnost ne objavljate ali delite funkcij, ki jih tesitrate, dokler niso javno omogočene.\n
+        Kot beta tester boste postali pomembni del razvoja aplikacije. Vaše sodelovanje ter povratna informacija nam bo pomagla pri razvoju še boljše aplikacije.\n
+        Vedite, da so testne verzije programa lahko še nestabilne ali imajo par hroščev.</string>
+    <string name="pro_version">Dobi Golden Hour+</string>
+    <string name="pro_version_description">Če ste zadovoljni uporabnik moje aplikacije in bi radi podprli nadalni razvoj, lahko to storite z nakupom Golden Hour+.\n\nGolden Hour+ funkcije:\n\n&#8226; Shrani neomejeno število lokacij\n&#8226; Uredi lokacijo\n&#8226; Napredno iskanje lokacije: po naslovu, opisu, itd.</string>
+    <string name="thanks_to_translators">Zahvala prevajalcem:</string>
+    <string name="translate_to_your_language">Kontaktiraj razvijalca za dodatne informacije</string>
+    <string name="translate_to_your_language_description">Tudi Vi lahko pomagate prevajat to aplikacijo v vaš jezik</string>
+
+    <string name="disable_current_location">Onemogoči trenutno lokacijo</string>
+    <string name="location_service_is_turned_off">Storitev trenutne lokacije je izklopljena</string>
+    <string name="permission_access_fine_location">Dovoljenje za lokacijo, je potrebno za pridobitev trenutne lokacije.</string>
+    <string name="turn_on">Vklopi</string>
+
+    <string name="error_database">Database error</string>
+    <string name="error_http">HTTP error</string>
+    <string name="error_invalid_request">Invalid request</string>
+    <string name="error_invalid_response">Invalid response</string>
+    <string name="error_location_limit_reached">Preveč shranjenih krajev.\nOdstranite že shranjen kraj, če želite dodati drugega.</string>
+    <string name="error_location_not_found">Ne najdem kraja</string>
+    <string name="error_location_service_not_available">Storitev ni navoljo.\nPreverite storitev lokacije.</string>
+    <string name="error_must_have_one_location">Aplikacija mora imeti shranjen vsaj 1 kraj</string>
+    <string name="error_network_connection">Storitev žal ni na voljo.\nPreverite internetno povezavo.</string>
+    <string name="error_over_query_limit">Dosežena meja poizvedb, poizkusite znova kasneje</string>
+    <string name="error_remote_server_connection">Server connection error</string>
+    <string name="error_request_denied">Request denied</string>
+    <string name="error_task_setting_already_exist">Ni bilo shranjeno, ta nastavitev že obstaja</string>
+    <string name="error_zero_results">Brez zadetkov</string>
+    <string name="error_unknown">Neznana napaka</string>
+
+    <string name="alarm_default_title">Opozorilo</string>
+
+    <string name="alarm_dismiss_now_text">Zavrzi tokrat</string>
+    <string name="alarm_dismiss_text">Zavrzi</string>
+    <string name="alarm_snooze_text">Dremaj</string>
+    <string name="alarm_upcoming">Prihajajoče opozorilo</string>
+
+    <!-- sun phases -->
+    <string name="sun_phase_night">Noč</string>
+    <string name="sun_phase_twilight_astronomical">Astronomski mrak</string>
+    <string name="sun_phase_twilight_nautical">Navtični mrak</string>
+    <string name="sun_phase_twilight_civil">Civilni mrak</string>
+    <string name="sun_phase_blue_hour">Modra ura</string>
+    <string name="sun_phase_golden_hour">Zlata ura</string>
+    <string name="sun_phase_twilight_official">Uradni mrak</string>
+    <string name="sun_phase_day">Dan</string>
+    <string name="sun_phase_morning">Jutro</string>
+    <string name="sun_phase_evening">Večer</string>
+
+    <string name="sun_position_sunrise">Sončni vzhod</string>
+    <string name="sun_position_sunset">Sončni zahod</string>
+    <string name="sun_position_duration">Trajanje</string>
+    <string name="sun_position_noon">Opoldne</string>
+
+    <string name="altitude">Višina</string>
+    <string name="azimuth">Azimut</string>
+    <string name="time">Čas</string>
+
+    <string name="country">Država</string>
+    <string name="latitude">Zemljepisna širina</string>
+    <string name="longitude">Zemljepisna dolžina</string>
+    <string name="name">Ime</string>
+
+</resources>
